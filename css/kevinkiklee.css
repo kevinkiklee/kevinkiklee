@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+.portfolio-img {
+  margin-bottom: 25px;
+}
+
 @media only screen and  (max-width: 1200px) {
   .headshot-img {
     width: 250px;
