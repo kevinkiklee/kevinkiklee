@@ -1393,7 +1393,7 @@ section.dec-sec:after {
 	float:left;
 	width:100%;
 	padding:10px 0 10px 13px;
-	list-style:decimal;
+	list-style:circle;
 }
 .custom-inner ul li {
 	float:left;
@@ -3321,12 +3321,12 @@ footer.main-footer {
 }
 }
 @media only screen and  (max-width: 540px) {
-.scroll-nav-holder {
-	display:none;
-}
-.inline-facts , .gallery-item {
-    width:100% !important;
-}
+	.scroll-nav-holder {
+		display:none;
+	}
+	.inline-facts , .gallery-item {
+	    width:100% !important;
+	}
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2) {
 .bg {
