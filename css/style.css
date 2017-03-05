@@ -1308,21 +1308,21 @@ section.dec-sec:after {
 .custom-inner:last-child {
 	margin-bottom:0;
 }
-.resum-header h3 {
+.project-header h3 {
 	float:left;
 	padding-bottom:20px;
 	font-weight:600;
 	font-size:18px;
 	text-align:left;
 }
-.resum-header {
+.project-header {
 	float:left;
 	width:100%;
 	position:relative;
 	padding:30px 10px 30px 70px;
 	background:#f9f9f9;
 }
-.resum-header:after {
+.project-header:after {
     font-family: FontAwesome;
     font-style: normal;
     font-weight: normal;
@@ -1337,13 +1337,13 @@ section.dec-sec:after {
 	-moz-transform:   rotate(45deg);
 	transform:   rotate(45deg);
 }
-.resum-header.educ:after {
+.project-header.educ:after {
 	content: "\f19c";
 }
-.resum-header.workres:after {
+.project-header.workres:after {
 	content: "\f0c3";
 }
-.resum-header:before {
+.project-header:before {
 	content:'';
 	position:absolute;
 	top:50%;
@@ -1353,7 +1353,7 @@ section.dec-sec:after {
 	margin-top:-10px;
 	border-radius:100%;
 }
-.resum-header span {
+.project-header span {
 	font-size:16px;
 	text-transform:uppercase;
 	width:100%;
@@ -1361,7 +1361,7 @@ section.dec-sec:after {
 	text-align:left;
 	float:left;
 }
-.resum-header i {
+.project-header i {
 	width:40px;
 	height:40px;
 	line-height:40px;
@@ -3068,7 +3068,7 @@ article h4 a:hover {
     content: "\f1a4";
 }
 @media only screen and  (max-width: 1392px) {
-.abt-wrap .box-item  , .resum-header , .sl-tabs{
+.abt-wrap .box-item  , .project-header , .sl-tabs{
 	margin-bottom:40px;
 }
 .bold-title {

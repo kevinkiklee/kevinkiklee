@@ -1,7 +1,18 @@
 @charset "utf-8";
 
+.project-header {
+  padding-left: 35px;
+}
+
 .black-font {
   color: black;
+  font-weight: bold !important;
+  font-size: 10px !important;
+}
+.project-link {
+  color: black !important;
+  font-weight: bold !important;
+  font-size: 10px !important;
 }
 
 .portfolio-img {
@@ -15,14 +26,15 @@
 
 .skills {
   margin: 0 auto;
-  width: 80%;
+  width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
 .skills-container {
-  margin-bottom: 20px;
+  padding: 10px;
+  /*margin-bottom: 20px;*/
 }
 
 .skills-container h4 {
@@ -44,6 +56,10 @@
   margin-bottom: 4px;
 }
 
+.skills-wrap p {
+  font-size: 16px;
+}
+
 .skills svg {
   width: 100px;
   padding: 15px;
@@ -53,7 +69,7 @@
   font-weight: bold;
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1400px) {
   .headshot-img {
     width: 250px;
     height: 250px;
