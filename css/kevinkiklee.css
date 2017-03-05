@@ -1,10 +1,22 @@
 @charset "utf-8";
 
+.black-font {
+  color: black;
+}
+
 .portfolio-img {
   margin-bottom: 25px;
 }
 
-.skills {
+.skill-container {
+  width: 100px;
+}
+
+.skill-icon {
+  margin-top: -100px;
+  width: 100px;
+  padding: 15px;
+  height: 100px;
 }
 
 .skills svg {
@@ -12,7 +24,15 @@
   padding: 15px;
 }
 
-@media only screen and  (max-width: 1200px) {
+.skills-wrap p {
+  font-size: 16px;
+}
+
+.workres h3 {
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 1200px) {
   .headshot-img {
     width: 250px;
     height: 250px;
