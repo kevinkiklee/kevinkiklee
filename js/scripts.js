@@ -436,7 +436,7 @@ function initCooper() {
         var a = $(this).attr("action");
         $("#message").slideUp(750, function() {
             $("#message").hide();
-            $("#submit").attr("disabled", "disabled");
+            // $("#submit").attr("disabled", "disabled");
             $.post(a, {
                 name: $("#name").val(),
                 email: $("#email").val(),
