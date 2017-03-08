@@ -71,10 +71,10 @@
 
 .contact-subtitle {
   color: black !important;
-  font-size: 20px;
+  font-size: 16px;
   padding-bottom: 15px;
   text-align: left;
-  width: 80%;
+  width: 100%;
 }
 
 @media only screen and (max-width: 1400px) {
