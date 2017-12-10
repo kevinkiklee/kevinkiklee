@@ -1,0 +1,16 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "browser": true
+  },
+  "globals": {
+    "graphql": true
+  },
+  "rules": {
+    "semi": 0,
+    "jsx-quotes": [2, "prefer-single"],
+    "class-methods-use-this": 0,
+    "react/jsx-filename-extension": 0,
+    "react/prop-types": 0
+  }
+}
