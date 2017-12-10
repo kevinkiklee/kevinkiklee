@@ -8,7 +8,7 @@
       "component": "/Users/klee8/Workspace/kevinkiklee.com/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1512940628171,
+      "updatedAt": 1512940911618,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/Users/klee8/Workspace/kevinkiklee.com/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cbc2f9f7d263f02d0fa44c69f2b4636d",
+        "contentDigest": "f7a0c2b3ea87356bfc32ff74d9e978b3",
         "owner": "internal-data-bridge"
       }
     },
@@ -599,14 +599,12 @@
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
       "buildTime": "2017-12-10T21:17:05.809Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5e6817bf3d28bb8cff2dc8d37236e0d8",
+        "contentDigest": "6a091e4586a085b805dbc940f76caff6",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
