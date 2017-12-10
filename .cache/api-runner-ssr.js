@@ -2,6 +2,12 @@ var plugins = [{
       plugin: require('/Users/klee8/Workspace/kevinkiklee.com/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
+      plugin: require('/Users/klee8/Workspace/kevinkiklee.com/node_modules/gatsby-plugin-styled-components/gatsby-ssr.js'),
+      options: {"plugins":[]},
+    },{
+      plugin: require('/Users/klee8/Workspace/kevinkiklee.com/node_modules/gatsby-plugin-typography/gatsby-ssr.js'),
+      options: {"plugins":[],"pathToConfigModule":"src/utils/typography.js"},
+    },{
       plugin: require('/Users/klee8/Workspace/kevinkiklee.com/gatsby-ssr.js'),
       options: {"plugins":[]},
     }]

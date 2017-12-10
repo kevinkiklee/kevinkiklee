@@ -2,5 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 node_modules
-.vscode
-.cache
+/.vscode
+/.cache
+/public

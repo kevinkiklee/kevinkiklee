@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/klee8/Workspace/kevinkiklee.com/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1512939538984,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/klee8/Workspace/kevinkiklee.com/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "7064c7a946c08b3007d6686d4d2999eb",
         "owner": "internal-data-bridge"
       }
     },
@@ -237,7 +247,9 @@
         "keywords": [
           "gatsby"
         ],
-        "author": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;",
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -271,11 +283,126 @@
         "owner": "internal-data-bridge"
       }
     },
+    "Plugin gatsby-plugin-styled-components": {
+      "resolve": "/Users/klee8/Workspace/kevinkiklee.com/node_modules/gatsby-plugin-styled-components",
+      "id": "Plugin gatsby-plugin-styled-components",
+      "name": "gatsby-plugin-styled-components",
+      "version": "2.0.4",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/klee8/Workspace/kevinkiklee.com/node_modules/gatsby-plugin-styled-components",
+      "packageJson": {
+        "name": "gatsby-plugin-styled-components",
+        "description": "Gatsby plugin to add support for styled components",
+        "version": "2.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "styled-components"
+        ],
+        "author": {
+          "name": "Guten Ye",
+          "email": "ywzhaifei@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "styled-components",
+            "version": ">= 2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a05d317c44340bf4839cd21bfcb6f331",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-typography": {
+      "resolve": "/Users/klee8/Workspace/kevinkiklee.com/node_modules/gatsby-plugin-typography",
+      "id": "Plugin gatsby-plugin-typography",
+      "name": "gatsby-plugin-typography",
+      "version": "1.7.10",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography.js"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "pluginFilepath": "/Users/klee8/Workspace/kevinkiklee.com/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "1.7.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "429ae197966b5f7a149d31b8c4333c52",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "Plugin default-site-plugin": {
       "resolve": "/Users/klee8/Workspace/kevinkiklee.com",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "34a7663d425993823c52ddbc7ffce23d",
+      "version": "f308beabd94c5b7a45a7083964a0558a",
       "pluginOptions": {
         "plugins": []
       },
@@ -303,6 +430,34 @@
           {
             "name": "gatsby-plugin-react-helmet",
             "version": "^1.0.8"
+          },
+          {
+            "name": "gatsby-plugin-styled-components",
+            "version": "^2.0.4"
+          },
+          {
+            "name": "gatsby-plugin-typography",
+            "version": "^1.7.10"
+          },
+          {
+            "name": "styled-components",
+            "version": "^2.2.4"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.6"
+          },
+          {
+            "name": "typography-plugin-code",
+            "version": "^0.16.11"
+          },
+          {
+            "name": "typography-theme-lawton",
+            "version": "^0.15.10"
+          },
+          {
+            "name": "typography-theme-sutro",
+            "version": "^0.15.10"
           }
         ],
         "devDependencies": [
@@ -318,23 +473,25 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "23440379d4f2bfd89118831486a036ae",
+        "contentDigest": "82cc0965733937e0aa2309747cda6177",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Default Starter"
+        "title": "kevinkiklee"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-10T19:18:38.468Z",
+      "buildTime": "2017-12-10T20:58:57.381Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1f3e5a31ec5a24e353c19faf9513a4d7",
+        "contentDigest": "49117c696d887d771c3d92aa19725a1c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -347,7 +504,7 @@
       "component": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512933519854,
+      "updatedAt": 1512939538990,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/404.js",
@@ -356,7 +513,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "02b0d575fa042f8a92bb65fefccd15d7",
+        "contentDigest": "ae4c5c7a1fcf4e337e41e945682b7db7",
         "owner": "internal-data-bridge"
       }
     },
@@ -368,7 +525,7 @@
       "component": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1512933519857,
+      "updatedAt": 1512939538991,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/index.js",
@@ -377,28 +534,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a347744caeb8b157e604d891d1a942f8",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /page-2/": {
-      "layout": "index",
-      "jsonName": "page-2.json",
-      "internalComponentName": "ComponentPage2",
-      "path": "/page-2/",
-      "component": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "context": {},
-      "updatedAt": 1512933519859,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9a6fdb8f2b84b6c8c8052f1a47254412",
+        "contentDigest": "8fb0a214d4f1fa4c738845ed6b88bcee",
         "owner": "internal-data-bridge"
       }
     },
@@ -410,7 +546,7 @@
       "component": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512933519863,
+      "updatedAt": 1512939538993,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/404.js",
@@ -419,14 +555,14 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bc322cd7e2cf8e1a5a18229c42013aff",
+        "contentDigest": "63c6e17797a9ce6d0fab19f39305adef",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "ebd188731d17035659e94a249ef112da"
+    "PLUGINS_HASH": "df8a5071c2f056bcb5e139d14fd72904"
   },
   "componentDataDependencies": {
     "nodes": {},

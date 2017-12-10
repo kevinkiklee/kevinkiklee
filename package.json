@@ -7,7 +7,13 @@
     "gatsby": "^1.9.127",
     "gatsby-link": "^1.6.30",
     "gatsby-plugin-react-helmet": "^1.0.8",
-    "gatsby-plugin-typography": "^1.7.10"
+    "gatsby-plugin-styled-components": "^2.0.4",
+    "gatsby-plugin-typography": "^1.7.10",
+    "styled-components": "^2.2.4",
+    "typography": "^0.16.6",
+    "typography-plugin-code": "^0.16.11",
+    "typography-theme-lawton": "^0.15.10",
+    "typography-theme-sutro": "^0.15.10"
   },
   "keywords": [
     "gatsby"
@@ -18,7 +24,8 @@
     "build": "gatsby build",
     "dev": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm run build && surge public"
   },
   "devDependencies": {
     "prettier": "^1.8.2"

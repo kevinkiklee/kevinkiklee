@@ -1,4 +1,7 @@
 var plugins = [{
+      plugin: require('/Users/klee8/Workspace/kevinkiklee.com/node_modules/gatsby-plugin-typography/gatsby-browser.js'),
+      options: {"plugins":[],"pathToConfigModule":"src/utils/typography.js"},
+    },{
       plugin: require('/Users/klee8/Workspace/kevinkiklee.com/gatsby-browser.js'),
       options: {"plugins":[]},
     }]
