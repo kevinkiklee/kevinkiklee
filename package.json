@@ -27,7 +27,7 @@
     "dev": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "publish": "npm run build && surge public"
+    "publish": "npm run build && surge public https://kevinkiklee.com"
   },
   "devDependencies": {
     "eslint": "^4.13.0",
