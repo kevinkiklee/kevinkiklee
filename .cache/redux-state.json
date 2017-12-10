@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/klee8/Workspace/kevinkiklee.com/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "updatedAt": 1512932674377,
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/klee8/Workspace/kevinkiklee.com/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5d172b31c5d187219c8471ddb9549842",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -337,16 +327,14 @@
       "siteMetadata": {
         "title": "Gatsby Default Starter"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2017-12-10T19:04:31.633Z",
+      "buildTime": "2017-12-10T19:18:38.468Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8548dd12c257534ff989dec7f6fe0439",
+        "contentDigest": "1f3e5a31ec5a24e353c19faf9513a4d7",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -359,7 +347,7 @@
       "component": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512932674383,
+      "updatedAt": 1512933519854,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/404.js",
@@ -368,7 +356,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "36155b3471e93ce604e3f9c5923cf086",
+        "contentDigest": "02b0d575fa042f8a92bb65fefccd15d7",
         "owner": "internal-data-bridge"
       }
     },
@@ -380,7 +368,7 @@
       "component": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1512932674384,
+      "updatedAt": 1512933519857,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/index.js",
@@ -389,7 +377,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "adf0a11c0543ea5f8853643035d9fffd",
+        "contentDigest": "a347744caeb8b157e604d891d1a942f8",
         "owner": "internal-data-bridge"
       }
     },
@@ -401,7 +389,7 @@
       "component": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1512932674384,
+      "updatedAt": 1512933519859,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/page-2.js",
@@ -410,7 +398,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f31d921944d893ef192d4d333d751cbd",
+        "contentDigest": "9a6fdb8f2b84b6c8c8052f1a47254412",
         "owner": "internal-data-bridge"
       }
     },
@@ -422,7 +410,7 @@
       "component": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1512932674386,
+      "updatedAt": 1512933519863,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "/Users/klee8/Workspace/kevinkiklee.com/src/pages/404.js",
@@ -431,7 +419,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "886ed2ac8b5ab1492284c31492ae206c",
+        "contentDigest": "bc322cd7e2cf8e1a5a18229c42013aff",
         "owner": "internal-data-bridge"
       }
     }
