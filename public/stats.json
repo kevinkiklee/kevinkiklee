@@ -1,68 +1,72 @@
 {
   "assetsByChunkName": {
     "path---": [
-      "path----6611940bd40871b680a6.js",
-      "path----6611940bd40871b680a6.js.map"
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
     ],
     "path---categories-ramble": [
-      "path---categories-ramble-b9cde5a619c478c7743a.js",
-      "path---categories-ramble-b9cde5a619c478c7743a.js.map"
+      "path---categories-ramble-ad90221d8d535e824a10.js",
+      "path---categories-ramble-ad90221d8d535e824a10.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-a94e0b634ce7da895926.js",
-      "component---src-layouts-index-jsx-a94e0b634ce7da895926.js.map"
+      "component---src-layouts-index-jsx-a494c0b91bdb9d604267.js",
+      "component---src-layouts-index-jsx-a494c0b91bdb9d604267.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-category-jsx": [
-      "component---src-templates-category-jsx-3a50fee79b9519c47f96.js",
-      "component---src-templates-category-jsx-3a50fee79b9519c47f96.js.map"
+      "component---src-templates-category-jsx-fa08c81cd26b10e01aae.js",
+      "component---src-templates-category-jsx-fa08c81cd26b10e01aae.js.map"
     ],
     "path---index": [
-      "path---index-1085a40d1ba183e0f899.js",
-      "path---index-1085a40d1ba183e0f899.js.map"
+      "path---index-9bfa55bfd45bb07ebabc.js",
+      "path---index-9bfa55bfd45bb07ebabc.js.map"
     ],
     "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-ef72d722556d14924b84.js",
-      "component---src-pages-about-jsx-ef72d722556d14924b84.js.map"
+      "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
+      "component---src-pages-about-jsx-16dca089dee574aef9ce.js.map"
     ],
     "commons": [
-      "commons-a59be09dd4fc8c46bcbe.js",
-      "commons-a59be09dd4fc8c46bcbe.js.map"
+      "commons-bb52411442e16b3ad3ba.js",
+      "build-js-styles.css",
+      "commons-bb52411442e16b3ad3ba.js.map",
+      "build-js-styles.css.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js",
       "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
-      "path---offline-plugin-app-shell-fallback-586c7e095e534a3909ec.js",
-      "path---offline-plugin-app-shell-fallback-586c7e095e534a3909ec.js.map"
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-templates-post-jsx": [
-      "component---src-templates-post-jsx-3f0ca86e09b8777525fa.js",
-      "component---src-templates-post-jsx-3f0ca86e09b8777525fa.js.map"
+      "component---src-templates-post-jsx-d8d12dcfad5e058f4aed.js",
+      "component---src-templates-post-jsx-d8d12dcfad5e058f4aed.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-cb83da5746d9129c5bb8.js",
-      "component---src-pages-index-jsx-cb83da5746d9129c5bb8.js.map"
+      "component---src-pages-index-jsx-d8b498fa895de2acb143.js",
+      "component---src-pages-index-jsx-d8b498fa895de2acb143.js.map"
     ],
     "path---i-have-no-idea-what-i-am-doing": [
-      "path---i-have-no-idea-what-i-am-doing-f4ff246912fea54daa95.js",
-      "path---i-have-no-idea-what-i-am-doing-f4ff246912fea54daa95.js.map"
+      "path---i-have-no-idea-what-i-am-doing-0788a8ae0da5031ed15c.js",
+      "path---i-have-no-idea-what-i-am-doing-0788a8ae0da5031ed15c.js.map"
     ],
     "app": [
-      "app-da26460f09b8893f9126.js",
-      "app-da26460f09b8893f9126.js.map"
+      "app-0b84ffe7ed7ec392b6ce.js",
+      "build-js-styles.css",
+      "app-0b84ffe7ed7ec392b6ce.js.map",
+      "build-js-styles.css.map"
     ],
     "path---tags-rambletag": [
-      "path---tags-rambletag-db762b81008cdc63ee41.js",
-      "path---tags-rambletag-db762b81008cdc63ee41.js.map"
+      "path---tags-rambletag-88746f1a7c7df6da4d39.js",
+      "path---tags-rambletag-88746f1a7c7df6da4d39.js.map"
     ],
     "path---about": [
-      "path---about-586c7e095e534a3909ec.js",
-      "path---about-586c7e095e534a3909ec.js.map"
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }

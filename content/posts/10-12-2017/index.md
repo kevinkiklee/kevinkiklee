@@ -6,8 +6,9 @@ category: "ramble"
 tags:
     - rambletag
 ---
-# i have no idea what i am doing
 
 ```ruby
 p rand() > 0.99 ? 'i am a god' : 'i have no idea what i am doing'
 ```
+
+i have no idea what i am doing

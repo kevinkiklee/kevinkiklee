@@ -1,0 +1,2 @@
+webpackJsonp([62637545940290],{338:function(a,e){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/i-have-no-idea-what-i-am-doing"},excerpt:"i have no idea what i am doing",timeToRead:1,frontmatter:{title:"i have no idea what i am doing",tags:["rambletag"],cover:"https://unsplash.it/1152/300/?random?BirchintheRoses",date:"12/10/2017"}}}]}},pathContext:{category:"ramble"}}}});
+//# sourceMappingURL=path---categories-ramble-ad90221d8d535e824a10.js.map
