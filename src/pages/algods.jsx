@@ -3,10 +3,10 @@ import Helmet from 'react-helmet'
 import About from '../components/About/About'
 import config from '../../data/SiteConfig'
 
-class AboutPage extends Component {
+class AlgoDsPage extends Component {
   render() {
     return (
-      <div className='about-container'>
+      <div className='algods-page-container'>
         <Helmet title={`About | ${config.siteTitle}`} />
         Algorithms & Data Structures
         <About />
@@ -15,4 +15,4 @@ class AboutPage extends Component {
   }
 }
 
-export default AboutPage
+export default AlgoDsPage

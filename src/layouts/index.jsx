@@ -18,14 +18,16 @@ export default class MainLayout extends React.Component {
     let title = ''
     if (currentPath === '') {
       title = 'Home'
-    } else if (currentPath === 'tags/') {
-      title = 'Tags'
-    } else if (currentPath === 'categories/') {
-      title = 'Categories'
+    } else if (currentPath === 'algods/') {
+      title = 'Algorithms & Data Structures'
+    } else if (currentPath === 'code/') {
+      title = 'Coding Musings'
+    } else if (currentPath === 'random/') {
+      title = 'Random Ramblings'
     } else if (currentPath === 'about/') {
-      title = 'About'
+      title = 'About Kevin'
     } else if (currentPath.includes('posts')) {
-      title = 'Article'
+      title = 'Post'
     } else if (currentPath.includes('tags/')) {
       const tag = currentPath
         .replace('tags/', '')

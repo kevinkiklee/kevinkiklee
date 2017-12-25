@@ -3,15 +3,16 @@ import Helmet from 'react-helmet'
 import About from '../components/About/About'
 import config from '../../data/SiteConfig'
 
-class AboutPage extends Component {
+class RandomPage extends Component {
   render() {
     return (
-      <div className='about-page-container'>
-        <Helmet title={`About | ${config.siteTitle}`} />
+      <div className='random-page-container'>
+        <Helmet title={`Random Ramblings | ${config.siteTitle}`} />
+        Random Ramblings
         <About />
       </div>
     )
   }
 }
 
-export default AboutPage
+export default RandomPage

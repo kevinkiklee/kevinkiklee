@@ -28,22 +28,24 @@ class Header extends Component {
                 Data Structures
               </p>
             </Link>
-            <Link to='/blog'>
+            <Link to='/code'>
               <p className='header__link'>
                 Coding<br />
                 Thoughts
               </p>
             </Link>
-            <Link to='/'>
+            <Link to='/random'>
               <p className='header__link'>
                 Random<br />
                 Ramblings
               </p>
             </Link>
-            <p className='header__link'>
-              About<br />
-              Kevin
-            </p>
+            <Link to='/about'>
+              <p className='header__link'>
+                About<br />
+                Kevin
+              </p>
+            </Link>
           </div>
         </div>
       </div>
