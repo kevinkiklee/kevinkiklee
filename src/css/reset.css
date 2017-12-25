@@ -14,11 +14,12 @@ body, img {
   margin: 0;
   padding: 0;
   background-color: #fafafa;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 li {
   list-style: square;
+  margin-bottom: 0.2rem;
 }
 
 a {
