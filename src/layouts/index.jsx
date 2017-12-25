@@ -2,6 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import config from '../../data/SiteConfig'
 import Header from '../components/Header/Header'
+import Footer from '../components/Footer/Footer'
 import '../css/reset.css'
 import '../css/typography.css'
 import './index.css'
@@ -21,7 +22,7 @@ export default class MainLayout extends React.Component {
     } else if (currentPath === 'algods/') {
       title = 'Algorithms & Data Structures'
     } else if (currentPath === 'code/') {
-      title = 'Coding Musings'
+      title = 'Coding Thoughts'
     } else if (currentPath === 'random/') {
       title = 'Random Ramblings'
     } else if (currentPath === 'about/') {
@@ -55,6 +56,7 @@ export default class MainLayout extends React.Component {
         <div className='children-container'>
           {children()}
         </div>
+        <Footer />
       </div>
     )
   }
