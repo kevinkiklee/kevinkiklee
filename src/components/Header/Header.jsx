@@ -6,7 +6,7 @@ import './Header.css'
 class Header extends Component {
   render() {
     return (
-      <div className='header-container'>
+      <header className='header-container'>
         <div className='header'>
           <Link to='/'>
             <div className='header__left'>
@@ -48,7 +48,7 @@ class Header extends Component {
             </Link>
           </div>
         </div>
-      </div>
+      </header>
     )
   }
 }

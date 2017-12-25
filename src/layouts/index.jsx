@@ -47,17 +47,19 @@ export default class MainLayout extends React.Component {
   render() {
     const { children } = this.props
     return (
-      <div className='page-container'>
+      <app className='app-container'>
         <Helmet>
           <title>{`${config.siteTitle} |  ${this.getLocalTitle()}`}</title>
           <meta name='description' content={config.siteDescription} />
         </Helmet>
         <Header />
-        <div className='children-container'>
+        <main className='main-container'>
           {children()}
-        </div>
-        <Footer />
-      </div>
+        </main>
+        <footer className='footer-container'>
+          <Footer />
+        </footer>
+      </app>
     )
   }
 }
