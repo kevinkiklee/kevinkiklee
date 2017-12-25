@@ -5,17 +5,17 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 75px;
   z-index: 1;
+  height: 75px;
+  display: flex;
+  justify-content: center;
   color: #364149;
   background: #ffffff;
   border-bottom: 1px solid #e1e1e1;
-  display: flex;
-  justify-content: center;
 }
 
 .header {
-  max-width: 835px;
+  max-width: 830px;
   width: 100%;
   display: flex;
   padding: 10px;
@@ -40,7 +40,7 @@
 }
 
 .header__site-title {
-  margin-top: 2px;
+  margin-top: 3px;
   margin-bottom: 0px;
   padding-left: 13px;
   line-height: 1.2;
