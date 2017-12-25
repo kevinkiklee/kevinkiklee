@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Helmet from 'react-helmet'
-import About from '../components/About/About'
 import config from '../../data/SiteConfig'
 
 class AboutPage extends Component {
@@ -8,7 +7,6 @@ class AboutPage extends Component {
     return (
       <div className='about-page-container'>
         <Helmet title={`About | ${config.siteTitle}`} />
-        <About />
       </div>
     )
   }

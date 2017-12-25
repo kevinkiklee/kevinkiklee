@@ -12,9 +12,9 @@ class Index extends React.Component {
         <Helmet title={config.siteTitle} />
         <SEO postEdges={postEdges} />
         <h1>Algorithms & Data Structures</h1>
-        <h1>Coding Thoughts</h1>
+        <h1>Rambles</h1>
         <PostListing postEdges={postEdges} />
-        <h1>Random Ramblings</h1>
+        <h1>Memes</h1>
       </div>
     )
   }

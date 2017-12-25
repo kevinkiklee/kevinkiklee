@@ -23,10 +23,10 @@ export default class MainLayout extends React.Component {
       title = 'Home'
     } else if (currentPath === 'algods/') {
       title = 'Algorithms & Data Structures'
-    } else if (currentPath === 'code/') {
-      title = 'Coding Thoughts'
-    } else if (currentPath === 'random/') {
-      title = 'Random Ramblings'
+    } else if (currentPath === 'rambles/') {
+      title = 'Coding Rambles'
+    } else if (currentPath === 'memes/') {
+      title = 'Coder Memes'
     } else if (currentPath === 'about/') {
       title = 'About Kevin'
     } else if (currentPath.includes('posts')) {
