@@ -2,7 +2,7 @@ module.exports = {
   blogPostDir: 'posts', // The name of directory that contains your posts.
   siteTitle: 'kevinkiklee', // Site title.
   siteTitleAlt: 'kevinkiklee', // Alternative site title for SEO.
-  siteLogo: '/logos/logo-1024.png', // Logo used for SEO and manifest.
+  siteLogo: '/logos/logo.png', // Logo used for SEO and manifest.
   siteUrl: 'https://kevinkiklee.com', // Domain of your website without pathPrefix.
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: 'i have no idea what i am doing', // Website description used for RSS feeds/meta description tag.
@@ -40,7 +40,7 @@ module.exports = {
       iconClassName: 'fa fa-envelope',
     },
   ],
-  copyright: 'Copyright © 2017', // Copyright string for the footer of the website and RSS feed.
+  copyright: 'Copyright © 2018', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#c62828', // Used for setting manifest and progress theme colors.
-  backgroundColor: '#e0e0e0', // Used for setting manifest background color.
+  backgroundColor: '#fafafa', // Used for setting manifest background color.
 };
