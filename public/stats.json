@@ -1,68 +1,96 @@
 {
   "assetsByChunkName": {
+    "path---random": [
+      "path---random-a0e39f21c11f6a62c5ab.js",
+      "path---random-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-random-jsx": [
+      "component---src-pages-random-jsx-c7ae9dd693c44370d8af.js",
+      "component---src-pages-random-jsx-c7ae9dd693c44370d8af.js.map"
+    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---categories-ramble": [
-      "path---categories-ramble-dcf0230a63b8fc5f9caf.js",
-      "path---categories-ramble-dcf0230a63b8fc5f9caf.js.map"
+      "path---categories-ramble-5d4cd6c473f53ac06536.js",
+      "path---categories-ramble-5d4cd6c473f53ac06536.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-11c42b2da23cf053032d.js",
-      "component---src-layouts-index-jsx-11c42b2da23cf053032d.js.map"
+      "component---src-layouts-index-jsx-caf295f174b9cbdcaf20.js",
+      "component---src-layouts-index-jsx-caf295f174b9cbdcaf20.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-category-jsx": [
-      "component---src-templates-category-jsx-fa08c81cd26b10e01aae.js",
-      "component---src-templates-category-jsx-fa08c81cd26b10e01aae.js.map"
+      "component---src-templates-category-jsx-f09811a5a3cdfdf354e3.js",
+      "component---src-templates-category-jsx-f09811a5a3cdfdf354e3.js.map"
     ],
     "path---index": [
-      "path---index-27319b2b8d0a8fcf7fde.js",
-      "path---index-27319b2b8d0a8fcf7fde.js.map"
+      "path---index-232ff2f293a38a3891f6.js",
+      "path---index-232ff2f293a38a3891f6.js.map"
+    ],
+    "path---algods": [
+      "path---algods-a0e39f21c11f6a62c5ab.js",
+      "path---algods-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-16dca089dee574aef9ce.js",
-      "component---src-pages-about-jsx-16dca089dee574aef9ce.js.map"
+      "component---src-pages-about-jsx-94e23612ea097c7835ae.js",
+      "component---src-pages-about-jsx-94e23612ea097c7835ae.js.map"
+    ],
+    "path---code": [
+      "path---code-a0e39f21c11f6a62c5ab.js",
+      "path---code-a0e39f21c11f6a62c5ab.js.map"
     ],
     "commons": [
-      "commons-80b93e10c4a7ac9edef4.js",
+      "commons-e7c3a9ac7682e7740593.js",
       "build-js-styles.css",
-      "commons-80b93e10c4a7ac9edef4.js.map",
+      "commons-e7c3a9ac7682e7740593.js.map",
       "build-js-styles.css.map"
     ],
+    "path---i-still-have-no-idea-what-i-am-doing": [
+      "path---i-still-have-no-idea-what-i-am-doing-453dff4c2d579fcb6979.js",
+      "path---i-still-have-no-idea-what-i-am-doing-453dff4c2d579fcb6979.js.map"
+    ],
     "component---src-templates-tag-jsx": [
-      "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js",
-      "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js.map"
+      "component---src-templates-tag-jsx-ee0a2bcbbe1e5379f856.js",
+      "component---src-templates-tag-jsx-ee0a2bcbbe1e5379f856.js.map"
+    ],
+    "component---src-pages-code-jsx": [
+      "component---src-pages-code-jsx-b64b348e70b6026fcabf.js",
+      "component---src-pages-code-jsx-b64b348e70b6026fcabf.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-templates-post-jsx": [
-      "component---src-templates-post-jsx-facf1e9e914069d1b1e8.js",
-      "component---src-templates-post-jsx-facf1e9e914069d1b1e8.js.map"
+      "component---src-templates-post-jsx-e1af24bdd0f2d3af9a70.js",
+      "component---src-templates-post-jsx-e1af24bdd0f2d3af9a70.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-d8b498fa895de2acb143.js",
-      "component---src-pages-index-jsx-d8b498fa895de2acb143.js.map"
+      "component---src-pages-index-jsx-e4012d3b14b56f344067.js",
+      "component---src-pages-index-jsx-e4012d3b14b56f344067.js.map"
     ],
     "path---i-have-no-idea-what-i-am-doing": [
-      "path---i-have-no-idea-what-i-am-doing-c8345b3a7b2b5797a0be.js",
-      "path---i-have-no-idea-what-i-am-doing-c8345b3a7b2b5797a0be.js.map"
+      "path---i-have-no-idea-what-i-am-doing-1efd4a6ce24a06d8f187.js",
+      "path---i-have-no-idea-what-i-am-doing-1efd4a6ce24a06d8f187.js.map"
     ],
     "app": [
-      "app-cabaeeaed2883f1d04e9.js",
+      "app-84b1c20970684c3976c2.js",
       "build-js-styles.css",
-      "app-cabaeeaed2883f1d04e9.js.map",
+      "app-84b1c20970684c3976c2.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-rambletag": [
-      "path---tags-rambletag-9c02e46360073f313ef9.js",
-      "path---tags-rambletag-9c02e46360073f313ef9.js.map"
+      "path---tags-rambletag-6aea1d8cfc5415725436.js",
+      "path---tags-rambletag-6aea1d8cfc5415725436.js.map"
+    ],
+    "component---src-pages-algods-jsx": [
+      "component---src-pages-algods-jsx-66f672b576c047bd1272.js",
+      "component---src-pages-algods-jsx-66f672b576c047bd1272.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
