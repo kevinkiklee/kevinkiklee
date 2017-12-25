@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+}
+
+html {
+  height: 100%;
+}
+
+body, img {
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+  font-size: 1.1rem;
+}
+
+li {
+  list-style: square;
+}
+
+a {
+  box-shadow: none;
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.children-container {
+  margin-top: 75px;
+}
