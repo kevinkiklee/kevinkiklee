@@ -6,7 +6,9 @@ import Helmet from 'react-helmet';
 // import SocialLinks from '../components/SocialLinks/SocialLinks';
 import SEO from '../components/SEO/SEO';
 import config from '../../data/SiteConfig';
-import './b16-tomorrow-dark.css';
+import './syntaxThemes/prism-okaidia.css';
+// import './syntaxThemes/b16-tomorrow-dark.css';
+// import './syntaxThemes/prism.css';
 import './post.css';
 
 export default class PostTemplate extends React.Component {
