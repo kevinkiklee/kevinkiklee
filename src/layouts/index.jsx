@@ -12,11 +12,13 @@ export default class MainLayout extends React.Component {
     function capitalize(string) {
       return string.charAt(0).toUpperCase() + string.slice(1)
     }
+
+    let title = ''
     const pathPrefix = config.pathPrefix ? config.pathPrefix : '/'
     const currentPath = this.props.location.pathname
       .replace(pathPrefix, '')
       .replace('/', '')
-    let title = ''
+
     if (currentPath === '') {
       title = 'Home'
     } else if (currentPath === 'algods/') {
@@ -42,10 +44,13 @@ export default class MainLayout extends React.Component {
         .replace('-', ' ')
       title = `${capitalize(category)}`
     }
+
     return title
   }
+
   render() {
     const { children } = this.props
+
     return (
       <app className='app-container'>
         <Helmet>
@@ -54,7 +59,9 @@ export default class MainLayout extends React.Component {
         </Helmet>
         <Header />
         <main className='main-container'>
-          {children()}
+          <section className='page-container'>
+            {children()}
+          </section>
         </main>
         <footer className='footer-container'>
           <Footer />
