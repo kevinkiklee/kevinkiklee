@@ -1,0 +1,57 @@
+/* HEADER GENERAL */
+
+.header-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 75px;
+  z-index: 1;
+  color: #364149;
+  background: #ffffff;
+  border-bottom: 1px solid #e1e1e1;
+  display: flex;
+  justify-content: center;
+}
+
+.header {
+  max-width: 835px;
+  width: 100%;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header p {
+  margin: 0;
+}
+
+.header__left,
+.header__right {
+  display: flex;
+  align-items: center;;
+}
+
+/* HEADER SITE INFO */
+
+.header__site-logo {
+  height: 50px;
+}
+
+.header__site-title {
+  margin-top: 2px;
+  margin-bottom: 0px;
+  padding-left: 13px;
+  line-height: 1.2;
+  font-size: 19px;
+}
+
+/* HEADER LINKS */
+
+.header__link {
+  font-size: 15px;
+  padding-left: 40px;
+  line-height: 1.5;
+  text-align: center;
+}
