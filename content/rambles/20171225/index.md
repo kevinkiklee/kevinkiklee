@@ -1,77 +1,19 @@
 ---
-title: "i have no idea what i am doing"
+title: "i still have no idea what i am doing"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 date: "12/10/2017"
-category: "ramble"
+category: "rambles"
 tags:
-    - rambletag
+    - test
+		- react
+		- javascript
 ---
 
 ```ruby
 p rand() > 0.99 ? 'i am a god' : 'i have no idea what i am doing'
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et purus quis tortor malesuada fringilla. Curabitur sed metus et enim suscipit viverra et sit amet erat. Suspendisse molestie, nibh at facilisis commodo, neque eros auctor `sapien` magna, vel hendrerit dui purus eget sapien. Phasellus vel elit non turpis vel ullamcorper egestas. `p rand() > 0.99 ? 'i am a god' : 'i have no idea what i am doing'`.  In imperdiet sit amet risus ac faucibus. Curabitur sit amet mattis massa, non tristique nunc. Donec scelerisque sollicitudin nisl, ut semper leo condimentum ac. Donec ullamcorper orci nulla, eget pharetra nisl fermentum eget.
-
-# Mattis massa non tristique
-
-Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
-
-```js
-exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
-  const { createNodeField } = boundActionCreators
-  let slug
-
-  if (node.internal.type === 'MarkdownRemark') {
-    const fileNode = getNode(node.parent)
-    const parsedFilePath = path.parse(fileNode.relativePath)
-
-    if (
-      Object.prototype.hasOwnProperty.call(node, 'frontmatter') &&
-      Object.prototype.hasOwnProperty.call(node.frontmatter, 'slug')
-    ) {
-      slug = `/${_.kebabCase(node.frontmatter.slug)}`
-    }
-
-    if (
-      Object.prototype.hasOwnProperty.call(node, 'frontmatter') &&
-      Object.prototype.hasOwnProperty.call(node.frontmatter, 'title')
-    ) {
-      slug = `/${_.kebabCase(node.frontmatter.title)}`
-    } else if (parsedFilePath.name !== 'index' && parsedFilePath.dir !== '') {
-      slug = `/${parsedFilePath.dir}/${parsedFilePath.name}/`
-    } else if (parsedFilePath.dir === '') {
-      slug = `/${parsedFilePath.name}/`
-    } else {
-      slug = `/${parsedFilePath.dir}/`
-    }
-
-    createNodeField({ node, name: 'slug', value: slug })
-  }
-}
-```
-
-## Nunc donec scelerisque sollicitudin
-
-Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
-
-### Nisl ut semper leo condimentum ac Donec
-
-Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
-
-#### Allamcorper orci nulla eget
-
-Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
-
-##### pharetra nisl fermentum eget
-
-Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
-
-###### enim suscipit viverra et sit amet erat
-
-Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
-
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et purus quis tortor malesuada fringilla. Curabitur sed metus et enim suscipit viverra et sit amet erat. Suspendisse molestie, nibh at facilisis commodo, neque eros auctor sapien magna, vel hendrerit dui purus eget sapien. Phasellus vel elit non turpis vel ullamcorper egestas. `p rand() > 0.99 ? 'i am a god' : 'i have no idea what i am doing'`.  In imperdiet sit amet risus ac faucibus. Curabitur sit amet mattis massa, non tristique nunc. Donec scelerisque sollicitudin nisl, ut semper leo condimentum ac. Donec ullamcorper orci nulla, eget pharetra nisl fermentum eget.
 
 * Pharetra nisl fermentum eget.
 * Quisque quis fringilla

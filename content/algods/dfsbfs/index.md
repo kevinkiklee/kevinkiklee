@@ -2,9 +2,11 @@
 title: "Depth-First & Breadth-First Tree Search"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 date: "12/10/2017"
-category: "dsalgo"
+category: "algods"
 tags:
-    - algorithm
+		- algorithm
+		- tree
+		- search
 ---
 
 ```ruby

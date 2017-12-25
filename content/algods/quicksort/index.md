@@ -2,9 +2,10 @@
 title: "Quicksort"
 cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
 date: "12/10/2017"
-category: "dsalgo"
+category: "algods"
 tags:
-    - algorithm
+    - sort
+		- algorithm
 ---
 
 ```ruby
