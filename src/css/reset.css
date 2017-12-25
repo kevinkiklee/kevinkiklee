@@ -13,7 +13,6 @@ html {
 body, img {
   margin: 0;
   padding: 0;
-  background-color: #fafafa;
   font-size: 1rem;
 }
 
@@ -24,13 +23,4 @@ li {
 
 a {
   box-shadow: none;
-}
-
-.page-container {
-  display: flex;
-  flex-direction: column;
-}
-
-.children-container {
-  margin-top: 75px;
 }

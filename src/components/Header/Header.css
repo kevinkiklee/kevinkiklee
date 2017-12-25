@@ -15,7 +15,7 @@
 }
 
 .header {
-  max-width: 830px;
+  max-width: 825px;
   width: 100%;
   display: flex;
   padding: 10px;
@@ -40,7 +40,7 @@
 }
 
 .header__site-title {
-  margin-top: 3px;
+  margin-top: 0px;
   margin-bottom: 0px;
   padding-left: 13px;
   line-height: 1.2;

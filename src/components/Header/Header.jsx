@@ -15,10 +15,10 @@ class Header extends Component {
                 src={SiteLogo}
                 alt='Kevin K. Lee site logo'
               />
-              <p className='header__site-title'>
+              <h1 className='header__site-title'>
                 i have no idea<br />
                 what i am doing
-              </p>
+              </h1>
             </div>
           </Link>
           <div className='header__right'>
