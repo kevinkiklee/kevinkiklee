@@ -29,28 +29,30 @@ class PostList extends React.Component {
   render() {
     const postList = this.getPostList()
 
+    const buildPostLink = post => (
+      <Link
+        to={post.path}
+        key={post.title}
+        className='post-list__post'
+      >
+        {post.icon &&
+          <img
+            className='post-list__post__icon'
+            src={`${post.icon}`}
+            alt={`${post.title}`}
+          />
+        }
+        <div className='post-list__post__description'>
+          <h3>{post.title}</h3>
+          <p className='post-list__post__excerpt'>
+            {post.excerpt}
+          </p>
+        </div>
+      </Link>
+    )
+
     const buildPostColumn = (columns, post) => {
-      const postLink = (
-        <Link
-          to={post.path}
-          key={post.title}
-          className='post-list'
-        >
-          {post.icon &&
-            <img
-              className='post-list__post-icon'
-              src={`${post.icon}`}
-              alt={`${post.title}`}
-            />
-          }
-          <div className='post-list__description'>
-            <h3>{post.title}</h3>
-            <p className='post-list__excerpt'>
-              {post.excerpt}
-            </p>
-          </div>
-        </Link>
-      )
+      const postLink = buildPostLink(post)
 
       if ((columns[0].length + columns[1].length) % 2 === 0) {
         columns[0].push(postLink)
@@ -74,27 +76,7 @@ class PostList extends React.Component {
         </div>
       ) : (
         <div className='post-list'>
-          {postList.map(post =>
-            <Link
-              to={post.path}
-              key={post.title}
-              className='post-list__post'
-            >
-              {post.icon &&
-                <img
-                  className='post-list__post-icon'
-                  src={`${post.icon}`}
-                  alt={`${post.title}`}
-                />
-              }
-              <div className='post-list__description'>
-                <h3>{post.title}</h3>
-                <p className='post-list__excerpt'>
-                  {post.excerpt}
-                </p>
-              </div>
-            </Link>
-          )}
+          {postList.map(buildPostLink)}
         </div>
      )
     )

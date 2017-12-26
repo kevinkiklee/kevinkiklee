@@ -10,7 +10,8 @@
 }
 
 .header p {
-  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .header__left,
@@ -37,7 +38,15 @@
 
 .header__link {
   font-size: 15px;
-  padding-left: 40px;
+  margin-left: 40px;
+  margin-top: -1px;
   line-height: 1.5;
   text-align: center;
+  border-bottom: 1px white solid;
+  transition: 0.25s border ease-out;
+}
+
+.header__link:hover {
+  border-bottom: 1px black solid;
+  transition: 0.25s border ease-in;
 }
