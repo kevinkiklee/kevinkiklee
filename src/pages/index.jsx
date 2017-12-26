@@ -7,9 +7,24 @@ import './index.css'
 
 class Index extends React.Component {
   render() {
-    const allEdges = this.props.data.allPosts.edges
-    const algodsEdges = this.props.data.algods.edges
-    const ramblesEdges = this.props.data.rambles.edges
+    const groupEdges = (edges) => (
+      edges.reduce((groupedEdges, edge) => {
+        if (edge.node.frontmatter.sticky) {
+          groupedEdges.sticky.push(edge)
+        } else {
+          groupedEdges.regular.push(edge)
+        }
+
+        return groupedEdges
+      }, {
+        sticky: [],
+        regular: [],
+      })
+    )
+
+    const algodsEdges = groupEdges(this.props.data.algods.edges)
+    const ramblesEdges = groupEdges(this.props.data.rambles.edges)
+    const allEdges = groupEdges(this.props.data.allPosts.edges)
     const memesEdges = this.props.data.memes.edges
 
     return (
@@ -18,10 +33,12 @@ class Index extends React.Component {
         <SEO postEdges={allEdges} />
 
         <h1>Algorithms & Data Structures</h1>
-        <PostList postEdges={algodsEdges} />
+        {algodsEdges.sticky && <PostList postEdges={algodsEdges.sticky} />}
+        {algodsEdges.regular && <PostList postEdges={algodsEdges.regular} />}
 
         <h1>Rambles</h1>
-        <PostList postEdges={ramblesEdges} />
+        {ramblesEdges.sticky && <PostList postEdges={ramblesEdges.sticky} />}
+        {ramblesEdges.regular && <PostList postEdges={ramblesEdges.regular} />}
 
         <h1>Memes</h1>
         <PostList postEdges={memesEdges} isTwoColumn />
@@ -81,6 +98,7 @@ export const pageQuery = graphql`
           icon
           date
           category
+          sticky
         }
       }
     }

@@ -20,6 +20,7 @@ class PostList extends React.Component {
         date: postEdge.node.frontmatter.date,
         excerpt: postEdge.node.excerpt,
         timeToRead: postEdge.node.timeToRead,
+        isSticky: postEdge.node.frontmatter.sticky,
       })
     })
 
@@ -33,7 +34,7 @@ class PostList extends React.Component {
       <Link
         to={post.path}
         key={post.title}
-        className='post-list__post'
+        className={'post-list__post'}
       >
         {post.icon &&
           <img
@@ -48,6 +49,11 @@ class PostList extends React.Component {
             {post.excerpt}
           </p>
         </div>
+        {post.isSticky && (
+          <div className='post-list__post--sticky'>
+            <h4>Sticky</h4>
+          </div>
+        )}
       </Link>
     )
 
@@ -69,7 +75,10 @@ class PostList extends React.Component {
           {postList
             .reduce((columns, post) => buildPostColumn(columns, post), [[], []])
             .map((posts, index) =>
-              <div className={`${index % 2 === 0 ? 'post-list__left-column' : 'post-list__right-column'}`}>
+              <div className={`${index % 2 === 0
+                ? 'post-list__left-column'
+                : 'post-list__right-column'}`}
+              >
                 {posts}
               </div>)
           }
