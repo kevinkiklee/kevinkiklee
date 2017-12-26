@@ -3,7 +3,7 @@ import Typography from 'typography'
 import parnassusTheme from 'typography-theme-parnassus'
 
 const customTheme = {
-  baseFontSize: '18px',
+  baseFontSize: '16px',
   googleFonts: [
     {
       name: 'Roboto Slab',
