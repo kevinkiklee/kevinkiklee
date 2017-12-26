@@ -1,20 +1,20 @@
+@import '../../css/variables.css';
+
 .post-list {
   margin: 0;
 }
 
 .post-list__post {
-  /* margin-bottom: 1.5rem; */
   display: flex;
   align-items: center;
   padding: 1rem;
   margin: 0 0 1rem 0;
-  background: #fff7e6;
-  box-shadow: inset 0 0 0 1px #f3e6cf;
-  /* margin: 0 1rem 1rem 1rem; */
+  background: $primary-color;
+  box-shadow: $primary-shadow-color;
 }
 
-.post-list__post a:hover {
-  box-shadow: inset 0 0 0 1px #f3e6cf;
+.post-list__post:hover {
+  box-shadow: $primary-shadow-color;
 }
 
 .post-list__post-icon {
@@ -56,14 +56,14 @@
   display: block;
   padding: 1rem;
   margin: 0 0 1rem 0;
-  background: #fff7e6;
-  box-shadow: inset 0 0 0 1px #f3e6cf;
+  background: $primary-color;
+  box-shadow: $primary-shadow-color;
 }
 
 .post-list--two-columns .post-list__post-icon {
   width: 100%;
   height: auto;
-  border: 1px solid #f3e6cf;
+  border: 1px solid $primary-shadow-color;
   margin-bottom: 0;
 }
 

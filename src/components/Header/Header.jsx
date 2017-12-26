@@ -13,7 +13,7 @@ class Header extends Component {
               <img
                 className='header__site-logo'
                 src={SiteLogo}
-                alt='Kevin K. Lee site logo'
+                alt='kevinkiklee site logo'
               />
               <h1 className='header__site-title'>
                 i have no idea<br />

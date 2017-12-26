@@ -1,3 +1,7 @@
+@import './variables.css';
+
+/* HEADINGS */
+
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -35,16 +39,12 @@ p {
   margin-bottom: 1rem;
 }
 
-/**
- * prism.js default theme for JavaScript, CSS and HTML
- * Based on dabblet (http://dabblet.com)
- * @author Lea Verou
- */
+/* SYNTAX HIGHLIGHTING */
 
 .gatsby-highlight {
   margin: 1rem 0;
-  background: #fff7e6;
-  box-shadow: inset 0 0 0 1px #f3e6cf;
+  background: $code-bg-color;
+  box-shadow: $code-shadow-color;
   border-radius: 2px;
   overflow: auto;
   -webkit-overflow-scrolling: touch;
@@ -55,7 +55,7 @@ code {
   font-size: 0.8rem;
   font-family: 'Menlo', 'Consolas', 'Ubuntu Mono', monospace;
   line-height: 1.4rem;
-  color: green;
+  color: $code-text-color;
 }
 
 /* INLINE CODE */
@@ -63,7 +63,7 @@ code {
 p > code {
   background: #fff7e6;
   padding: 6px 4px 4px 4px;
-  box-shadow: inset 0 0 0 1px #f3e6cf;
+  box-shadow: inset 0 0 0 1px $code-shadow-color;;
 }
 
 code[class*="language-"],

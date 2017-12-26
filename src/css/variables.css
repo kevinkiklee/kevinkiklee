@@ -1,0 +1,22 @@
+// Post list background
+$primary-color: red;
+$primary-shadow-color: #f3e6cf;
+$primary-hover-color: #000000;
+
+// None
+$secondary-bg-color: #fff7e6;
+$secondary-shadow-color: #f3e6cf;
+
+// Header and footer
+$header-footer-color: red;
+
+// Page background
+$background-color: red;
+
+// Text Color
+$text-color: #364149;
+
+// Code Colors
+$code-text-color: green;
+$code-bg-color: #fff7e6;
+$code-shadow-color: #f3e6cf;
