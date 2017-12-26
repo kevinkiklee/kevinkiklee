@@ -8,20 +8,18 @@ class Header extends Component {
     return (
       <header className='header-container'>
         <div className='header'>
-          <Link to='/'>
-            <div className='header__left'>
-              <img
-                className='header__site-logo'
-                src={SiteLogo}
-                alt='kevinkiklee site logo'
-              />
-              <h1 className='header__site-title'>
-                i have no idea<br />
-                what i am doing
-              </h1>
-            </div>
+          <Link to='/' className='header__site'>
+            <img
+              className='header__site-logo'
+              src={SiteLogo}
+              alt='kevinkiklee site logo'
+            />
+            <h1 className='header__site-title'>
+              i have no idea<br />
+              what i am doing
+            </h1>
           </Link>
-          <div className='header__right'>
+          <div className='header__links'>
             <Link to='/algods'>
               <p className='header__link'>
                 Algorithms &<br />

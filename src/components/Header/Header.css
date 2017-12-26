@@ -14,16 +14,27 @@
   margin-bottom: 0;
 }
 
-.header__left,
-.header__right {
+.header__site,
+.header__links {
   display: flex;
   align-items: center;;
+}
+
+.header__site {
+  transition: 5s all;
+}
+
+.header__site:hover
+.header__site-logo {
+  transform: rotate(-720deg);
+  transition: 4s all;
 }
 
 /* HEADER SITE INFO */
 
 .header__site-logo {
   height: 50px;
+  transition: 1s all;
 }
 
 .header__site-title {
