@@ -83,7 +83,10 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
           if (edge.node.frontmatter.category) {
             categorySet.add(edge.node.frontmatter.category)
-            pagePath = `/${edge.node.frontmatter.category}${slug}`
+
+            if (edge.node.frontmatter.category !== 'pages') {
+              pagePath = `/${edge.node.frontmatter.category}${slug}`
+            }
           }
 
           createPage({
