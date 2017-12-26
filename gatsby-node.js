@@ -72,6 +72,9 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         const categorySet = new Set()
 
         result.data.allMarkdownRemark.edges.forEach(edge => {
+          const slug = edge.node.fields.slug
+          let pagePath = slug
+
           if (edge.node.frontmatter.tags) {
             edge.node.frontmatter.tags.forEach(tag => {
               tagSet.add(tag)
@@ -80,13 +83,15 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
 
           if (edge.node.frontmatter.category) {
             categorySet.add(edge.node.frontmatter.category)
+            pagePath = `/${edge.node.frontmatter.category}${slug}`
           }
 
           createPage({
-            path: edge.node.fields.slug,
+            path: pagePath,
             component: postPage,
             context: {
-              slug: edge.node.fields.slug
+              slug,
+              path: pagePath,
             }
           })
         })

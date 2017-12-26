@@ -1,6 +1,6 @@
 import React from 'react';
 import Helmet from 'react-helmet';
-import PostListing from '../components/PostListing/PostListing';
+import PostList from '../components/PostList/PostList';
 import config from '../../data/SiteConfig';
 
 export default class CategoryTemplate extends React.Component {
@@ -12,7 +12,7 @@ export default class CategoryTemplate extends React.Component {
         <Helmet
           title={`Posts in category '${category}' | ${config.siteTitle}`}
         />
-        <PostListing postEdges={postEdges} />
+        <PostList postEdges={postEdges} />
       </div>
     );
   }

@@ -1,8 +1,11 @@
 .footer {
   max-width: 800px;
   margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  font-size: 0.6rem;
 }
 
-.footer h5 {
-  margin: 0.5rem 0;
+.footer h6 {
+  margin: 0.5rem 0.2rem;
 }

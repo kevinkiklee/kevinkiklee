@@ -1,108 +1,184 @@
 {
   "assetsByChunkName": {
-    "path---random": [
-      "path---random-a0e39f21c11f6a62c5ab.js",
-      "path---random-a0e39f21c11f6a62c5ab.js.map"
+    "path---tags-horror": [
+      "path---tags-horror-4e0677a1c57ec4e8eb98.js",
+      "path---tags-horror-4e0677a1c57ec4e8eb98.js.map"
     ],
-    "component---src-pages-random-jsx": [
-      "component---src-pages-random-jsx-c7ae9dd693c44370d8af.js",
-      "component---src-pages-random-jsx-c7ae9dd693c44370d8af.js.map"
+    "path---memes-two-states-of-every-programmer": [
+      "path---memes-two-states-of-every-programmer-d1fa56c217de644c7d5e.js",
+      "path---memes-two-states-of-every-programmer-d1fa56c217de644c7d5e.js.map"
+    ],
+    "path---tags-dog": [
+      "path---tags-dog-81c4223ef327a28371df.js",
+      "path---tags-dog-81c4223ef327a28371df.js.map"
+    ],
+    "path---tags-dfs": [
+      "path---tags-dfs-3e6e4afcb9b22c4b97a8.js",
+      "path---tags-dfs-3e6e4afcb9b22c4b97a8.js.map"
+    ],
+    "path---tags-algorithm": [
+      "path---tags-algorithm-063368786a8caf10b98e.js",
+      "path---tags-algorithm-063368786a8caf10b98e.js.map"
+    ],
+    "path---categories-algods": [
+      "path---categories-algods-9ff87e59bc4fadaf1d8e.js",
+      "path---categories-algods-9ff87e59bc4fadaf1d8e.js.map"
+    ],
+    "path---categories-memes": [
+      "path---categories-memes-f658ada5f78b8a1b90bc.js",
+      "path---categories-memes-f658ada5f78b8a1b90bc.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---categories-ramble": [
-      "path---categories-ramble-0b7eca7aec7bae32c6ef.js",
-      "path---categories-ramble-0b7eca7aec7bae32c6ef.js.map"
+    "path---tags-javascript": [
+      "path---tags-javascript-59cfa6268c7f509a73f2.js",
+      "path---tags-javascript-59cfa6268c7f509a73f2.js.map"
+    ],
+    "path---tags-tree": [
+      "path---tags-tree-db9e847fbb5d865b4471.js",
+      "path---tags-tree-db9e847fbb5d865b4471.js.map"
+    ],
+    "path---tags-meme": [
+      "path---tags-meme-703b39ce233832f99d4b.js",
+      "path---tags-meme-703b39ce233832f99d4b.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-5d2ae8838ac856146ad4.js",
-      "component---src-layouts-index-jsx-5d2ae8838ac856146ad4.js.map"
+      "component---src-layouts-index-jsx-93b89292733d1906ca7e.js",
+      "component---src-layouts-index-jsx-93b89292733d1906ca7e.js.map"
+    ],
+    "path---memes-friday-is-the-best-day-to-deploy": [
+      "path---memes-friday-is-the-best-day-to-deploy-992ed4505357b6f189f6.js",
+      "path---memes-friday-is-the-best-day-to-deploy-992ed4505357b6f189f6.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-category-jsx": [
-      "component---src-templates-category-jsx-73603753833705590b3a.js",
-      "component---src-templates-category-jsx-73603753833705590b3a.js.map"
+      "component---src-templates-category-jsx-4e1d7ab36b00b2daf30d.js",
+      "component---src-templates-category-jsx-4e1d7ab36b00b2daf30d.js.map"
+    ],
+    "path---rambles-nope-i-still-have-no-idea-what-i-am-doing": [
+      "path---rambles-nope-i-still-have-no-idea-what-i-am-doing-6b20641c567893f1b2a0.js",
+      "path---rambles-nope-i-still-have-no-idea-what-i-am-doing-6b20641c567893f1b2a0.js.map"
+    ],
+    "path---rambles": [
+      "path---rambles-a0e39f21c11f6a62c5ab.js",
+      "path---rambles-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-11207692fdff8de34c28.js",
-      "path---index-11207692fdff8de34c28.js.map"
+      "path---index-e443542d4dedef2208a5.js",
+      "path---index-e443542d4dedef2208a5.js.map"
     ],
     "path---algods": [
       "path---algods-a0e39f21c11f6a62c5ab.js",
       "path---algods-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-94e23612ea097c7835ae.js",
-      "component---src-pages-about-jsx-94e23612ea097c7835ae.js.map"
+      "component---src-pages-about-jsx-fc588d8ad57cec622e31.js",
+      "component---src-pages-about-jsx-fc588d8ad57cec622e31.js.map"
     ],
-    "path---code": [
-      "path---code-a0e39f21c11f6a62c5ab.js",
-      "path---code-a0e39f21c11f6a62c5ab.js.map"
+    "path---tags-sort": [
+      "path---tags-sort-bae6b4424f06dc4d93b3.js",
+      "path---tags-sort-bae6b4424f06dc4d93b3.js.map"
+    ],
+    "path---categories-rambles": [
+      "path---categories-rambles-3a81de538403221b69a5.js",
+      "path---categories-rambles-3a81de538403221b69a5.js.map"
+    ],
+    "component---src-pages-rambles-jsx": [
+      "component---src-pages-rambles-jsx-ac0dc4401ac77946666a.js",
+      "component---src-pages-rambles-jsx-ac0dc4401ac77946666a.js.map"
     ],
     "commons": [
-      "commons-7d9304a60f6034867326.js",
+      "commons-80dd782e139178ef8ad4.js",
       "build-js-styles.css",
-      "commons-7d9304a60f6034867326.js.map",
+      "commons-80dd782e139178ef8ad4.js.map",
       "build-js-styles.css.map"
     ],
-    "path---i-still-have-no-idea-what-i-am-doing": [
-      "path---i-still-have-no-idea-what-i-am-doing-453dff4c2d579fcb6979.js",
-      "path---i-still-have-no-idea-what-i-am-doing-453dff4c2d579fcb6979.js.map"
+    "path---tags-bfs": [
+      "path---tags-bfs-e6513c9b8d6eaf3ed1e7.js",
+      "path---tags-bfs-e6513c9b8d6eaf3ed1e7.js.map"
     ],
     "component---src-templates-tag-jsx": [
-      "component---src-templates-tag-jsx-9984f5af3839cca2628d.js",
-      "component---src-templates-tag-jsx-9984f5af3839cca2628d.js.map"
+      "component---src-templates-tag-jsx-2c4c0d02899e70d23eb6.js",
+      "component---src-templates-tag-jsx-2c4c0d02899e70d23eb6.js.map"
     ],
     "path---debug": [
-      "path---debug-ff1373d5dea9aeef4dfb.js",
-      "path---debug-ff1373d5dea9aeef4dfb.js.map"
+      "path---debug-917ecca511c9cc7463ce.js",
+      "path---debug-917ecca511c9cc7463ce.js.map"
     ],
     "component---src-pages-debug-jsx": [
       "component---src-pages-debug-jsx-d4bf324b5c9481dfd937.js",
       "component---src-pages-debug-jsx-d4bf324b5c9481dfd937.js.map"
     ],
-    "component---src-pages-code-jsx": [
-      "component---src-pages-code-jsx-b64b348e70b6026fcabf.js",
-      "component---src-pages-code-jsx-b64b348e70b6026fcabf.js.map"
-    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---memes-why": [
+      "path---memes-why-a7b39a14b8f2ac709ba9.js",
+      "path---memes-why-a7b39a14b8f2ac709ba9.js.map"
     ],
     "component---src-templates-post-jsx": [
       "component---src-templates-post-jsx-e1af24bdd0f2d3af9a70.js",
       "component---src-templates-post-jsx-e1af24bdd0f2d3af9a70.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-391c23d0fc6e12db8c0c.js",
-      "component---src-pages-index-jsx-391c23d0fc6e12db8c0c.js.map"
+      "component---src-pages-index-jsx-8f7ad6ade6dd681ae743.js",
+      "component---src-pages-index-jsx-8f7ad6ade6dd681ae743.js.map"
     ],
-    "path---i-have-no-idea-what-i-am-doing": [
-      "path---i-have-no-idea-what-i-am-doing-53ac25ecda62ee4436d4.js",
-      "path---i-have-no-idea-what-i-am-doing-53ac25ecda62ee4436d4.js.map"
+    "path---tags-search": [
+      "path---tags-search-71dd5e0230c618a21958.js",
+      "path---tags-search-71dd5e0230c618a21958.js.map"
+    ],
+    "path---tags-god": [
+      "path---tags-god-509e40ef1da41da690f4.js",
+      "path---tags-god-509e40ef1da41da690f4.js.map"
+    ],
+    "path---memes-yes-i-am-a-software-engineer": [
+      "path---memes-yes-i-am-a-software-engineer-555b88b20d428161201e.js",
+      "path---memes-yes-i-am-a-software-engineer-555b88b20d428161201e.js.map"
     ],
     "app": [
-      "app-4457e39c1655d17d40ea.js",
+      "app-1e168c8141518b9ab943.js",
       "build-js-styles.css",
-      "app-4457e39c1655d17d40ea.js.map",
+      "app-1e168c8141518b9ab943.js.map",
       "build-js-styles.css.map"
     ],
-    "path---tags-rambletag": [
-      "path---tags-rambletag-76688168b994862e9f93.js",
-      "path---tags-rambletag-76688168b994862e9f93.js.map"
+    "component---src-pages-memes-jsx": [
+      "component---src-pages-memes-jsx-c4b89bb0bb552aba3c5a.js",
+      "component---src-pages-memes-jsx-c4b89bb0bb552aba3c5a.js.map"
+    ],
+    "path---memes": [
+      "path---memes-a0e39f21c11f6a62c5ab.js",
+      "path---memes-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---rambles-i-have-no-idea-what-i-am-doing": [
+      "path---rambles-i-have-no-idea-what-i-am-doing-58c60833b8dbee8ed808.js",
+      "path---rambles-i-have-no-idea-what-i-am-doing-58c60833b8dbee8ed808.js.map"
     ],
     "component---src-pages-algods-jsx": [
-      "component---src-pages-algods-jsx-66f672b576c047bd1272.js",
-      "component---src-pages-algods-jsx-66f672b576c047bd1272.js.map"
+      "component---src-pages-algods-jsx-b3484d743cd1ff9b1506.js",
+      "component---src-pages-algods-jsx-b3484d743cd1ff9b1506.js.map"
+    ],
+    "path---algods-quicksort": [
+      "path---algods-quicksort-69718cbdd2104bcdd8fd.js",
+      "path---algods-quicksort-69718cbdd2104bcdd8fd.js.map"
+    ],
+    "path---tags-test": [
+      "path---tags-test-f6f268ef6364a65de3f7.js",
+      "path---tags-test-f6f268ef6364a65de3f7.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---algods-breadth-first-and-depth-first-search": [
+      "path---algods-breadth-first-and-depth-first-search-1977efb9a63ceb4d6ab5.js",
+      "path---algods-breadth-first-and-depth-first-search-1977efb9a63ceb4d6ab5.js.map"
     ]
   }
 }

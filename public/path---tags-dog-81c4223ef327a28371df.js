@@ -1,0 +1,2 @@
+webpackJsonp([34751445722091],{395:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/friday-is-the-best-day-to-deploy"},excerpt:"guaranteed to go smoothly",timeToRead:1,frontmatter:{title:"friday is the best day to deploy",tags:["meme","horror","dog"],cover:"/images/friday-deployments.jpg",date:"12/24/2017"}}}]}},pathContext:{tag:"dog"}}}});
+//# sourceMappingURL=path---tags-dog-81c4223ef327a28371df.js.map
