@@ -38,7 +38,7 @@ class Header extends Component {
                 Memes
               </p>
             </Link>
-            <Link to='/about'>
+            <Link to='/about-kevin'>
               <p className='header__link'>
                 About<br />
                 Kevin
