@@ -1,12 +1,14 @@
 ---
-title: "yes, i am a software engineer"
+title: "Yes, I am a software engineer"
 cover: "/images/yes-i-am-a-software-engineer.jpg"
-icon: "/images/yes-i-am-a-software-engineer.jpg"
-date: "12/21/2017"
+date: "2017-12-26"
+time: "19:43"
 category: "memes"
 tags:
-    - meme
-    - god
+  - meme
+  - god
 ---
 
-it's been about a year since i started coding.  i still have no idea what the hell i am doing.
+![Yes, I am a software engineer](https://kevinkiklee.com/images/yes-i-am-a-software-engineer.jpg)
+
+It's been about a year since I started coding.  I still have no idea what the hell I am doing.

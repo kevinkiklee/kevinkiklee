@@ -1,8 +1,8 @@
 ---
 title: "Breadth-First and Depth-First Search"
-cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
-icon: "/icons/tree-split.png"
-date: "12/25/2017"
+cover: "/covers/graph.png"
+date: "2017-12-26"
+time: "21:11"
 category: "algods"
 tags:
   - algorithm
@@ -12,13 +12,17 @@ tags:
   - dfs
 ---
 
+**[Under Construction]**
+
+Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque.  Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
+
 ```ruby
 p rand() > 0.99 ? 'i am a god' : 'i have no idea what i am doing'
 ```
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et purus quis tortor malesuada fringilla. Curabitur sed metus et enim suscipit viverra et sit amet erat. Suspendisse molestie, nibh at facilisis commodo, neque eros auctor `sapien` magna, vel hendrerit dui purus eget sapien. Phasellus vel elit non turpis vel ullamcorper egestas. `p rand() > 0.99 ? 'i am a god' : 'i have no idea what i am doing'`.  In imperdiet sit amet risus ac faucibus. Curabitur sit amet mattis massa, non tristique nunc. Donec scelerisque sollicitudin nisl, ut semper leo condimentum ac. Donec ullamcorper orci nulla, eget pharetra nisl fermentum eget.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et purus quis tortor malesuada fringilla. Suspendisse molestie, neque eros auctor `sapien` magna, vel hendrerit dui purus eget sapien. Phasellus vel elit non turpis vel ullamcorper egestas. `p rand() > 0.99 ? 'i am a god' : 'i have no idea what i am doing'`.  In imperdiet sit amet risus ac faucibus. Curabitur sit amet mattis massa, non tristique nunc. Donec scelerisque sollicitudin nisl, ut semper leo condimentum ac. Donec ullamcorper orci nulla, eget pharetra nisl fermentum eget.
 
-# Mattis massa non tristique
+## Mattis massa non tristique
 
 Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
 
@@ -38,45 +42,36 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
       slug = `/${_.kebabCase(node.frontmatter.slug)}`
     }
 
-    if (
-      Object.prototype.hasOwnProperty.call(node, 'frontmatter') &&
-      Object.prototype.hasOwnProperty.call(node.frontmatter, 'title')
-    ) {
-      slug = `/${_.kebabCase(node.frontmatter.title)}`
-    } else if (parsedFilePath.name !== 'index' && parsedFilePath.dir !== '') {
-      slug = `/${parsedFilePath.dir}/${parsedFilePath.name}/`
-    } else if (parsedFilePath.dir === '') {
-      slug = `/${parsedFilePath.name}/`
-    } else {
-      slug = `/${parsedFilePath.dir}/`
-    }
-
     createNodeField({ node, name: 'slug', value: slug })
   }
 }
 ```
 
-## Nunc donec scelerisque sollicitudin
+Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
+
+# H1 - Nunc donec scelerisque sollicitudin
 
 Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
 
-### Nisl ut semper leo condimentum ac Donec
+## H2 - Nunc donec scelerisque sollicitudin
 
 Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
 
-#### Allamcorper orci nulla eget
+### H3 - Nisl ut semper leo condimentum ac Donec
 
 Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
 
-##### pharetra nisl fermentum eget
+#### H4 - Allamcorper orci nulla eget
 
 Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
 
-###### enim suscipit viverra et sit amet erat
+##### H5 - pharetra nisl fermentum eget
 
 Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
 
+###### H6 - Enim suscipit viverra et sit amet erat
 
+Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque
 
 * Pharetra nisl fermentum eget.
 * Quisque quis fringilla
@@ -89,6 +84,28 @@ p rand() > 0.99 ? 'i am a god' : 'i have no idea what i am doing'
 ```
 
 Aliquam tristique vel diam at consectetur. Sed posuere enim sit amet facilisis aliquet. Aenean posuere nisi vitae commodo hendrerit. Sed vehicula id lorem at rhoncus. Ut dictum erat vel euismod porttitor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi sed pellentesque nisl. Nulla facilisi. Etiam euismod eleifend est eget condimentum.
+
+* Pharetra nisl fermentum eget.
+  * Pharetra nisl fermentum eget.
+  * Quisque quis fringilla
+  * Netus et malesuada
+* Quisque quis fringilla
+  * Pharetra nisl fermentum eget
+    * Pharetra nisl fermentum eget.
+    * Quisque quis fringilla
+    * Netus et malesuada
+  * Quisque quis fringilla
+    * Pharetra nisl fermentum eget.
+    * Quisque quis fringilla
+    * Netus et malesuada
+  * Netus et malesuada
+    * Pharetra nisl fermentum eget.
+    * Quisque quis fringilla
+    * Netus et malesuada
+* Pharetra nisl fermentum eget.
+  * Quisque quis fringilla
+    * Netus et malesuada
+      * Netus et malesuada
 
 Nulla nec neque sit amet augue ultricies semper. Ut accumsan sem at nisl fringilla, nec fringilla tortor maximus. Proin dui augue, vulputate eu pellentesque nec, sagittis eget ante. Nullam pulvinar nisl eu ornare tincidunt. Aliquam ut massa odio. Donec vel pharetra erat, in tincidunt est. Maecenas non enim nec lectus auctor dignissim rutrum vel ligula.
 

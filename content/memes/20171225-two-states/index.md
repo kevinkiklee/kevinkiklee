@@ -1,12 +1,14 @@
 ---
-title: "two states of every programmer"
+title: "Two states of every programmer"
 cover: "/images/two-states.jpg"
-icon: "/images/two-states.jpg"
-date: "12/25/2017"
+date: "2017-12-26"
+time: "19:47"
 category: "memes"
 tags:
     - meme
     - god
 ---
 
-just kidding, god is dead.
+![Two states of every programmer](https://kevinkiklee.com/images/two-states.jpg)
+
+Just kidding, god is dead.

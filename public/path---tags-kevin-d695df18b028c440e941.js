@@ -1,0 +1,2 @@
+webpackJsonp([0xb2738b956203],{409:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/about-kevin"},excerpt:"Under Construction Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean…",timeToRead:6,frontmatter:{title:"About Kevin",tags:["kevin"],cover:null,date:"12/26/2017"}}}]}},pathContext:{tag:"kevin"}}}});
+//# sourceMappingURL=path---tags-kevin-d695df18b028c440e941.js.map

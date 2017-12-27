@@ -21,6 +21,11 @@
   transition: 0.25s all ease-out;
 }
 
+.post-list__post h6 {
+  margin-top: 0px;
+  margin-bottom: 0.6rem;
+}
+
 /* POST LIST HOVER */
 
 .post-list__post:hover {
@@ -57,17 +62,17 @@
   transition: 0.25s border ease-in;
 }
 
-.post-list__post--sticky h4 {
+.post-list__post--sticky h5 {
   margin: 0;
   color: #ffbf00;
 }
 
-/* POST ICON IMAGE */
+/* POST COVER IMAGE */
 
-.post-list__post__icon {
-  height: 60px;
-  width: 60px;
-  margin-right: 15px;
+.post-list__post__cover {
+  height: 90px;
+  width: 90px;
+  margin-right: 20px;
 }
 
 /* POST DESCRIPTION */
@@ -82,7 +87,8 @@
 }
 
 .post-list__post__excerpt {
-  line-height: 1.5rem
+  line-height: 1.3rem;
+  font-size: 0.9rem;
 }
 
 /* TWO COLUMNS */
@@ -105,7 +111,7 @@
   display: block;
 }
 
-.post-list--two-columns .post-list__post__icon {
+.post-list--two-columns .post-list__post__cover {
   width: 100%;
   height: auto;
   border: 1px solid #f3e6cf;

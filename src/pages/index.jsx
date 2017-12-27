@@ -95,8 +95,8 @@ export const pageQuery = graphql`
           title
           tags
           cover
-          icon
           date
+          time
           category
           sticky
         }

@@ -1,184 +1,200 @@
 {
   "assetsByChunkName": {
+    "path---about-kevin": [
+      "path---about-kevin-2d0c84251f1b735a8afb.js",
+      "path---about-kevin-2d0c84251f1b735a8afb.js.map"
+    ],
     "path---tags-horror": [
-      "path---tags-horror-4e0677a1c57ec4e8eb98.js",
-      "path---tags-horror-4e0677a1c57ec4e8eb98.js.map"
+      "path---tags-horror-aba3cd81e565e0091f6b.js",
+      "path---tags-horror-aba3cd81e565e0091f6b.js.map"
     ],
     "path---memes-two-states-of-every-programmer": [
-      "path---memes-two-states-of-every-programmer-d1fa56c217de644c7d5e.js",
-      "path---memes-two-states-of-every-programmer-d1fa56c217de644c7d5e.js.map"
+      "path---memes-two-states-of-every-programmer-c690647201d58786b0c7.js",
+      "path---memes-two-states-of-every-programmer-c690647201d58786b0c7.js.map"
     ],
     "path---tags-dog": [
-      "path---tags-dog-81c4223ef327a28371df.js",
-      "path---tags-dog-81c4223ef327a28371df.js.map"
+      "path---tags-dog-60b2872b1ccd44f4b5f3.js",
+      "path---tags-dog-60b2872b1ccd44f4b5f3.js.map"
     ],
     "path---tags-dfs": [
-      "path---tags-dfs-3e6e4afcb9b22c4b97a8.js",
-      "path---tags-dfs-3e6e4afcb9b22c4b97a8.js.map"
+      "path---tags-dfs-f2e347ae0ef6fbdff288.js",
+      "path---tags-dfs-f2e347ae0ef6fbdff288.js.map"
+    ],
+    "path---algods-algorithms-data-structures": [
+      "path---algods-algorithms-data-structures-950a1a7b824b369bc56d.js",
+      "path---algods-algorithms-data-structures-950a1a7b824b369bc56d.js.map"
     ],
     "path---tags-algorithm": [
-      "path---tags-algorithm-063368786a8caf10b98e.js",
-      "path---tags-algorithm-063368786a8caf10b98e.js.map"
+      "path---tags-algorithm-ee544e7b2b1adaff3641.js",
+      "path---tags-algorithm-ee544e7b2b1adaff3641.js.map"
     ],
     "path---categories-algods": [
-      "path---categories-algods-9ff87e59bc4fadaf1d8e.js",
-      "path---categories-algods-9ff87e59bc4fadaf1d8e.js.map"
+      "path---categories-algods-87d5bcaa74338b15daf9.js",
+      "path---categories-algods-87d5bcaa74338b15daf9.js.map"
     ],
     "path---categories-memes": [
-      "path---categories-memes-f658ada5f78b8a1b90bc.js",
-      "path---categories-memes-f658ada5f78b8a1b90bc.js.map"
+      "path---categories-memes-eefd1c919f3e5bcf1567.js",
+      "path---categories-memes-eefd1c919f3e5bcf1567.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---tags-javascript": [
-      "path---tags-javascript-59cfa6268c7f509a73f2.js",
-      "path---tags-javascript-59cfa6268c7f509a73f2.js.map"
+      "path---tags-javascript-1f7cd09d0294dbb48eb3.js",
+      "path---tags-javascript-1f7cd09d0294dbb48eb3.js.map"
     ],
     "path---tags-tree": [
-      "path---tags-tree-db9e847fbb5d865b4471.js",
-      "path---tags-tree-db9e847fbb5d865b4471.js.map"
+      "path---tags-tree-5cfa90649868be055e13.js",
+      "path---tags-tree-5cfa90649868be055e13.js.map"
     ],
     "path---tags-meme": [
-      "path---tags-meme-703b39ce233832f99d4b.js",
-      "path---tags-meme-703b39ce233832f99d4b.js.map"
+      "path---tags-meme-07e93983029cb13a740c.js",
+      "path---tags-meme-07e93983029cb13a740c.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-93b89292733d1906ca7e.js",
-      "component---src-layouts-index-jsx-93b89292733d1906ca7e.js.map"
+      "component---src-layouts-index-jsx-f526da9cf5ebc4f4bf61.js",
+      "component---src-layouts-index-jsx-f526da9cf5ebc4f4bf61.js.map"
     ],
     "path---memes-friday-is-the-best-day-to-deploy": [
-      "path---memes-friday-is-the-best-day-to-deploy-992ed4505357b6f189f6.js",
-      "path---memes-friday-is-the-best-day-to-deploy-992ed4505357b6f189f6.js.map"
+      "path---memes-friday-is-the-best-day-to-deploy-d74a0880ecb4fcbac15f.js",
+      "path---memes-friday-is-the-best-day-to-deploy-d74a0880ecb4fcbac15f.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-category-jsx": [
-      "component---src-templates-category-jsx-4e1d7ab36b00b2daf30d.js",
-      "component---src-templates-category-jsx-4e1d7ab36b00b2daf30d.js.map"
+      "component---src-templates-category-jsx-a8595a734f46860a8e3e.js",
+      "component---src-templates-category-jsx-a8595a734f46860a8e3e.js.map"
     ],
     "path---rambles-nope-i-still-have-no-idea-what-i-am-doing": [
-      "path---rambles-nope-i-still-have-no-idea-what-i-am-doing-6b20641c567893f1b2a0.js",
-      "path---rambles-nope-i-still-have-no-idea-what-i-am-doing-6b20641c567893f1b2a0.js.map"
+      "path---rambles-nope-i-still-have-no-idea-what-i-am-doing-7dcebc1f23fc76dace9a.js",
+      "path---rambles-nope-i-still-have-no-idea-what-i-am-doing-7dcebc1f23fc76dace9a.js.map"
     ],
     "path---rambles": [
-      "path---rambles-a0e39f21c11f6a62c5ab.js",
-      "path---rambles-a0e39f21c11f6a62c5ab.js.map"
+      "path---rambles-cfc673ded58f1c591e43.js",
+      "path---rambles-cfc673ded58f1c591e43.js.map"
     ],
     "path---index": [
-      "path---index-e443542d4dedef2208a5.js",
-      "path---index-e443542d4dedef2208a5.js.map"
+      "path---index-f130ae1e9b8ab903fcbe.js",
+      "path---index-f130ae1e9b8ab903fcbe.js.map"
     ],
     "path---algods": [
-      "path---algods-a0e39f21c11f6a62c5ab.js",
-      "path---algods-a0e39f21c11f6a62c5ab.js.map"
-    ],
-    "component---src-pages-about-jsx": [
-      "component---src-pages-about-jsx-fc588d8ad57cec622e31.js",
-      "component---src-pages-about-jsx-fc588d8ad57cec622e31.js.map"
+      "path---algods-3527da38048a5fce42d2.js",
+      "path---algods-3527da38048a5fce42d2.js.map"
     ],
     "path---tags-sort": [
-      "path---tags-sort-bae6b4424f06dc4d93b3.js",
-      "path---tags-sort-bae6b4424f06dc4d93b3.js.map"
+      "path---tags-sort-a2924da393f71c8e5cd4.js",
+      "path---tags-sort-a2924da393f71c8e5cd4.js.map"
     ],
     "path---categories-rambles": [
-      "path---categories-rambles-3a81de538403221b69a5.js",
-      "path---categories-rambles-3a81de538403221b69a5.js.map"
+      "path---categories-rambles-bf47d5b6120f06c5de68.js",
+      "path---categories-rambles-bf47d5b6120f06c5de68.js.map"
     ],
     "component---src-pages-rambles-jsx": [
-      "component---src-pages-rambles-jsx-ac0dc4401ac77946666a.js",
-      "component---src-pages-rambles-jsx-ac0dc4401ac77946666a.js.map"
+      "component---src-pages-rambles-jsx-18a0f606b65ce2e402f7.js",
+      "component---src-pages-rambles-jsx-18a0f606b65ce2e402f7.js.map"
+    ],
+    "path---tags-data-structures": [
+      "path---tags-data-structures-24ebc5404752e2bde0f9.js",
+      "path---tags-data-structures-24ebc5404752e2bde0f9.js.map"
     ],
     "commons": [
-      "commons-80dd782e139178ef8ad4.js",
+      "commons-249ead76b851c195ec77.js",
       "build-js-styles.css",
-      "commons-80dd782e139178ef8ad4.js.map",
+      "commons-249ead76b851c195ec77.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-bfs": [
-      "path---tags-bfs-e6513c9b8d6eaf3ed1e7.js",
-      "path---tags-bfs-e6513c9b8d6eaf3ed1e7.js.map"
+      "path---tags-bfs-1e3f38c9fb03eaca5802.js",
+      "path---tags-bfs-1e3f38c9fb03eaca5802.js.map"
     ],
     "component---src-templates-tag-jsx": [
-      "component---src-templates-tag-jsx-2c4c0d02899e70d23eb6.js",
-      "component---src-templates-tag-jsx-2c4c0d02899e70d23eb6.js.map"
+      "component---src-templates-tag-jsx-7416123a36ab78ead99c.js",
+      "component---src-templates-tag-jsx-7416123a36ab78ead99c.js.map"
     ],
     "path---debug": [
-      "path---debug-917ecca511c9cc7463ce.js",
-      "path---debug-917ecca511c9cc7463ce.js.map"
+      "path---debug-3dc22bdbff57bba4794e.js",
+      "path---debug-3dc22bdbff57bba4794e.js.map"
     ],
     "component---src-pages-debug-jsx": [
       "component---src-pages-debug-jsx-d4bf324b5c9481dfd937.js",
       "component---src-pages-debug-jsx-d4bf324b5c9481dfd937.js.map"
     ],
+    "path---categories-pages": [
+      "path---categories-pages-294e925824f44c27ed16.js",
+      "path---categories-pages-294e925824f44c27ed16.js.map"
+    ],
+    "path---tags-kevin": [
+      "path---tags-kevin-d695df18b028c440e941.js",
+      "path---tags-kevin-d695df18b028c440e941.js.map"
+    ],
+    "path---tags-ramble": [
+      "path---tags-ramble-9129899ed973e2c6f9a3.js",
+      "path---tags-ramble-9129899ed973e2c6f9a3.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---memes-why": [
-      "path---memes-why-a7b39a14b8f2ac709ba9.js",
-      "path---memes-why-a7b39a14b8f2ac709ba9.js.map"
-    ],
     "component---src-templates-post-jsx": [
-      "component---src-templates-post-jsx-e1af24bdd0f2d3af9a70.js",
-      "component---src-templates-post-jsx-e1af24bdd0f2d3af9a70.js.map"
+      "component---src-templates-post-jsx-a9c5e7cf3f61729087ce.js",
+      "component---src-templates-post-jsx-a9c5e7cf3f61729087ce.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-8f7ad6ade6dd681ae743.js",
-      "component---src-pages-index-jsx-8f7ad6ade6dd681ae743.js.map"
+      "component---src-pages-index-jsx-92ffcd67ea982dae2aef.js",
+      "component---src-pages-index-jsx-92ffcd67ea982dae2aef.js.map"
     ],
     "path---tags-search": [
-      "path---tags-search-71dd5e0230c618a21958.js",
-      "path---tags-search-71dd5e0230c618a21958.js.map"
+      "path---tags-search-a31d9e6a6e27905bd2e9.js",
+      "path---tags-search-a31d9e6a6e27905bd2e9.js.map"
     ],
     "path---tags-god": [
-      "path---tags-god-509e40ef1da41da690f4.js",
-      "path---tags-god-509e40ef1da41da690f4.js.map"
+      "path---tags-god-1067715c044b9c5d58bf.js",
+      "path---tags-god-1067715c044b9c5d58bf.js.map"
     ],
     "path---memes-yes-i-am-a-software-engineer": [
-      "path---memes-yes-i-am-a-software-engineer-555b88b20d428161201e.js",
-      "path---memes-yes-i-am-a-software-engineer-555b88b20d428161201e.js.map"
+      "path---memes-yes-i-am-a-software-engineer-b96106b38cfbf9ddd575.js",
+      "path---memes-yes-i-am-a-software-engineer-b96106b38cfbf9ddd575.js.map"
     ],
     "app": [
-      "app-1e168c8141518b9ab943.js",
+      "app-cbaf70dd59e6f64eee97.js",
       "build-js-styles.css",
-      "app-1e168c8141518b9ab943.js.map",
+      "app-cbaf70dd59e6f64eee97.js.map",
       "build-js-styles.css.map"
     ],
+    "path---memes-it-works-why": [
+      "path---memes-it-works-why-6f783673e363e9db2698.js",
+      "path---memes-it-works-why-6f783673e363e9db2698.js.map"
+    ],
     "component---src-pages-memes-jsx": [
-      "component---src-pages-memes-jsx-c4b89bb0bb552aba3c5a.js",
-      "component---src-pages-memes-jsx-c4b89bb0bb552aba3c5a.js.map"
+      "component---src-pages-memes-jsx-95193a76bfad4d05eb33.js",
+      "component---src-pages-memes-jsx-95193a76bfad4d05eb33.js.map"
     ],
     "path---memes": [
-      "path---memes-a0e39f21c11f6a62c5ab.js",
-      "path---memes-a0e39f21c11f6a62c5ab.js.map"
+      "path---memes-9c5860eb0c4a5a5a580e.js",
+      "path---memes-9c5860eb0c4a5a5a580e.js.map"
     ],
     "path---rambles-i-have-no-idea-what-i-am-doing": [
-      "path---rambles-i-have-no-idea-what-i-am-doing-58c60833b8dbee8ed808.js",
-      "path---rambles-i-have-no-idea-what-i-am-doing-58c60833b8dbee8ed808.js.map"
+      "path---rambles-i-have-no-idea-what-i-am-doing-ba408aa5592cc927b32e.js",
+      "path---rambles-i-have-no-idea-what-i-am-doing-ba408aa5592cc927b32e.js.map"
     ],
     "component---src-pages-algods-jsx": [
-      "component---src-pages-algods-jsx-b3484d743cd1ff9b1506.js",
-      "component---src-pages-algods-jsx-b3484d743cd1ff9b1506.js.map"
+      "component---src-pages-algods-jsx-4b8d381761c93b0debb5.js",
+      "component---src-pages-algods-jsx-4b8d381761c93b0debb5.js.map"
     ],
     "path---algods-quicksort": [
-      "path---algods-quicksort-69718cbdd2104bcdd8fd.js",
-      "path---algods-quicksort-69718cbdd2104bcdd8fd.js.map"
+      "path---algods-quicksort-27e9c9364782a3f6946b.js",
+      "path---algods-quicksort-27e9c9364782a3f6946b.js.map"
     ],
     "path---tags-test": [
-      "path---tags-test-f6f268ef6364a65de3f7.js",
-      "path---tags-test-f6f268ef6364a65de3f7.js.map"
-    ],
-    "path---about": [
-      "path---about-a0e39f21c11f6a62c5ab.js",
-      "path---about-a0e39f21c11f6a62c5ab.js.map"
+      "path---tags-test-10543901686bf42db74f.js",
+      "path---tags-test-10543901686bf42db74f.js.map"
     ],
     "path---algods-breadth-first-and-depth-first-search": [
-      "path---algods-breadth-first-and-depth-first-search-1977efb9a63ceb4d6ab5.js",
-      "path---algods-breadth-first-and-depth-first-search-1977efb9a63ceb4d6ab5.js.map"
+      "path---algods-breadth-first-and-depth-first-search-971198dd7682969d1516.js",
+      "path---algods-breadth-first-and-depth-first-search-971198dd7682969d1516.js.map"
     ]
   }
 }

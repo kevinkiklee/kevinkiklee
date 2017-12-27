@@ -1,4 +1,5 @@
 import React from 'react'
+import moment from 'moment'
 import Link from 'gatsby-link'
 import './PostList.css'
 
@@ -15,9 +16,9 @@ class PostList extends React.Component {
         path: buildPostPath(postEdge.node),
         tags: postEdge.node.frontmatter.tags,
         cover: postEdge.node.frontmatter.cover,
-        icon: postEdge.node.frontmatter.icon,
         title: postEdge.node.frontmatter.title,
         date: postEdge.node.frontmatter.date,
+        time: postEdge.node.frontmatter.time,
         excerpt: postEdge.node.excerpt,
         timeToRead: postEdge.node.timeToRead,
         isSticky: postEdge.node.frontmatter.sticky,
@@ -30,32 +31,39 @@ class PostList extends React.Component {
   render() {
     const postList = this.getPostList()
 
-    const buildPostLink = post => (
-      <Link
-        to={post.path}
-        key={post.title}
-        className={'post-list__post'}
-      >
-        {post.icon &&
-          <img
-            className='post-list__post__icon'
-            src={`${post.icon}`}
-            alt={`${post.title}`}
-          />
-        }
-        <div className='post-list__post__description'>
-          <h3>{post.title}</h3>
-          <p className='post-list__post__excerpt'>
-            {post.excerpt}
-          </p>
-        </div>
-        {post.isSticky && (
-          <div className='post-list__post--sticky'>
-            <h4>Sticky</h4>
+    const buildPostLink = post => {
+      const momentDate = moment(`${post.date} ${post.time}`)
+      const daysAgo = momentDate.startOf('minute').fromNow()
+      const datePublished = momentDate.format('dddd - MMM Do YYYY - hh:mma')
+
+      return (
+        <Link
+          to={post.path}
+          key={post.title}
+          className={'post-list__post'}
+        >
+          {post.cover &&
+            <img
+              className='post-list__post__cover'
+              src={`${post.cover}`}
+              alt={`${post.title}`}
+            />
+          }
+          <div className='post-list__post__description'>
+            <h3>{post.title}</h3>
+            <h6>{`${daysAgo} | ${datePublished}`}</h6>
+            <p className='post-list__post__excerpt'>
+              {post.excerpt}
+            </p>
           </div>
-        )}
-      </Link>
-    )
+          {post.isSticky && (
+            <div className='post-list__post--sticky'>
+              <h5>Sticky</h5>
+            </div>
+          )}
+        </Link>
+      )
+    }
 
     const buildPostColumn = (columns, post) => {
       const postLink = buildPostLink(post)

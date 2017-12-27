@@ -1,2 +1,0 @@
-webpackJsonp([0x8e5c198ee570],{401:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/quicksort"},excerpt:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et purus quis tortor malesuada fringilla. Curabitur sed metus et enim…",timeToRead:6,frontmatter:{title:"Quicksort",tags:["algorithm","sort"],cover:"https://unsplash.it/1152/300/?random?BirchintheRoses",date:"12/10/2017"}}}]}},pathContext:{tag:"sort"}}}});
-//# sourceMappingURL=path---tags-sort-bae6b4424f06dc4d93b3.js.map

@@ -65,3 +65,9 @@
   border-bottom: 1px black solid;
   transition: 0.25s border ease-in;
 }
+
+@media (max-width: 800px) {
+  .header__links {
+    display: none;
+  }
+}

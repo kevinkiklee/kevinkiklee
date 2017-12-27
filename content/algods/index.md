@@ -1,14 +1,16 @@
 ---
 title: "Algorithms & Data Structures"
-cover: "https://unsplash.it/1152/300/?random?BirchintheRoses"
-icon: "/icons/tree-split.png"
-date: "12/25/2017"
+cover: "/covers/algorithm.png"
+date: "2017-12-26"
+time: "19:41"
 category: "algods"
 sticky: true
 tags:
   - algorithm
   - data structures
 ---
+
+**[Under Construction]**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et purus quis tortor malesuada fringilla. Curabitur sed metus et enim suscipit viverra et sit amet erat. Suspendisse molestie, nibh at facilisis commodo, neque eros auctor `sapien` magna, vel hendrerit dui purus eget sapien. Phasellus vel elit non turpis vel ullamcorper egestas. `p rand() > 0.99 ? 'i am a god' : 'i have no idea what i am doing'`.  In imperdiet sit amet risus ac faucibus. Curabitur sit amet mattis massa, non tristique nunc. Donec scelerisque sollicitudin nisl, ut semper leo condimentum ac. Donec ullamcorper orci nulla, eget pharetra nisl fermentum eget.
 

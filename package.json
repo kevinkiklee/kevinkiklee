@@ -1,8 +1,22 @@
 {
   "name": "kevinkiklee",
   "description": "i have no idea what i am doing",
-  "version": "0.0.1",
+  "version": "0.0.9",
   "author": "Kevin K. Lee <kevin.kik.lee@gmail.com>",
+  "scripts": {
+    "develop": "gatsby develop",
+    "dev": "npm run develop",
+    "serve": "gatsby serve",
+    "build": "gatsby build",
+    "build:pp": "gatsby build --prefix-paths",
+    "publish": "npm run clean && npm run build:pp && gh-pages -d public",
+    "clean": "rm -rf public",
+    "lint:js": "eslint --ext .js,.jsx --ignore-pattern public,static .",
+    "lint:md": "remark content/posts/",
+    "write-good": "write-good $(glob 'content/posts/**/*.md')",
+    "format:js": "prettier '**/*.{js,jsx}' --write",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  },
   "dependencies": {
     "babel-plugin-lodash": "^3.2.11",
     "gatsby": "^1.9.130",
@@ -59,20 +73,6 @@
   ],
   "license": "MIT",
   "main": "n/a",
-  "scripts": {
-    "develop": "gatsby develop",
-    "dev": "npm run develop",
-    "serve": "gatsby serve",
-    "build": "gatsby build",
-    "build:pp": "gatsby build --prefix-paths",
-    "publish": "npm run clean && npm run build:pp && gh-pages -d public",
-    "clean": "rm -rf public",
-    "lint:js": "eslint --ext .js,.jsx --ignore-pattern public,static .",
-    "lint:md": "remark content/posts/",
-    "write-good": "write-good $(glob 'content/posts/**/*.md')",
-    "format:js": "prettier '**/*.{js,jsx}' --write",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
-  },
   "remarkConfig": {
     "plugins": [
       "remark-preset-lint-recommended"

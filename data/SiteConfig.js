@@ -7,14 +7,14 @@ module.exports = {
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: 'i have no idea what i am doing', // Website description used for RSS feeds/meta description tag.
   siteRss: '/rss.xml', // Path to the RSS file.
-  siteFBAppID: '1825356251115265', // FB Application ID for using app insights
-  googleAnalyticsID: 'UA-47311644-5', // GA tracking ID.
-  disqusShortname: 'https-vagr9k-github-io-gatsby-advanced-starter', // Disqus shortname.
+  siteFBAppID: '182535625111526511', // FB Application ID for using app insights
+  googleAnalyticsID: 'UA-93552684-1', // GA tracking ID.
+  disqusShortname: '11https-vagr9k-github-io-gatsby-advanced-starter', // Disqus shortname.
   postDefaultCategoryID: 'Tech', // Default category for posts.
   userName: 'Kevin K. Lee', // Username to display in the author segment.
   userTwitter: 'kevinkiklee', // Optionally renders 'Follow Me' in the UserInfo segment.
   userLocation: 'New York, NY', // User location to display in the author segment.
-  userAvatar: 'https://api.adorable.io/avatars/150/test.png', // User avatar to display in the author segment.
+  userAvatar: '/logos/lgoo.png', // User avatar to display in the author segment.
   userDescription:
     'i have no idea what i am doing.', // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.

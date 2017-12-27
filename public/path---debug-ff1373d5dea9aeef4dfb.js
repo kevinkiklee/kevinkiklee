@@ -1,2 +1,0 @@
-webpackJsonp([0xaacc77cdf700],{359:function(e,t){e.exports={data:{allFile:{edges:[{node:{relativePath:"20171012/index.md",prettySize:"9.15 kB",extension:"md",birthTime:"a day ago"}},{node:{relativePath:"20171225/index.md",prettySize:"6.66 kB",extension:"md",birthTime:"7 hours ago"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---debug-ff1373d5dea9aeef4dfb.js.map

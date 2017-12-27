@@ -1,8 +1,8 @@
 ---
-title: "friday is the best day to deploy"
+title: "Friday is the best day to deploy"
 cover: "/images/friday-deployments.jpg"
-icon: "/images/friday-deployments.jpg"
-date: "12/24/2017"
+date: "2017-12-26"
+time: "19:46"
 category: "memes"
 tags:
     - meme
@@ -10,4 +10,6 @@ tags:
     - dog
 ---
 
-guaranteed to go smoothly
+![Friday is the best day to deploy](https://kevinkiklee.com/images/friday-deployments.jpg)
+
+Guaranteed to go smoothly without a heartache
