@@ -6,6 +6,8 @@ tags:
   - kevin
 ---
 
+![Site logo](https://kevinkiklee.com/logos/logo.png)
+
 **[Under Construction]**
 
 Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque.  Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque

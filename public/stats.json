@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---about-kevin": [
-      "path---about-kevin-2d0c84251f1b735a8afb.js",
-      "path---about-kevin-2d0c84251f1b735a8afb.js.map"
+      "path---about-kevin-367d2d9c2571ae34b0eb.js",
+      "path---about-kevin-367d2d9c2571ae34b0eb.js.map"
     ],
     "path---tags-horror": [
       "path---tags-horror-aba3cd81e565e0091f6b.js",
@@ -115,8 +115,8 @@
       "component---src-templates-tag-jsx-7416123a36ab78ead99c.js.map"
     ],
     "path---debug": [
-      "path---debug-795c390c69f9414591bd.js",
-      "path---debug-795c390c69f9414591bd.js.map"
+      "path---debug-dab8817124d1b1ad83a4.js",
+      "path---debug-dab8817124d1b1ad83a4.js.map"
     ],
     "component---src-pages-debug-jsx": [
       "component---src-pages-debug-jsx-d4bf324b5c9481dfd937.js",
