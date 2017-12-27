@@ -1,23 +1,22 @@
 module.exports = {
+  pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   blogPostDir: '', // The name of directory that contains your posts.
-  siteTitle: 'kevinkiklee', // Site title.
-  siteTitleAlt: 'kevinkiklee', // Alternative site title for SEO.
+  siteTitle: 'I have no idea what I am doing',
+  siteTitleAlt: 'I have no idea what I am doing', // Alternative site title for SEO.
   siteLogo: '/logos/logo.png', // Logo used for SEO and manifest.
   siteUrl: 'https://kevinkiklee.com', // Domain of your website without pathPrefix.
-  pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: 'i have no idea what i am doing', // Website description used for RSS feeds/meta description tag.
+  siteDescription: 'Coding blog focused on algorithms & data structures, breaking into the software engineering industry, random ramblings about code, and of course, memes.',
   siteRss: '/rss.xml', // Path to the RSS file.
-  siteFBAppID: '182535625111526511', // FB Application ID for using app insights
+  siteFBAppID: '1417030101752305', // FB Application ID for using app insights
   googleAnalyticsID: 'UA-93552684-1', // GA tracking ID.
-  disqusShortname: '11https-vagr9k-github-io-gatsby-advanced-starter', // Disqus shortname.
+  disqusShortname: 'https-vagr9k', // Disqus shortname.
   postDefaultCategoryID: 'Tech', // Default category for posts.
   userName: 'Kevin K. Lee', // Username to display in the author segment.
   userTwitter: 'kevinkiklee', // Optionally renders 'Follow Me' in the UserInfo segment.
   userLocation: 'New York, NY', // User location to display in the author segment.
-  userAvatar: '/logos/lgoo.png', // User avatar to display in the author segment.
+  userAvatar: '/logos/logo.png', // User avatar to display in the author segment.
   userDescription:
-    'i have no idea what i am doing.', // User description to display in the author segment.
-  // Links to social profiles/projects you want to display in the author segment/navigation bar.
+    'I am a software engineer in NYC with experience in React, Node, GraphQL and Rails.', // User description to display in the author segment.
   userLinks: [
     {
       label: 'GitHub',
@@ -41,6 +40,6 @@ module.exports = {
     },
   ],
   copyright: 'Copyright © 2018', // Copyright string for the footer of the website and RSS feed.
-  themeColor: '#c62828', // Used for setting manifest and progress theme colors.
-  backgroundColor: '#fafafa', // Used for setting manifest background color.
+  themeColor: '#fff7e6', // Used for setting manifest and progress theme colors.
+  backgroundColor: '#fdfaf6', // Used for setting manifest background color.
 };
