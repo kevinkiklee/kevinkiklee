@@ -20,28 +20,50 @@ class Header extends Component {
             </h1>
           </Link>
           <div className='header__links'>
-            <Link to='/algods'>
-              <p className='header__link'>
+            <Link to='/algods' className='header__link'>
+              <p className='header__link-text'>
                 Algorithms &<br />
                 Data Structures
               </p>
             </Link>
-            <Link to='/rambles'>
-              <p className='header__link'>
+            <Link to='/rambles' className='header__link'>
+              <p className='header__link-text'>
                 Coding<br />
                 Rambles
               </p>
             </Link>
-            <Link to='/memes'>
-              <p className='header__link'>
+            <Link to='/memes' className='header__link'>
+              <p className='header__link-text'>
                 Coding<br />
                 Memes
               </p>
             </Link>
-            <Link to='/about-kevin'>
-              <p className='header__link'>
+            <Link to='/about-kevin' className='header__link'>
+              <p className='header__link-text'>
                 About<br />
                 Kevin
+              </p>
+            </Link>
+          </div>
+          <div className='header__links--mobile'>
+            <Link to='/algods' className='header__link'>
+              <p className='header__link-text'>
+                AlgoDS
+              </p>
+            </Link>
+            <Link to='/rambles' className='header__link'>
+              <p className='header__link-text'>
+                Rambles
+              </p>
+            </Link>
+            <Link to='/memes' className='header__link'>
+              <p className='header__link-text'>
+                Memes
+              </p>
+            </Link>
+            <Link to='/about-kevin' className='header__link'>
+              <p className='header__link-text'>
+                About
               </p>
             </Link>
           </div>

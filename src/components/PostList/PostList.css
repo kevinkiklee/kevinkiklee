@@ -126,7 +126,7 @@
   font-size: 0.9rem;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 579px) {
   .post-list__post {
     flex-direction: column;
   }

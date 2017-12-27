@@ -48,7 +48,7 @@
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 579px) {
   .header__site-logo {
     margin-right: 4px;
   }
@@ -58,7 +58,7 @@
   }
 }
 
-@media (max-width: 356px) {
+@media (max-width: 360px) {
   .header-container {
     height: 40px;
   }

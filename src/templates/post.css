@@ -19,14 +19,14 @@
 }
 
 /* LARGE PHONE */
-@media (max-width: 600px) {
+@media (max-width: 579px) {
   .post-container {
     padding: 0 1rem;
   }
 }
 
 /* SMALL PHONE */
-@media (max-width: 356px) {
+@media (max-width: 360px) {
   .post-container {
     margin: 0 auto;
     max-width: 800;

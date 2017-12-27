@@ -46,17 +46,21 @@ $media-phone-landscape: 600px
   box-shadow: inset 0 0 0 1px rgb(121, 121, 121);
 */
 
-/* TABLET */
+/* TABLET / PHONE LANDSCAPE */
 @media (max-width: 850px) {
 
 }
 
-/* LARGE PHONE */
-@media (max-width: 600px) {
+/* LARGE PHONE + IPHONE - LANDSCAPE */
+@media (max-width: 579px) {
 
 }
 
-/* SMALL PHONE */
-@media (max-width: 356px) {
+/* SMALL PHONE - PORTRAIT */
+@media (max-width: 375px) {
 
+}
+
+/* IPHONE PHONE - PORTRAIT */
+@media (max-width: 360px) {
 }
