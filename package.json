@@ -1,7 +1,7 @@
 {
   "name": "kevinkiklee",
   "description": "i have no idea what i am doing",
-  "version": "0.0.9",
+  "version": "0.0.3",
   "author": "Kevin K. Lee <kevin.kik.lee@gmail.com>",
   "scripts": {
     "develop": "gatsby develop",
