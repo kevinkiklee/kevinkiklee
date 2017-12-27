@@ -1,3 +1,9 @@
 .memes-page-container h1 {
   border-bottom: 1px solid #364149;
 }
+
+@media (max-width: 600px) {
+  .memes-page-container h1 {
+    margin-top: 1rem;
+  }
+}

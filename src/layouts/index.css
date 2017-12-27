@@ -35,7 +35,16 @@
 }
 
 @media (max-width: 850px) {
-  .main-container {
-    padding: 0 1rem;
+  .header-container {
+    height: 50px;
   }
+
+  .main-container {
+    padding: 0 2rem;
+    margin-top: 50px;
+  }
+}
+
+@media (max-width: 600px) {
+
 }

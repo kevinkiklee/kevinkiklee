@@ -212,3 +212,39 @@ pre[class*="language-"] {
 .token.entity {
   cursor: help;
 }
+
+
+@media (max-width: 850px) {
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+  }
+
+  h4 {
+    font-size: 1.1rem;
+  }
+
+  h5 {
+    font-size: 1rem;
+  }
+
+  h6 {
+    font-size: 0.8rem;
+  }
+
+  .gatsby-highlight {
+    margin: 1rem 0;
+  }
+
+  .post blockquote {
+    margin: 1rem 0;
+  }
+}
