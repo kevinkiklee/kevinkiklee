@@ -17,11 +17,15 @@
 .header__site,
 .header__links {
   display: flex;
-  align-items: center;;
+  align-items: center;
 }
 
 .header__site {
   transition: 5s all;
+}
+
+.header__site h1 {
+  border: none;
 }
 
 .header__site:hover

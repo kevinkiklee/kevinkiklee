@@ -30,12 +30,12 @@ class AlgoDs extends React.Component {
         <SEO postEdges={this.props.data.algods.edges} />
         <h1>Algorithms & Data Structures</h1>
 
-        <h3>Introductory Articles</h3>
-        <p>If you are new to this site, please check out these articles:</p>
+        <h3>Introduction</h3>
+        <p>If you are new to this site, please check out these articles</p>
         {algodsEdges.sticky && <PostList postEdges={algodsEdges.sticky} />}
 
         <h3>Algorithms & Data Structures Guides</h3>
-        <p>Learn the fundamentals:</p>
+        <p>Learn the fundamentals</p>
         {algodsEdges.regular && <PostList postEdges={algodsEdges.regular} />}
       </div>
     )

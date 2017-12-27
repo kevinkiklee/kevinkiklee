@@ -41,7 +41,7 @@ class Index extends React.Component {
         {ramblesEdges.regular && <PostList postEdges={ramblesEdges.regular} />}
 
         <h1>Memes</h1>
-        <PostList postEdges={memesEdges} isTwoColumn />
+        <PostList postEdges={memesEdges} isTwoColumns />
       </div>
     )
   }

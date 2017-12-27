@@ -9,6 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 2rem;
   margin-bottom: 1rem;
+  border-bottom: 1px solid #364149;
 }
 
 h2 {
@@ -46,16 +47,28 @@ p {
   font-size: 1.1rem;
 }
 
+.post blockquote {
+  margin: 1rem;
+  padding: 1rem;
+  color: black;
+  background-color: #f6f7fc;
+  border: 1px solid #eaebff;
+  border-left: 0.6825rem solid #eaebff;
+}
+
+.post blockquote p {
+  font-size: 1rem;
+  line-height: 1.4rem;
+}
+
 /* SYNTAX HIGHLIGHTING */
 
 .gatsby-highlight {
-  margin: 1rem 0;
-  background: #fff7e6;
-  box-shadow: #f3e6cf;
-  border-radius: 2px;
-  overflow: auto;
-  -webkit-overflow-scrolling: touch;
   position: relative;
+  margin: 1rem;
+  background: #fff9ed;
+  border: 1px solid #f3e6cf;
+  border-left: 0.6825rem solid #fff1d5;
 }
 
 code {

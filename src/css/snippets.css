@@ -1,10 +1,10 @@
 /* Post list background */
-$primary-color: red;
+$primary-color: #fff7e6;
 $primary-shadow-color: #f3e6cf;
 $primary-hover-color: #000000;
 
 /* None */
-$secondary-bg-color: #fff7e6;
+$secondary-bg-color: #ffbf00;
 $secondary-shadow-color: #f3e6cf;
 
 /* Header and footer */
@@ -20,11 +20,16 @@ $code-bg-color: #fff7e6;
 $code-shadow-color: #f3e6cf;
 
 /*
-  transition: 0.4s all ease-out;
+  transition: 0.25s all ease-in;
+  transition: 0.25s all ease-out;
+  transition: 0.25s border ease-in;
+  transition: 0.25s border ease-out;
 */
 
 /*
+  border-bottom: 1px solid #364149;
   border: 1px solid #f3e6cf;
+  hover: ffc800
 */
 
 /*

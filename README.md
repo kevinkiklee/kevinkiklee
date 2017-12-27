@@ -10,11 +10,11 @@ Coding blog focused on fundamental algorithms and data structures.
 
 ## Tasks
 
-- [ ] Style notes section
-- [ ] Build index page
-- [ ] Build algods section
-- [ ] Build blog section
-- [ ] Build ramblings section
-- [ ] Build about section
+- [x] Spinning logo
+- [x] Sticky posts
+- [x] Build algods section
+- [x] Build rambles section
+- [x] Build memes section
+- [x] Build about section
 - [ ] Add Disqus
-- [ ] Style post page
+- [ ] Add post social links

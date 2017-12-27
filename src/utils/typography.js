@@ -15,6 +15,10 @@ const customTheme = {
       name: 'Open Sans',
       styles: [
         '400',
+        '400i',
+        '500',
+        '500i',
+        '700',
       ],
     }
   ],

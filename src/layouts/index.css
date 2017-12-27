@@ -26,10 +26,10 @@
   justify-content: center;
   color: #364149;
   background: #ffffff;
-  box-shadow: inset 0 0 0 1px #f3e6cf;
+  border-bottom: 1px solid #f3e6cf;
 }
 
 .footer-container {
   background: #ffffff;
-  box-shadow: inset 0 0 0 1px #f3e6cf;
+  border-top: 1px solid #f3e6cf;
 }

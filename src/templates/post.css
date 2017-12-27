@@ -8,3 +8,7 @@
   flex-direction: column;
   justify-content: center;
 }
+
+.post img {
+  margin: 0 auto;
+}
