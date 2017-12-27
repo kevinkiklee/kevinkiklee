@@ -1,2 +1,0 @@
-webpackJsonp([0xb2dfeca98c29],{411:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/i-have-no-idea-what-i-am-doing"},excerpt:"Under Construction Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean…",timeToRead:6,frontmatter:{title:"I have no idea what I am doing",tags:["ramble"],cover:"/covers/facepalm.png",date:"2017-12-24"}}}]}},pathContext:{tag:"ramble"}}}});
-//# sourceMappingURL=path---tags-ramble-9129899ed973e2c6f9a3.js.map
