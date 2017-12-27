@@ -6,20 +6,17 @@ const customTheme = {
   baseFontSize: '16px',
   googleFonts: [
     {
-      name: 'Roboto Slab',
+      name: 'PT Sans',
       styles: [
         '700',
       ],
     },
     {
-      name: 'Merriweather',
+      name: 'Open Sans',
       styles: [
         '400',
-        '400i',
-        '700',
-        '700i',
       ],
-    },
+    }
   ],
 }
 

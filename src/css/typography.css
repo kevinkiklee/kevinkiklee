@@ -1,40 +1,49 @@
 /* HEADINGS */
 
 h1, h2, h3, h4, h5, h6 {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  font-family: 'Roboto Slab';
+  margin-top: 2rem;
+  margin-bottom: 0.2rem;
+  font-family: 'PT Sans';
 }
 
 h1 {
   font-size: 2rem;
-  margin-top: 2rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 2rem;
+  margin-bottom: 1rem;
 }
 
 h3 {
-  font-size: 1.2rem;
+  font-size: 1.6rem;
 }
 
 h4 {
-  font-size: 1rem;
+  font-size: 1.3rem;
 }
 
 h5 {
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 h6 {
-  font-size: 0.7rem;
+  font-size: 0.8rem;
 }
+
+/* PARAGRAPH */
 
 p {
   line-height: 1.9rem;
   margin-bottom: 1rem;
+  font-family: 'Open Sans';
+}
+
+/* POST */
+
+.post p {
+  font-size: 1.1rem;
 }
 
 /* SYNTAX HIGHLIGHTING */
@@ -87,11 +96,7 @@ pre[class*="language-"] {
 }
 
 pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
-code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
-  text-shadow: none;
-  /* background: #f4f0e5; */
-}
-
+code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection,
 pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
 code[class*="language-"]::selection, code[class*="language-"] ::selection {
   text-shadow: none;

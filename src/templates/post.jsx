@@ -23,12 +23,13 @@ export default class PostTemplate extends React.Component {
     }
 
     return (
-      <div style={{ margin: '2rem auto', maxWidth: 800 }}>
+      <div className='post-container'>
         <Helmet>
           <title>{`${post.title} | ${config.siteTitle}`}</title>
         </Helmet>
         <SEO postPath={slug} postNode={postNode} postSEO />
-        <div>
+
+        <div className='post'>
           <h1>
             {post.title}
           </h1>
