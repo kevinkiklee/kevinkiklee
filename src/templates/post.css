@@ -12,3 +12,28 @@
 .post img {
   margin: 0 auto;
 }
+
+/* TABLET */
+@media (max-width: 850px) {
+
+}
+
+/* LARGE PHONE */
+@media (max-width: 600px) {
+  .post-container {
+    padding: 0 1rem;
+  }
+}
+
+/* SMALL PHONE */
+@media (max-width: 356px) {
+  .post-container {
+    margin: 0 auto;
+    max-width: 800;
+    padding: 0.5rem;
+  }
+
+  .post h1:first-of-type {
+    margin-top: 0;
+  }
+}

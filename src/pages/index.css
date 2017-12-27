@@ -6,6 +6,12 @@
 @media (max-width: 850px) {
   .index-page-container h1 {
     text-align: center;
+    /* margin-top: 1rem; */
+  }
+}
+
+@media (max-width: 356px) {
+  .index-page-container h1 {
     margin-top: 1rem;
   }
 }
