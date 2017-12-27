@@ -70,14 +70,16 @@ class PostList extends React.Component {
     }
 
     return (
-      this.props.isTwoColumn ? (
+      this.props.isTwoColumns ? (
         <div className='post-list post-list--two-columns'>
           {postList
             .reduce((columns, post) => buildPostColumn(columns, post), [[], []])
             .map((posts, index) =>
-              <div className={`${index % 2 === 0
-                ? 'post-list__left-column'
-                : 'post-list__right-column'}`}
+              <div
+                className={`${index % 2 === 0
+                  ? 'post-list__left-column'
+                  : 'post-list__right-column'}`}
+                key={index}
               >
                 {posts}
               </div>)
