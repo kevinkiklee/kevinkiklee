@@ -33,3 +33,9 @@
   background: #ffffff;
   border-top: 1px solid #f3e6cf;
 }
+
+@media (max-width: 850px) {
+  .main-container {
+    padding: 0 1rem;
+  }
+}

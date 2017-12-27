@@ -125,3 +125,49 @@
 .post-list--two-columns .post-list__post__excerpt {
   font-size: 0.9rem;
 }
+
+@media (max-width: 850px) {
+  .post-list__post {
+    flex-direction: column;
+  }
+
+  .post-list__post__cover {
+    height: 50px;
+    width: 50px;
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+
+  .post-list__post h1 {
+    font-size: 1.8rem;
+    text-align: center;
+  }
+
+  .post-list__post h3 {
+    font-size: 1.4rem;
+  }
+
+  .post-list__post p {
+    font-size: 0.9rem;
+  }
+
+  .post-list__post {
+    flex-direction: column;
+  }
+
+  /* TWO COLUMNS */
+
+  .post-list--two-columns {
+    display: block;
+  }
+
+  .post-list__left-column {
+    width: 100%;
+    margin-right: 0rem;
+  }
+
+  .post-list__right-column {
+    width: 100%;
+    margin-left: 0rem;
+  }
+}
