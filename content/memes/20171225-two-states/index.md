@@ -9,6 +9,6 @@ tags:
     - god
 ---
 
-![Two states of every programmer](https://kevinkiklee.com/images/two-states.jpg)
+![Two states of every programmer](two-states.jpg)
 
 Just kidding, god is dead.
