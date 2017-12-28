@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---tags-guide": [
-      "path---tags-guide-078da06d10c4bd30cc98.js",
-      "path---tags-guide-078da06d10c4bd30cc98.js.map"
+      "path---tags-guide-bd4dad5fb7ea7e77eb65.js",
+      "path---tags-guide-bd4dad5fb7ea7e77eb65.js.map"
     ],
     "path---about-kevin": [
       "path---about-kevin-37655ca1e73d72b1f655.js",
@@ -20,53 +20,37 @@
       "path---tags-dog-60b2872b1ccd44f4b5f3.js",
       "path---tags-dog-60b2872b1ccd44f4b5f3.js.map"
     ],
-    "path---tags-dfs": [
-      "path---tags-dfs-f2e347ae0ef6fbdff288.js",
-      "path---tags-dfs-f2e347ae0ef6fbdff288.js.map"
-    ],
     "path---algods-algorithms-data-structures": [
       "path---algods-algorithms-data-structures-950a1a7b824b369bc56d.js",
       "path---algods-algorithms-data-structures-950a1a7b824b369bc56d.js.map"
     ],
     "path---tags-algorithm": [
-      "path---tags-algorithm-ee544e7b2b1adaff3641.js",
-      "path---tags-algorithm-ee544e7b2b1adaff3641.js.map"
+      "path---tags-algorithm-ee24d0b9bc37999fdff2.js",
+      "path---tags-algorithm-ee24d0b9bc37999fdff2.js.map"
     ],
     "path---categories-algods": [
-      "path---categories-algods-87d5bcaa74338b15daf9.js",
-      "path---categories-algods-87d5bcaa74338b15daf9.js.map"
+      "path---categories-algods-0e5a097ccd1666e7317c.js",
+      "path---categories-algods-0e5a097ccd1666e7317c.js.map"
     ],
     "path---rambles-how-to-become-a-software-engineer-in-6-months": [
-      "path---rambles-how-to-become-a-software-engineer-in-6-months-6f60ab409e4193975842.js",
-      "path---rambles-how-to-become-a-software-engineer-in-6-months-6f60ab409e4193975842.js.map"
+      "path---rambles-how-to-become-a-software-engineer-in-6-months-5fc9c10179403a9466ef.js",
+      "path---rambles-how-to-become-a-software-engineer-in-6-months-5fc9c10179403a9466ef.js.map"
     ],
     "path---categories-memes": [
-      "path---categories-memes-8a8d2de806745876a2d2.js",
-      "path---categories-memes-8a8d2de806745876a2d2.js.map"
+      "path---categories-memes-f4814a98178f3d407eba.js",
+      "path---categories-memes-f4814a98178f3d407eba.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---tags-javascript": [
-      "path---tags-javascript-310d6caf97a0606cb604.js",
-      "path---tags-javascript-310d6caf97a0606cb604.js.map"
-    ],
-    "path---tags-tree": [
-      "path---tags-tree-5cfa90649868be055e13.js",
-      "path---tags-tree-5cfa90649868be055e13.js.map"
-    ],
     "path---tags-meme": [
-      "path---tags-meme-7f685c6e2112c5a744b1.js",
-      "path---tags-meme-7f685c6e2112c5a744b1.js.map"
+      "path---tags-meme-2b446a7e420ecb2943c2.js",
+      "path---tags-meme-2b446a7e420ecb2943c2.js.map"
     ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-8ff8361f1a9a1c8589c7.js",
       "component---src-layouts-index-jsx-8ff8361f1a9a1c8589c7.js.map"
-    ],
-    "path---tags-react": [
-      "path---tags-react-15044a2acf6a40cfe1e6.js",
-      "path---tags-react-15044a2acf6a40cfe1e6.js.map"
     ],
     "path---memes-friday-is-the-best-day-to-deploy": [
       "path---memes-friday-is-the-best-day-to-deploy-63eac0cadbee9f1c7179.js",
@@ -80,29 +64,25 @@
       "component---src-templates-category-jsx-a8595a734f46860a8e3e.js",
       "component---src-templates-category-jsx-a8595a734f46860a8e3e.js.map"
     ],
-    "path---tags-gatsby": [
-      "path---tags-gatsby-b388e9f80812178c9ad2.js",
-      "path---tags-gatsby-b388e9f80812178c9ad2.js.map"
-    ],
     "path---rambles": [
-      "path---rambles-83a3e316d33269a02506.js",
-      "path---rambles-83a3e316d33269a02506.js.map"
+      "path---rambles-202eca172b6602f34508.js",
+      "path---rambles-202eca172b6602f34508.js.map"
     ],
     "path---index": [
-      "path---index-d887f111695dda9aa591.js",
-      "path---index-d887f111695dda9aa591.js.map"
+      "path---index-20bd7a31859ec08c53e1.js",
+      "path---index-20bd7a31859ec08c53e1.js.map"
     ],
     "path---algods": [
-      "path---algods-be16f46302c82fa83936.js",
-      "path---algods-be16f46302c82fa83936.js.map"
+      "path---algods-f252f90c9576bc56f8bb.js",
+      "path---algods-f252f90c9576bc56f8bb.js.map"
     ],
     "path---tags-sort": [
       "path---tags-sort-a2924da393f71c8e5cd4.js",
       "path---tags-sort-a2924da393f71c8e5cd4.js.map"
     ],
     "path---categories-rambles": [
-      "path---categories-rambles-6ed578f03950269dee59.js",
-      "path---categories-rambles-6ed578f03950269dee59.js.map"
+      "path---categories-rambles-55bf33cb8820d44f1281.js",
+      "path---categories-rambles-55bf33cb8820d44f1281.js.map"
     ],
     "component---src-pages-rambles-jsx": [
       "component---src-pages-rambles-jsx-18a0f606b65ce2e402f7.js",
@@ -113,22 +93,18 @@
       "path---tags-data-structures-24ebc5404752e2bde0f9.js.map"
     ],
     "commons": [
-      "commons-3df3b24ac92dd0b9e683.js",
+      "commons-5eb29a1695a495f8fb26.js",
       "build-js-styles.css",
-      "commons-3df3b24ac92dd0b9e683.js.map",
+      "commons-5eb29a1695a495f8fb26.js.map",
       "build-js-styles.css.map"
-    ],
-    "path---tags-bfs": [
-      "path---tags-bfs-1e3f38c9fb03eaca5802.js",
-      "path---tags-bfs-1e3f38c9fb03eaca5802.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-7416123a36ab78ead99c.js",
       "component---src-templates-tag-jsx-7416123a36ab78ead99c.js.map"
     ],
     "path---debug": [
-      "path---debug-781371d3e8f3884eb29d.js",
-      "path---debug-781371d3e8f3884eb29d.js.map"
+      "path---debug-3eda21bb28f404560545.js",
+      "path---debug-3eda21bb28f404560545.js.map"
     ],
     "component---src-pages-debug-jsx": [
       "component---src-pages-debug-jsx-d4bf324b5c9481dfd937.js",
@@ -158,26 +134,18 @@
       "component---src-pages-index-jsx-92ffcd67ea982dae2aef.js",
       "component---src-pages-index-jsx-92ffcd67ea982dae2aef.js.map"
     ],
-    "path---tags-search": [
-      "path---tags-search-a31d9e6a6e27905bd2e9.js",
-      "path---tags-search-a31d9e6a6e27905bd2e9.js.map"
-    ],
     "path---tags-god": [
-      "path---tags-god-1067715c044b9c5d58bf.js",
-      "path---tags-god-1067715c044b9c5d58bf.js.map"
-    ],
-    "path---rambles-how-to-create-a-blog-with-react-and-gatsby": [
-      "path---rambles-how-to-create-a-blog-with-react-and-gatsby-83dd5ee132fb7967d3cc.js",
-      "path---rambles-how-to-create-a-blog-with-react-and-gatsby-83dd5ee132fb7967d3cc.js.map"
+      "path---tags-god-e98c457540498a3218bf.js",
+      "path---tags-god-e98c457540498a3218bf.js.map"
     ],
     "path---memes-yes-i-am-a-software-engineer": [
       "path---memes-yes-i-am-a-software-engineer-8b58b0f65ba5fb8cc699.js",
       "path---memes-yes-i-am-a-software-engineer-8b58b0f65ba5fb8cc699.js.map"
     ],
     "app": [
-      "app-846ccd7c6e68362a6c29.js",
+      "app-3f6edf1fd6050663dbfb.js",
       "build-js-styles.css",
-      "app-846ccd7c6e68362a6c29.js.map",
+      "app-3f6edf1fd6050663dbfb.js.map",
       "build-js-styles.css.map"
     ],
     "path---memes-it-works-why": [
@@ -189,8 +157,8 @@
       "component---src-pages-memes-jsx-95193a76bfad4d05eb33.js.map"
     ],
     "path---memes": [
-      "path---memes-8f36fa2f22e412565c24.js",
-      "path---memes-8f36fa2f22e412565c24.js.map"
+      "path---memes-fea7f25aaa7d20b6e684.js",
+      "path---memes-fea7f25aaa7d20b6e684.js.map"
     ],
     "path---rambles-i-have-no-idea-what-i-am-doing": [
       "path---rambles-i-have-no-idea-what-i-am-doing-6cededc479dba188ed76.js",
@@ -203,10 +171,6 @@
     "path---algods-quicksort": [
       "path---algods-quicksort-27e9c9364782a3f6946b.js",
       "path---algods-quicksort-27e9c9364782a3f6946b.js.map"
-    ],
-    "path---algods-breadth-first-and-depth-first-search": [
-      "path---algods-breadth-first-and-depth-first-search-971198dd7682969d1516.js",
-      "path---algods-breadth-first-and-depth-first-search-971198dd7682969d1516.js.map"
     ]
   }
 }

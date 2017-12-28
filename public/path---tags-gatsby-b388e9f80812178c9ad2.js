@@ -1,2 +1,0 @@
-webpackJsonp([0x7ab76f7a7e61],{410:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/how-to-create-a-blog-with-react-and-gatsby"},excerpt:"Under Construction",timeToRead:1,frontmatter:{title:"How to create a blog with React and Gatsby",tags:["guide","javascript","react","gatsby"],cover:"/covers/shrug.png",date:"2017-12-26"}}}]}},pathContext:{tag:"gatsby"}}}});
-//# sourceMappingURL=path---tags-gatsby-b388e9f80812178c9ad2.js.map

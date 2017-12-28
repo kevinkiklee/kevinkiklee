@@ -1,6 +1,6 @@
 module.exports = {
   pathPrefix: '/', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  blogPostDir: '', // The name of directory that contains your posts.
+  blogPostDir: '/posts', // The name of directory that contains your posts.
   siteTitle: 'I have no idea what I am doing',
   siteTitleAlt: 'I have no idea what I am doing', // Alternative site title for SEO.
   siteLogo: '/logos/logo.png', // Logo used for SEO and manifest.

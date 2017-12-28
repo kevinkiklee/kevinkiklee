@@ -1,2 +1,0 @@
-webpackJsonp([43175567916651],{408:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/breadth-first-and-depth-first-search"},excerpt:"Under Construction Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean…",timeToRead:6,frontmatter:{title:"Breadth-First and Depth-First Search",tags:["algorithm","search","tree","bfs","dfs"],cover:"/covers/graph.png",date:"2017-12-26"}}}]}},pathContext:{tag:"dfs"}}}});
-//# sourceMappingURL=path---tags-dfs-f2e347ae0ef6fbdff288.js.map
