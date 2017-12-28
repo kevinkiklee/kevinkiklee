@@ -9,6 +9,6 @@ tags:
     - god
 ---
 
-![It works why](it-works-why.jpg)
+![It works why](https://kevinkiklee.com/images/it-works-why.jpg)
 
 You learn just as much going down this rabbit hole.
