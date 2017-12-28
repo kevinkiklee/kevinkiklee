@@ -147,7 +147,7 @@ The learning does not stop after a coding bootcamp (nor when you get a job).
 
 ** *Italics are optional*
 
-These are common whiteboard questions.  Pick one topic per day, and keep cycling through the list.  By the third time, you will get it.  Memorize the APIs of each subject.  For example, a `queue` has `push` and `pop` operations.  A binary search tree has a `height` operation.
+These are common whiteboard questions.  Pick one topic per day, and keep cycling through the list.  By the third time, you will get it.  Memorize the APIs of each subject.  For example, a `stack` has `push` and `pop` operations.  A binary search tree has a `height` operation.
 
 Try to solve it on your own first, then study the standard implementations.  These have been studied and researched by people far smarter than you and I.  Learn how they solved it.
 
