@@ -12,9 +12,9 @@ This guide is focused on providing actionable items that will increase your chan
 
 Is it possible to become a software engineer from 0 in 6 months?  Yes, I have taken this path, and I come from a very non-traditional background.
 
-I disagree with the myth that everyone can become a developer.  This is a marketing ploy.  Coding is hard.  To become job-ready in 6 months is a daunting task.  Be prepared to work.  I studied 12-14 hours every single day for 6 months.
+I disagree with the myth that everyone can become a developer.  This is a marketing ploy.  Coding is hard.  To become job-ready in 6 months is a daunting task.  Be prepared to work.  I studied 12 to 14 hours every single day for 6 months.  That is the key theme throughout this article: **You must study**.  There is no shortcut to the process.
 
-I highly suggest attending a coding bootcamp.  It is very hard to accomplish this in such a condensed period of time without participitating in an accelerator program.  That's all a coding bootcamp is.  It is a means to accelerate the process, but it is still a challenging task.  It is not some magical institution where you show up, and suddenly you are given a job.
+To get started, I highly suggest attending a coding bootcamp.  It is very hard to become a developer in a condensed period of time without participitating in an accelerator program.  That's all a coding bootcamp is: a means to accelerate the process, but it is still a challenging task.  It is not some magical institution where you show up, and suddenly you are given a job.
 
 The guide has two sections:
 
@@ -47,7 +47,7 @@ Before starting a bootcamp, you should complete the front-end module of [FreeCod
 
 > **Complete the FreeCodeCamp front-end module**
 
-I am flat out telling you what to do: **Study JavaScript**.  I personally started from Ruby, and I love Ruby with all my heart, JavaScript job market is significantly bigger.  It is the universal web language.  The language you learn does not matter in the end, but in the beginning, it does.  Ruby is easier and more elegant, but for employment purposes, JavaScript is by far the highest in demand.
+I am flat out telling you what to do: **Study JavaScript**.  I personally started from Ruby, and I love Ruby with all my heart, but the JavaScript job market is significantly bigger.  It is the universal web language.  The language you learn does not matter in the end, but in the beginning, it does in a sense that you have limited amount of time.  Ruby is easier and more elegant, but for employment purposes, JavaScript is by far the highest in demand.
 
 Now, go study.  Don't spend too much time socializing and networking where you talk about how you are going to become a software engineer.  6 months from now, they won't remember you, and you won't remember them.  Go study.
 
@@ -59,21 +59,24 @@ For Rails, [Rails Tutorial](https://www.railstutorial.org/book) is the best guid
 
 ## Attending a coding bootcamp
 
-Study.  Dedicate the next 3 months of your life to nothing but studying.  There is no shortcut to this process.  You will be asked difficult questions at interviews.  You do not want to be standing there embarrassed.  Your classmates will motivate you through the challenge.
+Study.  Dedicate the next 3 months of your life to nothing but studying.
 
-I am a military veteran, and I attended one of the hardest bootcamps at Ft. Benning Infantry OSUT.  Take it from someone who went to a real bootcamp:  a coding bootcamp is just as hard.  In the military, during the constant times of physical misery, you can turn your brain off.  You cannot do that at a coding bootcamp, and the stress of pushing your brain to the max for prolonged periods of time is just as tiring.
+I am a military veteran, and I attended one of the hardest bootcamps at Ft. Benning Infantry Basic Combat Training.  Take it from someone who went to a real bootcamp:  a coding bootcamp is just as hard.  In the military, during the constant times of physical misery, you can turn your brain off.  You cannot do that at a coding bootcamp, and the stress of pushing your brain to the max for prolonged periods of time is just as tiring.
 
 Study.  How many times have I used the word `study` in this guide?  =D
 
 # Job Search
 
-Congratulations!  You just finished your coding bootcamp, and you have just reached the starting line!  The real challenge begins now.  Here are the topics you should have basic understanding of:
+Congratulations!  You just finished your coding bootcamp, and you have just reached the starting line!  The real challenge begins now.
+
+Here are the topics you should have basic understanding of:
 
 * Web application architecture
   * Front-end framework (React+Redux)
   * Back-end framework (Node/Rails)
   * Database (SQL/MongoDB)
   * Local development environment setup
+  * REST architecture
 * JavaScript fundamentals
   * Callbacks and first-class functions
   * Closure
@@ -83,7 +86,7 @@ Congratulations!  You just finished your coding bootcamp, and you have just reac
   * `map`, `reduce`, and `filter`
   * DOM traversal and manipulation
 * CS fundamentals
-  * Time/Space Complexity - `O(n)`
+  * Time and space Complexity i.e. `O(n)`
   * Object-oriented programming
   * Recursion
 * Other fundamentals
@@ -91,6 +94,8 @@ Congratulations!  You just finished your coding bootcamp, and you have just reac
   * Flexbox / Responsive CSS
   * Test-driven development
   * How to Google
+
+The above is the bare minimum.  If you do not have a general grasp of the above tiny list, solidy your knowledge.  You will be talking about these subjects at your interviews.
 
 ## Build
 
@@ -100,38 +105,50 @@ You should have built a project at your coding bootcamp.  Polish it.  It is the 
 
 When you meet someone at a networking event, you want to point them to your project and its GitHub.  Since you are at a coding event, there is a good chance that there are laptops everywhere.  Type in your URL, and provide a concrete and absolute proof of what you can do.
 
-The aesthetics matter.  The first person seeing your application will most likely not be an engineer, but the recruiter who does not understand how cleverly you solved a `N+1` query problem.  The recruiter will play around on your app for about 30 seconds to a minute (I have measured this with Google Analytics).  Make sure that your project is presentable and visually pleasing.
+The aesthetics matter.  The first person seeing your application will most likely be a recruiter who does not understand how cleverly you solved a `N+1` query problem.  The recruiter will play around on your app for about 30 seconds to a minute (I have measured this with Google Analytics).  Make sure that your project is presentable and visually pleasing.
 
 #### If you do not have a portfolio
+Clone a well-known non-trivial web application such as Slack, Spotify, AirBnB, Facebook, Strava, or Asana.  For example, I cloned Slack - [SlackOff](http://www.slackoff.today/).
 
-Clone a well-known web application such as Slack, Spotify, AirBnB, Facebook, Strava, or Asana.  For example, I cloned Slack - [SlackOff](http://www.slackoff.today/).
-
-You have 15 seconds to explain your project during the phone screen.  You do not want to waste it by saying "I made this dating app that matches people based on the side of the bed they sleep on.  I swear, it's based on science!"  You want to say "I cloned Slack using React/Redux front-end, Rails/Postgres back-end, and Pusher websocket API for live chat functionality."
+You have 15 seconds to explain your project during the phone screen.  You do not want to waste it by saying "I made this dating app that matches people based on the side of the bed they sleep on.  I swear, it's based on science!"  You want to say "I cloned Slack using React/Redux front-end, Rails/PSQL back-end, and Pusher websocket API for live chat functionality."
 
 You are not trying to get on Shark Tank.  You are a coder, and it is not your job to come up with creative app ideas.  Focus on what your actual job is:  code.  Also, you are not a designer.  By cloning a well-established app, you don't have to worry about the design.  It is already using UX/UI that has been refined by the best professionals.
 
 ## Study
 
+You will be asked difficult questions at the interviews.   You will be asked difficult questions.  You do not want to be standing there embarrassed in front of the whiteboard.
+
+Nobody hands out $90k+ out of the goodness of the heart.  They will ask you the same questions they ask fresh CS graduates.  The goal is to impress them: "If someone who only started coding less than half a year ago can answer difficult questions better than someone who studied CS for 4 years, this person must have incredible potential."
+
+The learning does not stop after a coding bootcamp (nor when you get a job).
+
 > **Study algorithms and data structures fundamentals**
 
-* Algorithms
+* **Algorithms**
   * Bubble sort
   * Merge sort
   * Quick sort
   * Quick sort in place
   * Heap sort
   * Binary search
-  * Depth-first search and breadth-first tree search
-* Data Structures
-  * Queue and stack
+  * Depth-first and breadth-first tree search
+* **Data Structures**
+  * Queue
+  * Stack
   * Single and double linked list
-  * Static and dynamic array with ring buffer
+  * Static and dynamic array *with ring buffer*
   * Heap
   * Hash map
-  * LRU Cache
   * Binary search tree
-  * Graph
-  * Trie
+  * *Graph*
+  * *LRU Cache*
+  * *Trie*
+
+** *Italics are optional*
+
+These are common whiteboard questions.  Pick one topic per day, and keep cycling through the list.  By the third time, you will get it.  Memorize the APIs of each subject.  For example, a `queue` has `push` and `pop` operations.  A binary search tree has a `length` operation.
+
+Try to solve it on your own first, then study the standard implementations.  These have been studied and researched by people far smarter than you and I.  Learn how they solved it.
 
 > **Study JavaScript fundamentals**
 
@@ -143,14 +160,26 @@ You are not trying to get on Shark Tank.  You are a coder, and it is not your jo
 * `map`, `reduce`, and `filter`
 * DOM traversal and manipulation
 
+These are some of the most common initial phone screen questions to filter candidates.  Be ready to smoothly explain these concepts at the drop of a dime.
+
 > **Study web application architecture**
 
 * What happens when a user enters a URL in the browser?
+  * Describe the entire process from the browser to your database, then back to the browser.
 * How would you design a multiplayer tic tac toe game for 10 million users per month?
 * How would you design a URL shortener like [bit.ly](https://bit.ly)?
 * What is a load balancer?
 * Where are the caching layers?
-* What database sharding strategies are there?
+* What is a CDN and how does it work?
+* What is database sharding?
+
+These are some of the most important questions, but unfortunately, not all bootcamps teach them.  I have been asked architecture questions at three on-sites, so they should be studied.
+
+True story:  I was at an on-site for an amazing company.  After the phone screen, they told me they were going to ask me an architecture question at the on-site.  I was concerned.  I knew nothing about the subject, and there was to be absolutely no BS-ing allowed since my interviewer was a MIT CS grad.  I frantically Googled trying to learn this substantial subject over a weekend (*lol*).
+
+Then I finally came across this article:  [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) (Chapter 1 of the book).  I read it three times that weekend, and attempted my best to digest the material.  It worked.  I was asked *"How would you design a multiplayer tic tac toe game for 10 million users per month?"*.  I applied the concepts learned from the article to solve the problem.  And I got the offer.
+
+You are competing against hundreds of other coding bootcamp grads for the same position.  You need a way to distinguish yourself from the pack.  The web application architecture is where you can turn that on-site into an offer.  Use the above article as the starting point, and start Googling each concept.
 
 ## Apply
 
@@ -165,5 +194,7 @@ Your goal is to apply to 8 companies a day.  Dedicate your morning and early aft
 Apply for every single entry/mid-level positions.  Never reject yourself from the company.  You have no idea what the company is looking for.
 
 This is the most difficult phase.  You will have heartbreaks.  You will go for weeks without hearing back from anywhere.  You will question yourself whether you are really hireable or not.  Keep going and keep improving yourself.
+
+# Have Fun!
 
 I hope this guide can provide some structure to your journey.  This guide is currently under construction, and will be constantly receiving updates.  If you would like to be notified when the final version is published please follow me on [Twitter](https://twitter.com/kevinkiklee)!
