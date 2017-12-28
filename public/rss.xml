@@ -1,22 +1,199 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[I have no idea what I am doing]]></title><description><![CDATA[Coding blog focused on algorithms & data structures, breaking into the software engineering industry, random ramblings about code, and of course, memes.]]></description><link>https://kevinkiklee.com</link><image><url>https://kevinkiklee.com/logos/logo-512.png</url><title>I have no idea what I am doing</title><link>https://kevinkiklee.com</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Wed, 27 Dec 2017 17:33:59 GMT</lastBuildDate><atom:link href="https://kevinkiklee.com/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Kevin K. Lee]]></author><copyright><![CDATA[Copyright © 2018]]></copyright><item><title><![CDATA[I have no idea what I am doing]]></title><description><![CDATA[I have just started in the field, and I have realized very quickly that I have no idea what I am doing, and I imagine that I will feel this…]]></description><link>https://kevinkiklee.com/i-have-no-idea-what-i-am-doing</link><guid isPermaLink="false">https://kevinkiklee.com/i-have-no-idea-what-i-am-doing</guid><category><![CDATA[ramble]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Wed, 27 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I have just started in the field, and I have realized very quickly that I have no idea what I am doing, and I imagine that I will feel this way for the rest of my life.  I am specifically interested in what a programming language is and what it can do.  I realize that there will be no end, and at no point, I will have a clue of what is going on.  Therefore, I have accepted a simple truth that I will never actually understand what I am doing at any given point of time.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[I have no idea what I am doing]]></title><description><![CDATA[Coding blog focused on algorithms & data structures, breaking into the software engineering industry, random ramblings about code, and of course, memes.]]></description><link>https://kevinkiklee.com</link><image><url>https://kevinkiklee.com/logos/logo-512.png</url><title>I have no idea what I am doing</title><link>https://kevinkiklee.com</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Thu, 28 Dec 2017 07:35:31 GMT</lastBuildDate><atom:link href="https://kevinkiklee.com/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Kevin K. Lee]]></author><copyright><![CDATA[Copyright © 2018]]></copyright><item><title><![CDATA[I have no idea what I am doing]]></title><description><![CDATA[I have just started in the field, and I have realized very quickly that I have no idea what I am doing, and I imagine that I will feel this…]]></description><link>https://kevinkiklee.com/i-have-no-idea-what-i-am-doing</link><guid isPermaLink="false">https://kevinkiklee.com/i-have-no-idea-what-i-am-doing</guid><category><![CDATA[ramble]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Wed, 27 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/no-idea-6ba5a5aa8066a1b37579c6b96f7ce941-2fafb.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 400px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 63.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABYBAQEBAAAAAAAAAAAAAAAAAAMAAf/aAAwDAQACEAMQAAABkbUycgCT/8QAGhAAAwEAAwAAAAAAAAAAAAAAAQIDEQASFP/aAAgBAQABBQKrMKmmn0lQtdR6KR25/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/AYx//8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/ATF//8QAHBAAAQMFAAAAAAAAAAAAAAAAAAERIQIQElGh/9oACAEBAAY/AtDoNUkiQNj23//EAB4QAQEAAgAHAAAAAAAAAAAAAAERADEhQVFhcaHw/9oACAEBAAE/IXjW+MuaTHnHAajuzquSq79YgT381g4UHzn/2gAMAwEAAgADAAAAEGTv/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBIUH/2gAIAQMBAT8QbSWtn//EABgRAAMBAQAAAAAAAAAAAAAAAAABESFB/9oACAECAQE/EErBVcP/xAAeEAEAAgIBBQAAAAAAAAAAAAABACERMUFRYYHB8P/aAAgBAQABPxAcvIPm5hrfy3PXUN0hnKRSWBaoPd5RDQEiAw37MuQBu0//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Dog no idea&quot;
+        title=&quot;&quot;
+        src=&quot;/static/no-idea-6ba5a5aa8066a1b37579c6b96f7ce941-2fafb.jpg&quot;
+        srcset=&quot;/static/no-idea-6ba5a5aa8066a1b37579c6b96f7ce941-cf19a.jpg 200w,
+/static/no-idea-6ba5a5aa8066a1b37579c6b96f7ce941-2fafb.jpg 400w&quot;
+        sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I have just started in the field, and I have realized very quickly that I have no idea what I am doing, and I imagine that I will feel this way for the rest of my life.  I am specifically interested in what a programming language is and what it can do.  I realize that there will be no end, and at no point, I will have a clue of what is going on.  Therefore, I have accepted a simple truth that I will never actually understand what I am doing at any given point of time.&lt;/p&gt;
 &lt;p&gt;I have been fortunate to enter the software engineering industry from a very non-traditional background.  I would like to share this knowledge on how to get your first software engineer job.  Quick answer?  I studied 12-14 hours every single day for 6 months.  Well, it is a little more involved than that, and I want to write a helpful and actionable guide.  A part of the process is understanding the fundamentals of key algorithms and data structures.  The process is not easy.&lt;/p&gt;
 &lt;p&gt;Also, this blog is a documentation of my growth for my own purposes.  A year from now, I imagine I will be laughing hard at my own ignorance.  And again the year after that, and it goes on.&lt;/p&gt;
 &lt;p&gt;Anyway, enough rambling.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Kevin&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[How to become a software engineer in 6 months]]></title><description><![CDATA[Under Construction  - This guide will be under construction for awhile, so I am releasing as I write it. Is it possible to become a software…]]></description><link>https://kevinkiklee.com/how-to-become-a-software-engineer-in-6-months</link><guid isPermaLink="false">https://kevinkiklee.com/how-to-become-a-software-engineer-in-6-months</guid><category><![CDATA[guide]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Wed, 27 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Under Construction&lt;/strong&gt; - This guide will be under construction for awhile, so I am releasing as I write it.&lt;/p&gt;
-&lt;p&gt;Is it possible to become a software engineer from 0 in 6 months?  Yes, I have taken this path, and I come from a very non-traditional background.  First, right off the bat, I have to tell you that it involves attending a coding bootcamp.  I do not see a way to accomplish this in such a condensed period of time without attending an accelerator program.  That&apos;s all a coding bootcamp is.  It is a means to accelerate the process.  It is not some magical institution where you show up and suddenly you are given a job.  You must be prepared to work.&lt;/p&gt;
-&lt;p&gt;This guide describes the entire process and provides actionable items.&lt;/p&gt;
-&lt;h2 id=&quot;coding-bootcamp&quot;&gt;&lt;a href=&quot;#coding-bootcamp&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Coding Bootcamp?&lt;/h2&gt;
-&lt;p&gt;This guide is not a coding bootcamp promotion article.  A bootcamp is just a part of the process.  It is absolutely possible to achieve the same goal through self-learning, but it will require a much longer period of time.  That is a topic I would like to write about in the future.&lt;/p&gt;
-&lt;p&gt;If you have the means, including the finances, housing and time, I recommend attending a good coding bootcamp.  There are&lt;/p&gt;
-&lt;h3 id=&quot;choosing-the-right-coding-bootcamp&quot;&gt;&lt;a href=&quot;#choosing-the-right-coding-bootcamp&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Choosing the right coding bootcamp&lt;/h3&gt;
-&lt;p&gt;Study for 3 months, get a job for $90k!  I thought it was&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[How to become a software engineer in 6 months]]></title><description><![CDATA[This guide is focused on providing actionable items that will increase your chance of attaining the entry-level software engineer position…]]></description><link>https://kevinkiklee.com/how-to-become-a-software-engineer-in-6-months</link><guid isPermaLink="false">https://kevinkiklee.com/how-to-become-a-software-engineer-in-6-months</guid><category><![CDATA[guide]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Wed, 27 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This guide is focused on providing actionable items that will increase your chance of attaining the entry-level software engineer position for $90k-$110k average salary within 6 months.&lt;/p&gt;
+&lt;p&gt;Is it possible to become a software engineer from 0 in 6 months?  Yes, I have taken this path, and I come from a very non-traditional background.&lt;/p&gt;
+&lt;p&gt;I disagree with the myth that everyone can become a developer.  This is a marketing ploy.  Coding is hard.  To become job-ready in 6 months is a daunting task.  Be prepared to work.  I studied 12-14 hours every single day for 6 months.&lt;/p&gt;
+&lt;p&gt;I highly suggest attending a coding bootcamp.  It is very hard to accomplish this in such a condensed period of time without participitating in an accelerator program.  That&apos;s all a coding bootcamp is.  It is a means to accelerate the process, but it is still a challenging task.  It is not some magical institution where you show up, and suddenly you are given a job.&lt;/p&gt;
+&lt;p&gt;The guide has two sections:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&quot;coding-bootcamp&quot;&gt;&lt;a href=&quot;#coding-bootcamp&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Coding Bootcamp&lt;/h4&gt;
+&lt;p&gt;The first section is geared towards someone who is interested in entering the field.  This section will describe how to start the process.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&quot;job-search&quot;&gt;&lt;a href=&quot;#job-search&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Job Search&lt;/h4&gt;
+&lt;p&gt;The second section is for someone who has just finished a coding bootcamp, and is actively seeking a job.  This section provides you with concrete guidelines on what you have to study and build.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The entire process should take approximately 6 months.  The actionable items are highlighted in a blue block.&lt;/p&gt;
+&lt;h1 id=&quot;coding-bootcamp-1&quot;&gt;&lt;a href=&quot;#coding-bootcamp-1&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Coding Bootcamp&lt;/h1&gt;
+&lt;p&gt;This guide is not a coding bootcamp promotion article.  A bootcamp is just the optimal path, but it is absolutely possible to achieve the same goal through self-learning.  However, expect it to be significantly more dificult, and it will require a much longer period of time.  Self-learning is a topic I would like to write about in the future.  If you have the means, including money, housing and time, I recommend attending a good coding bootcamp.&lt;/p&gt;
+&lt;h2 id=&quot;choosing-the-right-coding-bootcamp&quot;&gt;&lt;a href=&quot;#choosing-the-right-coding-bootcamp&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Choosing the right coding bootcamp&lt;/h2&gt;
+&lt;p&gt;CS graduates, coding bootcampers and self-lerners have flooded the market.  Your job application will get lost in the sea of applications.  You want to attend a bootcamp that will prepare you well for the challenges ahead.&lt;/p&gt;
+&lt;p&gt;Right off the bat, ignore the ones without a selection process.  Not everyone can become job-ready in 6 months.  There must be a filter to keep the quality of the curriculum at a high level.  Also, look for a program that removes students if they cannot keep up.&lt;/p&gt;
+&lt;p&gt;Thoroughly investigate what the graduates say on various coding bootcamp review websites.  From what I have seen, the reviews are genuine (and I have seen my cohortmates leave reviews).  Look for a place where the students consistently comment that it was challenging.&lt;/p&gt;
+&lt;p&gt;If you have a chance to visit the location, the most important thing to check out is the projects.  If they steer you towards few hand-selected top projects, politely insist on seeing the portfolio projects by the current or previous group.  This is the best indicator of the curriculum&apos;s strength.&lt;/p&gt;
+&lt;p&gt;Disregard any physical superficialities.  You are there to learn, not to sip on a latte after your meditation break.  I studied in a painted white box, packed shoulder-to-shoulder, and fought over chairs.  About 90% of my classmates had an offer for $90k average within 3 months after the completion.  Do not be drawn by silly amenities.&lt;/p&gt;
 &lt;h2 id=&quot;preparing-for-a-coding-bootcamp&quot;&gt;&lt;a href=&quot;#preparing-for-a-coding-bootcamp&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Preparing for a coding bootcamp&lt;/h2&gt;
+&lt;p&gt;Before starting a bootcamp, you should complete the front-end module of &lt;a href=&quot;https://freecodecamp.org&quot;&gt;FreeCodeCamp&lt;/a&gt;.  It took me about a month, and there is no better curriculum available for free online.  That is the first actionable item of this guide:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Complete the FreeCodeCamp front-end module&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I am flat out telling you what to do: &lt;strong&gt;Study JavaScript&lt;/strong&gt;.  I personally started from Ruby, and I love Ruby with all my heart, JavaScript job market is significantly bigger.  It is the universal web language.  The language you learn does not matter in the end, but in the beginning, it does.  Ruby is easier and more elegant, but for employment purposes, JavaScript is by far the highest in demand.&lt;/p&gt;
+&lt;p&gt;Now, go study.  Don&apos;t spend too much time socializing and networking where you talk about how you are going to become a software engineer.  6 months from now, they won&apos;t remember you, and you won&apos;t remember them.  Go study.&lt;/p&gt;
+&lt;p&gt;The coding bootcamp should have a prep material.  After finishing FreeCodeCamp and the prep material, look into the framework you will be studying.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Complete a brief tutorial of the framework taught in the course&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;For Rails, &lt;a href=&quot;https://www.railstutorial.org/book&quot;&gt;Rails Tutorial&lt;/a&gt; is the best guide.  For React, &lt;a href=&quot;https://reactjs.org/tutorial/tutorial.html&quot;&gt;React.js&lt;/a&gt; tutorials on the main website is the best.  Even if you do not fully understand what is going on, at least copy-paste along to become familiar with the terminologies and the process.  The bootcamp is significantly easier when it&apos;s the second time you are looking at the material.  Give yourself the best chance of success.&lt;/p&gt;
 &lt;h2 id=&quot;attending-a-coding-bootcamp&quot;&gt;&lt;a href=&quot;#attending-a-coding-bootcamp&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Attending a coding bootcamp&lt;/h2&gt;
-&lt;h2 id=&quot;preparing-for-the-job-search&quot;&gt;&lt;a href=&quot;#preparing-for-the-job-search&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Preparing for the job search&lt;/h2&gt;
-&lt;h3 id=&quot;study&quot;&gt;&lt;a href=&quot;#study&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Study&lt;/h3&gt;
-&lt;h3 id=&quot;apply&quot;&gt;&lt;a href=&quot;#apply&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Apply&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[Algorithms & Data Structures]]></title><description><![CDATA[Under Construction Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et purus quis tortor malesuada fringilla. Curabitur…]]></description><link>https://kevinkiklee.com/algorithms-data-structures</link><guid isPermaLink="false">https://kevinkiklee.com/algorithms-data-structures</guid><category><![CDATA[algorithm]]></category><category><![CDATA[data structures]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;[Under Construction]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Study.  Dedicate the next 3 months of your life to nothing but studying.  There is no shortcut to this process.  You will be asked difficult questions at interviews.  You do not want to be standing there embarrassed.  Your classmates will motivate you through the challenge.&lt;/p&gt;
+&lt;p&gt;I am a military veteran, and I attended one of the hardest bootcamps at Ft. Benning Infantry OSUT.  Take it from someone who went to a real bootcamp:  a coding bootcamp is just as hard.  In the military, during the constant times of physical misery, you can turn your brain off.  You cannot do that at a coding bootcamp, and the stress of pushing your brain to the max for prolonged periods of time is just as tiring.&lt;/p&gt;
+&lt;p&gt;Study.  How many times have I used the word &lt;code&gt;study&lt;/code&gt; in this guide?  =D&lt;/p&gt;
+&lt;h1 id=&quot;job-search-1&quot;&gt;&lt;a href=&quot;#job-search-1&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Job Search&lt;/h1&gt;
+&lt;p&gt;Congratulations!  You just finished your coding bootcamp, and you have just reached the starting line!  The real challenge begins now.  Here are the topics you should have basic understanding of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Web application architecture&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Front-end framework (React+Redux)&lt;/li&gt;
+&lt;li&gt;Back-end framework (Node/Rails)&lt;/li&gt;
+&lt;li&gt;Database (SQL/MongoDB)&lt;/li&gt;
+&lt;li&gt;Local development environment setup&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JavaScript fundamentals&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Callbacks and first-class functions&lt;/li&gt;
+&lt;li&gt;Closure&lt;/li&gt;
+&lt;li&gt;Context and &lt;code&gt;this&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bind&lt;/code&gt;, &lt;code&gt;apply&lt;/code&gt;, and &lt;code&gt;call&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;let&lt;/code&gt;, &lt;code&gt;const&lt;/code&gt;, and &lt;code&gt;var&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;map&lt;/code&gt;, &lt;code&gt;reduce&lt;/code&gt;, and &lt;code&gt;filter&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;DOM traversal and manipulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CS fundamentals&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Time/Space Complexity - &lt;code&gt;O(n)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Object-oriented programming&lt;/li&gt;
+&lt;li&gt;Recursion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Other fundamentals&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Version control system (Git)&lt;/li&gt;
+&lt;li&gt;Flexbox / Responsive CSS&lt;/li&gt;
+&lt;li&gt;Test-driven development&lt;/li&gt;
+&lt;li&gt;How to Google&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;build&quot;&gt;&lt;a href=&quot;#build&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Build&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Build or polish the portfolio project&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You should have built a project at your coding bootcamp.  Polish it.  It is the only proof of your skillset.&lt;/p&gt;
+&lt;p&gt;When you meet someone at a networking event, you want to point them to your project and its GitHub.  Since you are at a coding event, there is a good chance that there are laptops everywhere.  Type in your URL, and provide a concrete and absolute proof of what you can do.&lt;/p&gt;
+&lt;p&gt;The aesthetics matter.  The first person seeing your application will most likely not be an engineer, but the recruiter who does not understand how cleverly you solved a &lt;code&gt;N+1&lt;/code&gt; query problem.  The recruiter will play around on your app for about 30 seconds to a minute (I have measured this with Google Analytics).  Make sure that your project is presentable and visually pleasing.&lt;/p&gt;
+&lt;h4 id=&quot;if-you-do-not-have-a-portfolio&quot;&gt;&lt;a href=&quot;#if-you-do-not-have-a-portfolio&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;If you do not have a portfolio&lt;/h4&gt;
+&lt;p&gt;Clone a well-known web application such as Slack, Spotify, AirBnB, Facebook, Strava, or Asana.  For example, I cloned Slack - &lt;a href=&quot;http://www.slackoff.today/&quot;&gt;SlackOff&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You have 15 seconds to explain your project during the phone screen.  You do not want to waste it by saying &quot;I made this dating app that matches people based on the side of the bed they sleep on.  I swear, it&apos;s based on science!&quot;  You want to say &quot;I cloned Slack using React/Redux front-end, Rails/Postgres back-end, and Pusher websocket API for live chat functionality.&quot;&lt;/p&gt;
+&lt;p&gt;You are not trying to get on Shark Tank.  You are a coder, and it is not your job to come up with creative app ideas.  Focus on what your actual job is:  code.  Also, you are not a designer.  By cloning a well-established app, you don&apos;t have to worry about the design.  It is already using UX/UI that has been refined by the best professionals.&lt;/p&gt;
+&lt;h2 id=&quot;study&quot;&gt;&lt;a href=&quot;#study&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Study&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Study algorithms and data structures fundamentals&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Algorithms&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bubble sort&lt;/li&gt;
+&lt;li&gt;Merge sort&lt;/li&gt;
+&lt;li&gt;Quick sort&lt;/li&gt;
+&lt;li&gt;Quick sort in place&lt;/li&gt;
+&lt;li&gt;Heap sort&lt;/li&gt;
+&lt;li&gt;Binary search&lt;/li&gt;
+&lt;li&gt;Depth-first search and breadth-first tree search&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data Structures&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Queue and stack&lt;/li&gt;
+&lt;li&gt;Single and double linked list&lt;/li&gt;
+&lt;li&gt;Static and dynamic array with ring buffer&lt;/li&gt;
+&lt;li&gt;Heap&lt;/li&gt;
+&lt;li&gt;Hash map&lt;/li&gt;
+&lt;li&gt;LRU Cache&lt;/li&gt;
+&lt;li&gt;Binary search tree&lt;/li&gt;
+&lt;li&gt;Graph&lt;/li&gt;
+&lt;li&gt;Trie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Study JavaScript fundamentals&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Callbacks and first-class functions&lt;/li&gt;
+&lt;li&gt;Closure&lt;/li&gt;
+&lt;li&gt;Context and &lt;code&gt;this&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;bind&lt;/code&gt;, &lt;code&gt;apply&lt;/code&gt;, and &lt;code&gt;call&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;let&lt;/code&gt;, &lt;code&gt;const&lt;/code&gt;, and &lt;code&gt;var&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;map&lt;/code&gt;, &lt;code&gt;reduce&lt;/code&gt;, and &lt;code&gt;filter&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;DOM traversal and manipulation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Study web application architecture&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;What happens when a user enters a URL in the browser?&lt;/li&gt;
+&lt;li&gt;How would you design a multiplayer tic tac toe game for 10 million users per month?&lt;/li&gt;
+&lt;li&gt;How would you design a URL shortener like &lt;a href=&quot;https://bit.ly&quot;&gt;bit.ly&lt;/a&gt;?&lt;/li&gt;
+&lt;li&gt;What is a load balancer?&lt;/li&gt;
+&lt;li&gt;Where are the caching layers?&lt;/li&gt;
+&lt;li&gt;What database sharding strategies are there?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;apply&quot;&gt;&lt;a href=&quot;#apply&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Apply&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Apply to at least 40 companies a week&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This is purely a numbers game.&lt;/p&gt;
+&lt;p&gt;During WW2, there was a study conducted in finding the factor that produced the most casualty.  It was not the training.  It was not the equipment either.  It was simply the number of bullets fired.  The same approach works very well in the job search.&lt;/p&gt;
+&lt;p&gt;Your goal is to apply to 8 companies a day.  Dedicate your morning and early afternoon (and work on your portfolio project or study Algo&amp;#x26;DS in the afternoon).  Split your piles into two:  a copy-paste pile for the companies you aren&apos;t interested in, and an interested pile where you will spend time crafting your cover letter.&lt;/p&gt;
+&lt;p&gt;Apply for every single entry/mid-level positions.  Never reject yourself from the company.  You have no idea what the company is looking for.&lt;/p&gt;
+&lt;p&gt;This is the most difficult phase.  You will have heartbreaks.  You will go for weeks without hearing back from anywhere.  You will question yourself whether you are really hireable or not.  Keep going and keep improving yourself.&lt;/p&gt;
+&lt;p&gt;I hope this guide can provide some structure to your journey.  This guide is currently under construction, and will be constantly receiving updates.  If you would like to be notified when the final version is published please follow me on &lt;a href=&quot;https://twitter.com/kevinkiklee&quot;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Algorithms & Data Structures]]></title><description><![CDATA[Under Construction Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et purus quis tortor malesuada fringilla. Curabitur…]]></description><link>https://kevinkiklee.com/algorithms-data-structures</link><guid isPermaLink="false">https://kevinkiklee.com/algorithms-data-structures</guid><category><![CDATA[algorithm]]></category><category><![CDATA[data structures]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;[Under Construction]&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et purus quis tortor malesuada fringilla. Curabitur sed metus et enim suscipit viverra et sit amet erat. Suspendisse molestie, nibh at facilisis commodo, neque eros auctor &lt;code&gt;sapien&lt;/code&gt; magna, vel hendrerit dui purus eget sapien. Phasellus vel elit non turpis vel ullamcorper egestas. &lt;code&gt;p rand() &gt; 0.99 ? &apos;i am a god&apos; : &apos;i have no idea what i am doing&apos;&lt;/code&gt;.  In imperdiet sit amet risus ac faucibus. Curabitur sit amet mattis massa, non tristique nunc. Donec scelerisque sollicitudin nisl, ut semper leo condimentum ac. Donec ullamcorper orci nulla, eget pharetra nisl fermentum eget.&lt;/p&gt;
 &lt;h1 id=&quot;mattis-massa-non-tristique&quot;&gt;&lt;a href=&quot;#mattis-massa-non-tristique&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Mattis massa non tristique&lt;/h1&gt;
 &lt;p&gt;Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque&lt;/p&gt;
@@ -122,10 +299,136 @@
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et purus quis tortor malesuada fringilla. Curabitur sed metus et enim suscipit viverra et sit amet erat.&lt;/p&gt;
 &lt;h2 id=&quot;donec-scelerisque-sollicitudins&quot;&gt;&lt;a href=&quot;#donec-scelerisque-sollicitudins&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Donec scelerisque sollicitudins&lt;/h2&gt;
 &lt;p&gt;Suspendisse molestie, nibh at facilisis commodo, neque eros auctor magna, vel hendrerit dui purus eget sapien. Phasellus vel elit non turpis ullamcorper egestas. In imperdiet sit amet risus ac faucibus. Curabitur sit amet mattis massa, non tristique nunc. Donec scelerisque sollicitudin nisl, ut semper leo condimentum ac. Donec ullamcorper orci nulla, eget pharetra nisl fermentum eget.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et purus quis tortor malesuada fringilla. Curabitur sed metus et enim suscipit viverra et sit amet erat. Suspendisse molestie, nibh at facilisis commodo, neque eros auctor magna, vel hendrerit dui purus eget sapien. Phasellus vel elit non turpis ullamcorper egestas. In imperdiet sit amet risus ac faucibus. Curabitur sit amet mattis massa, non tristique nunc. Donec scelerisque sollicitudin nisl, ut semper leo condimentum ac. Donec ullamcorper orci nulla, eget pharetra nisl fermentum eget.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Yes, I am a software engineer]]></title><description><![CDATA[It's been about a year since I started coding.  I still have no idea what the hell I am doing.]]></description><link>https://kevinkiklee.com/yes-i-am-a-software-engineer</link><guid isPermaLink="false">https://kevinkiklee.com/yes-i-am-a-software-engineer</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/yes-i-am-a-software-engineer.jpg&quot; alt=&quot;Yes, I am a software engineer&quot;&gt;&lt;/p&gt;
-&lt;p&gt;It&apos;s been about a year since I started coding.  I still have no idea what the hell I am doing.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[It works...why?]]></title><description><![CDATA[You learn just as much going down this rabbit hole.]]></description><link>https://kevinkiklee.com/it-works-why</link><guid isPermaLink="false">https://kevinkiklee.com/it-works-why</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/it-works-why.jpg&quot; alt=&quot;It works why&quot;&gt;&lt;/p&gt;
-&lt;p&gt;You learn just as much going down this rabbit hole.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two states of every programmer]]></title><description><![CDATA[Just kidding, god is dead.]]></description><link>https://kevinkiklee.com/two-states-of-every-programmer</link><guid isPermaLink="false">https://kevinkiklee.com/two-states-of-every-programmer</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/two-states.jpg&quot; alt=&quot;Two states of every programmer&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Just kidding, god is dead.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Friday is the best day to deploy]]></title><description><![CDATA[Guaranteed to go smoothly without a heartache]]></description><link>https://kevinkiklee.com/friday-is-the-best-day-to-deploy</link><guid isPermaLink="false">https://kevinkiklee.com/friday-is-the-best-day-to-deploy</guid><category><![CDATA[meme]]></category><category><![CDATA[horror]]></category><category><![CDATA[dog]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/friday-deployments.jpg&quot; alt=&quot;Friday is the best day to deploy&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et purus quis tortor malesuada fringilla. Curabitur sed metus et enim suscipit viverra et sit amet erat. Suspendisse molestie, nibh at facilisis commodo, neque eros auctor magna, vel hendrerit dui purus eget sapien. Phasellus vel elit non turpis ullamcorper egestas. In imperdiet sit amet risus ac faucibus. Curabitur sit amet mattis massa, non tristique nunc. Donec scelerisque sollicitudin nisl, ut semper leo condimentum ac. Donec ullamcorper orci nulla, eget pharetra nisl fermentum eget.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Yes, I am a software engineer]]></title><description><![CDATA[It's been about a year since I started coding.  I still have no idea what the hell I am doing.]]></description><link>https://kevinkiklee.com/yes-i-am-a-software-engineer</link><guid isPermaLink="false">https://kevinkiklee.com/yes-i-am-a-software-engineer</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/yes-i-am-a-software-engineer-f170b09f6d965c4134421eaefcde34c1-2fafb.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 400px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIDBAX/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQIE/9oADAMBAAIQAxAAAAGnNgvqszVyJsOd/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxIhEf/aAAgBAQABBQL3BVhkBQLOSuwCaBjKAG5MrP/EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAEDAQE/AWP/xAAZEQACAwEAAAAAAAAAAAAAAAAAAQMRIRL/2gAIAQIBAT8BKb3SPas6Z//EABoQAAIDAQEAAAAAAAAAAAAAAAAhARExMlH/2gAIAQEABj8CQpGTRzF+jZhFGH//xAAbEAEAAgMBAQAAAAAAAAAAAAABACERMUFhUf/aAAgBAQABPyG7sRCAuFem7jFw5Ea9hzN7NfYXx1AFAnln/9oADAMBAAIAAwAAABDb6L3/xAAXEQADAQAAAAAAAAAAAAAAAAABEBFB/9oACAEDAQE/EKq0L//EABwRAQABBAMAAAAAAAAAAAAAAAEAESExkWGh4f/aAAgBAgEBPxBVu8dYrMho+y0rqrKOF3P/xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhMUFhsf/aAAgBAQABPxCo0cNez0vDTpKRlHCLTaxSUeFIPfa+wAI8LR+fJQVdNdYNErudg29d5P/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Yes, I am a software engineer&quot;
+        title=&quot;&quot;
+        src=&quot;/static/yes-i-am-a-software-engineer-f170b09f6d965c4134421eaefcde34c1-2fafb.jpg&quot;
+        srcset=&quot;/static/yes-i-am-a-software-engineer-f170b09f6d965c4134421eaefcde34c1-cf19a.jpg 200w,
+/static/yes-i-am-a-software-engineer-f170b09f6d965c4134421eaefcde34c1-2fafb.jpg 400w&quot;
+        sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;It&apos;s been about a year since I started coding.  I still have no idea what the hell I am doing.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[It works...why?]]></title><description><![CDATA[You learn just as much going down this rabbit hole.]]></description><link>https://kevinkiklee.com/it-works-why</link><guid isPermaLink="false">https://kevinkiklee.com/it-works-why</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/it-works-why-ad7931a544267b25a0f33ad61cfa1e85-2fafb.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 400px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAAAAEDAgQF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB9S8YaoIwp2Af/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAEQESEyQf/aAAgBAQABBQLBSoZ2Lh7OP//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABcQAQADAAAAAAAAAAAAAAAAABABESD/2gAIAQEABj8C3TB//8QAHhAAAgICAgMAAAAAAAAAAAAAAREAMRAhUWFxgZH/2gAIAQEAAT8hTUfsBGBrDMBgLqIpU3xCUmbMGrDeKPcr5Y//2gAMAwEAAgADAAAAENAEAP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EACEQAQEAAQMDBQAAAAAAAAAAAAERABAhMYGhwUFRYZHw/9oACAEBAAE/EFAtFlo84QsVxXa9edE97CwTb89MQm1u+scvsfeNeNCO37kwoDbsh3Xxp3+O4af/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;It works why&quot;
+        title=&quot;&quot;
+        src=&quot;/static/it-works-why-ad7931a544267b25a0f33ad61cfa1e85-2fafb.jpg&quot;
+        srcset=&quot;/static/it-works-why-ad7931a544267b25a0f33ad61cfa1e85-cf19a.jpg 200w,
+/static/it-works-why-ad7931a544267b25a0f33ad61cfa1e85-2fafb.jpg 400w&quot;
+        sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;You learn just as much going down this rabbit hole.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two states of every programmer]]></title><description><![CDATA[Just kidding, god is dead.]]></description><link>https://kevinkiklee.com/two-states-of-every-programmer</link><guid isPermaLink="false">https://kevinkiklee.com/two-states-of-every-programmer</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/two-states-b2db851f7d2de38ee30d3173c374936d-ae03d.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAYXkSIsmP//EABoQAAICAwAAAAAAAAAAAAAAAAECAyISITH/2gAIAQEAAQUCRRGu8HUgh6xcmN//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAfEAABAwMFAAAAAAAAAAAAAAAAARFxAhIxEBMhUWH/2gAIAQEABj8CzQt3MF+3Q06ZSB1Xwbo//8QAGxABAQEBAQADAAAAAAAAAAAAAREAITFBUfD/2gAIAQEAAT8hDVoMCx1H8k3VwvfcJ5idQudmfQTQ+SJd/9oADAMBAAIAAwAAABCc/wD/xAAVEQEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAwEBPxCH/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERYf/aAAgBAgEBPxB4Kn//xAAeEAEBAAMAAQUAAAAAAAAAAAABEQAhMUFxgbHB0f/aAAgBAQABPxCKLBRfQ6fOVIIAgV+DIo8AKhX8w7FNlFObn3ia4RWML2nMhPjhodrz3z//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Two states of every programmer&quot;
+        title=&quot;&quot;
+        src=&quot;/static/two-states-b2db851f7d2de38ee30d3173c374936d-ae03d.jpg&quot;
+        srcset=&quot;/static/two-states-b2db851f7d2de38ee30d3173c374936d-5bd45.jpg 200w,
+/static/two-states-b2db851f7d2de38ee30d3173c374936d-a7ce9.jpg 400w,
+/static/two-states-b2db851f7d2de38ee30d3173c374936d-ae03d.jpg 700w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Just kidding, god is dead.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Friday is the best day to deploy]]></title><description><![CDATA[Guaranteed to go smoothly without a heartache]]></description><link>https://kevinkiklee.com/friday-is-the-best-day-to-deploy</link><guid isPermaLink="false">https://kevinkiklee.com/friday-is-the-best-day-to-deploy</guid><category><![CDATA[meme]]></category><category><![CDATA[horror]]></category><category><![CDATA[dog]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/friday-deployments-f664d5e1855d95aa19f4e171e3fa75fa-d0fa8.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 500px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 83.2%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAARABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAIEAQMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAas8SSTQS9ZF5wT/xAAbEAACAwADAAAAAAAAAAAAAAAAAQIREiIyM//aAAgBAQABBQLTRpsSIxpcqoj4E+//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAbEAACAgMBAAAAAAAAAAAAAAAAMQERAhAhIv/aAAgBAQAGPwLhcnrItilj3J//xAAfEAACAgIBBQAAAAAAAAAAAAAAARFBITGBUXGhsfD/2gAIAQEAAT8hxHniykKRsWdzSH0EJCwSW25N31lvn2eSf//aAAwDAQACAAMAAAAQqP8Aw//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEDH/2gAIAQMBAT8QHCe3/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQESH/2gAIAQIBAT8Qawqf/8QAGxABAAMBAQEBAAAAAAAAAAAAAQARITGhQXH/2gAIAQEAAT8QXo0L06QNaJaQQr8ITT9lJyoukPFWG9igaBKB5C9tW6Gk8ZJ4S9if/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Friday is the best day to deploy&quot;
+        title=&quot;&quot;
+        src=&quot;/static/friday-deployments-f664d5e1855d95aa19f4e171e3fa75fa-d0fa8.jpg&quot;
+        srcset=&quot;/static/friday-deployments-f664d5e1855d95aa19f4e171e3fa75fa-12def.jpg 200w,
+/static/friday-deployments-f664d5e1855d95aa19f4e171e3fa75fa-a11df.jpg 400w,
+/static/friday-deployments-f664d5e1855d95aa19f4e171e3fa75fa-d0fa8.jpg 500w&quot;
+        sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
 &lt;p&gt;Guaranteed to go smoothly without a heartache&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Breadth-First and Depth-First Search]]></title><description><![CDATA[Under Construction Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean…]]></description><link>https://kevinkiklee.com/breadth-first-and-depth-first-search</link><guid isPermaLink="false">https://kevinkiklee.com/breadth-first-and-depth-first-search</guid><category><![CDATA[algorithm]]></category><category><![CDATA[search]]></category><category><![CDATA[tree]]></category><category><![CDATA[bfs]]></category><category><![CDATA[dfs]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;[Under Construction]&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque.  Quisque quis fringilla velit, sed posuere leo. Morbi venenatis urna eget dolor pretium, ac elementum ipsum dictum. Aenean orci nisi, sodales in lacinia venenatis, fermentum non libero. Pellentesque&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot;&gt;

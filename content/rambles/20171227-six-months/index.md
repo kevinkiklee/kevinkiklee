@@ -14,20 +14,20 @@ Is it possible to become a software engineer from 0 in 6 months?  Yes, I have ta
 
 I disagree with the myth that everyone can become a developer.  This is a marketing ploy.  Coding is hard.  To become job-ready in 6 months is a daunting task.  Be prepared to work.  I studied 12-14 hours every single day for 6 months.
 
-I highly suggest attending a coding bootcamp.  It is very hard to accomplish this in such a condensed period of time without participitating an accelerator program.  That's all a coding bootcamp is.  It is a means to accelerate the process.  It is not some magical institution where you show up, and suddenly you are given a job.
+I highly suggest attending a coding bootcamp.  It is very hard to accomplish this in such a condensed period of time without participitating in an accelerator program.  That's all a coding bootcamp is.  It is a means to accelerate the process, but it is still a challenging task.  It is not some magical institution where you show up, and suddenly you are given a job.
 
 The guide has two sections:
 
 * #### Coding Bootcamp
   The first section is geared towards someone who is interested in entering the field.  This section will describe how to start the process.
 * #### Job Search
-  The second section is for someone who has just finished a coding bootcamp, and is actively seeking for a job.  This section provides you with concrete guidelines on what you have to study and build.
+  The second section is for someone who has just finished a coding bootcamp, and is actively seeking a job.  This section provides you with concrete guidelines on what you have to study and build.
 
-The entire process should take approximately 6 months.  The actionable items are highlighted in a block box.
+The entire process should take approximately 6 months.  The actionable items are highlighted in a blue block.
 
 # Coding Bootcamp
 
-This guide is not a coding bootcamp promotion article.  A bootcamp is just a part of the process.  It is absolutely possible to achieve the same goal through self-learning, but it will require a much longer period of time.  That is a topic I would like to write about in the future.  If you have the means, including money, housing and time, I recommend attending a good coding bootcamp.
+This guide is not a coding bootcamp promotion article.  A bootcamp is just the optimal path, but it is absolutely possible to achieve the same goal through self-learning.  However, expect it to be significantly more dificult, and it will require a much longer period of time.  Self-learning is a topic I would like to write about in the future.  If you have the means, including money, housing and time, I recommend attending a good coding bootcamp.
 
 ## Choosing the right coding bootcamp
 
@@ -39,15 +39,15 @@ Thoroughly investigate what the graduates say on various coding bootcamp review 
 
 If you have a chance to visit the location, the most important thing to check out is the projects.  If they steer you towards few hand-selected top projects, politely insist on seeing the portfolio projects by the current or previous group.  This is the best indicator of the curriculum's strength.
 
-Disregard any physical superficialities.  You are there to learn, not to sip a latte after your meditation break.  I studied in a painted white box, packed shoulder-to-shoulder, and fought over chairs.  About 90% of my classmates had an offer for $90k average within 3 months after the completion.  Do not be drawn by silly amenities.
+Disregard any physical superficialities.  You are there to learn, not to sip on a latte after your meditation break.  I studied in a painted white box, packed shoulder-to-shoulder, and fought over chairs.  About 90% of my classmates had an offer for $90k average within 3 months after the completion.  Do not be drawn by silly amenities.
 
 ## Preparing for a coding bootcamp
 
-At minimum, you should complete the front-end module of [FreeCodeCamp](https://freecodecamp.org).  It took me about a month, and there is no better curriculum available for free online.  That is the first actionable item of this guide:
+Before starting a bootcamp, you should complete the front-end module of [FreeCodeCamp](https://freecodecamp.org).  It took me about a month, and there is no better curriculum available for free online.  That is the first actionable item of this guide:
 
 > **Complete the FreeCodeCamp front-end module**
 
-I am flat out telling you what to do: **Study JavaScript**.  I personally started from Ruby, and I love Ruby with all my heart, but if you have to choose one over the other, choose JavaScript.  It is the universal web language.  The language you learn does not matter in the end, but in the beginning, it does.  Ruby is significantly easier and more elegant, but for employment purposes, JavaScript is by far the highest in demand.
+I am flat out telling you what to do: **Study JavaScript**.  I personally started from Ruby, and I love Ruby with all my heart, JavaScript job market is significantly bigger.  It is the universal web language.  The language you learn does not matter in the end, but in the beginning, it does.  Ruby is easier and more elegant, but for employment purposes, JavaScript is by far the highest in demand.
 
 Now, go study.  Don't spend too much time socializing and networking where you talk about how you are going to become a software engineer.  6 months from now, they won't remember you, and you won't remember them.  Go study.
 
@@ -59,15 +59,15 @@ For Rails, [Rails Tutorial](https://www.railstutorial.org/book) is the best guid
 
 ## Attending a coding bootcamp
 
-Study.  Dedicate the next 3 months of your life to nothing but studying.  There is no shortcut to this process.  You will be asked difficult questions at interviews.  You do not want to be standing there embarrassed.  Your classmates will motivate you through the difficult process.
+Study.  Dedicate the next 3 months of your life to nothing but studying.  There is no shortcut to this process.  You will be asked difficult questions at interviews.  You do not want to be standing there embarrassed.  Your classmates will motivate you through the challenge.
 
-I am a military veteran, and I attended one of the hardest bootcamps at Ft. Benning Infantry OSUT.  Take it from someone who went to a real bootcamp:  a coding bootcamp is just as hard, and there is a reason why it is called a bootcamp.  In the military, during the constant times of physical misery, you can turn your brain off.  You cannot do that at a coding bootcamp, and the stress of pushing your brain to the max for prolonged periods of time is just as tiring.
+I am a military veteran, and I attended one of the hardest bootcamps at Ft. Benning Infantry OSUT.  Take it from someone who went to a real bootcamp:  a coding bootcamp is just as hard.  In the military, during the constant times of physical misery, you can turn your brain off.  You cannot do that at a coding bootcamp, and the stress of pushing your brain to the max for prolonged periods of time is just as tiring.
 
 Study.  How many times have I used the word `study` in this guide?  =D
 
 # Job Search
 
-Congratulations!  You have just reached the starting line!  The real challenge begins now.  Okay, you learned some basic web development concepts.  Here are the topics you should have basic understanding of:
+Congratulations!  You just finished your coding bootcamp, and you have just reached the starting line!  The real challenge begins now.  Here are the topics you should have basic understanding of:
 
 * Web application architecture
   * Front-end framework (React+Redux)
@@ -158,11 +158,11 @@ You are not trying to get on Shark Tank.  You are a coder, and it is not your jo
 
 This is purely a numbers game.
 
-During WW2, there was a study conducted in finding the factor that caused the most casualty.  It was not the training.  It was not the equipment either.  It was simply the number of bullets fired.  The same approach works very well in the job search.
+During WW2, there was a study conducted in finding the factor that produced the most casualty.  It was not the training.  It was not the equipment either.  It was simply the number of bullets fired.  The same approach works very well in the job search.
 
 Your goal is to apply to 8 companies a day.  Dedicate your morning and early afternoon (and work on your portfolio project or study Algo&DS in the afternoon).  Split your piles into two:  a copy-paste pile for the companies you aren't interested in, and an interested pile where you will spend time crafting your cover letter.
 
-Apply for every single entry/mid-level positions.  Never reject yourself from the company.  You have absolutely no idea what the company is looking for.
+Apply for every single entry/mid-level positions.  Never reject yourself from the company.  You have no idea what the company is looking for.
 
 This is the most difficult phase.  You will have heartbreaks.  You will go for weeks without hearing back from anywhere.  You will question yourself whether you are really hireable or not.  Keep going and keep improving yourself.
 

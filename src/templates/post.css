@@ -3,8 +3,15 @@
   max-width: 800;
 }
 
-.post a:hover {
+.post a {
   text-decoration: underline;
+  transition: 0.25s opacity ease-out;
+  opacity: 1;
+}
+
+.post a:hover {
+  transition: 0.25s opacity ease-in;
+  opacity: 0.7;
 }
 
 .post-meta {
@@ -15,6 +22,10 @@
 
 .post img {
   margin: 0 auto;
+}
+
+.post li > p {
+  margin-bottom: -0.7rem;
 }
 
 /* TABLET */
