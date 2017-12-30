@@ -1,0 +1,2 @@
+webpackJsonp([0x942234b860cf],{397:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/algorithms-data-structures"},excerpt:"",timeToRead:1,frontmatter:{title:"Algorithms & Data Structures",tags:["algorithm","data structures"],cover:"/covers/algorithm.png",date:"2017-12-26"}}}]}},pathContext:{tag:"data structures"}}}});
+//# sourceMappingURL=path---tags-data-structures-c3bdca853cc3c9c752bd.js.map

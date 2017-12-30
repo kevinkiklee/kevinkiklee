@@ -14,7 +14,7 @@ Is it possible to become a software engineer from 0 in 6 months?  Yes, I have ta
 
 I disagree with the myth that everyone can become a developer.  This is a marketing ploy.  Coding is hard.  To become job-ready in 6 months is a daunting task.  Be prepared to work.  I studied 12 to 14 hours every single day for 6 months.  That is the key theme throughout this article: **You must study**.  There is no shortcut to the process.
 
-To get started, I highly suggest attending a coding bootcamp.  It is very hard to become a developer in a condensed period of time without participitating in an accelerator program.  That's all a coding bootcamp is: a means to accelerate the process, but it is still a challenging task.  It is not some magical institution where you show up, and suddenly you are given a job.
+To get started, I highly suggest attending a coding bootcamp.  It is very hard to become a developer in a condensed period of time without participating in an accelerator program.  That's all a coding bootcamp is: a means to accelerate the process, but it is still a challenging task.  It is not some magical institution where you show up, and suddenly you are given a job.
 
 The guide has two sections:
 
@@ -27,11 +27,11 @@ The entire process should take approximately 6 months.  The actionable items are
 
 # Coding Bootcamp
 
-This guide is not a coding bootcamp promotion article.  A bootcamp is just the optimal path, but it is absolutely possible to achieve the same goal through self-learning.  However, expect it to be significantly more dificult, and it will require a much longer period of time.  Self-learning is a topic I would like to write about in the future.  If you have the means, including money, housing and time, I recommend attending a good coding bootcamp.
+This guide is not a coding bootcamp promotion article.  A bootcamp is just the optimal path, but it is absolutely possible to achieve the same goal through self-learning.  However, expect it to be significantly more difficult, and it will require a much longer period of time.  Self-learning is a topic I would like to write about in the future.  If you have the means, including money, housing and time, I recommend attending a good coding bootcamp.
 
 ## Choosing the right coding bootcamp
 
-CS graduates, coding bootcampers and self-lerners have flooded the market.  Your job application will get lost in the sea of applications.  You want to attend a bootcamp that will prepare you well for the challenges ahead.
+CS graduates, coding bootcampers and self-learners have flooded the market.  Your job application will get lost in the sea of applications.  You want to attend a bootcamp that will prepare you well for the challenges ahead.
 
 Right off the bat, ignore the ones without a selection process.  Not everyone can become job-ready in 6 months.  There must be a filter to keep the quality of the curriculum at a high level.  Also, look for a program that removes students if they cannot keep up.
 
@@ -55,13 +55,15 @@ The coding bootcamp should have a prep material.  After finishing FreeCodeCamp a
 
 > **Complete a brief tutorial of the framework taught in the course**
 
-For Rails, [Rails Tutorial](https://www.railstutorial.org/book) is the best guide.  For React, [React.js](https://reactjs.org/tutorial/tutorial.html) tutorials on the main website is the best.  Even if you do not fully understand what is going on, at least copy-paste along to become familiar with the terminologies and the process.  The you will learn better when it's the second time you are looking at the material.  Give yourself the best chance of success.  There are too many coding bootcamp grads.  Ensure that you stand out by studying some of the material beforehand.
+For Rails, [Rails Tutorial](https://www.railstutorial.org/book) is the best guide.  For React, [React.js](https://reactjs.org/tutorial/tutorial.html) tutorial on the official website is great.  Even if you do not fully understand what is going on, at least copy-paste along to become familiar with the terminologies and the process.  You will learn better when it's the second time you are looking at the material.
+
+This is not something extra you should do.  This is mandatory.  There are too many coding bootcamp grads.  Ensure that you stand out by studying the material beforehand.  Give yourself the best chance of success.  This action item has a very high return on investment.
 
 ## Attending a coding bootcamp
 
 Study.  Dedicate the next 3 months of your life to nothing but studying.  How many times have I used the word `study` in this guide?  =D
 
-I am a military veteran, and I attended one of the hardest bootcamps at Ft. Benning Infantry Basic Combat Training.  Take it from someone who went to a real bootcamp:  a coding bootcamp is just as hard.  In the military, during the constant times of physical misery, you can turn your brain off.  You cannot do that at a coding bootcamp, and the stress of pushing your brain to the limit for prolonged hours is just as tiring.  Eat well and sleep well.
+I am a military veteran, and I attended the hardest Army bootcamp at Infantry Basic Combat Training in Ft. Benning, Georgia.  Take it from someone who went to a real bootcamp:  a coding bootcamp is just as hard.  In the military, during the constant times of physical misery, you can turn your brain off.  You cannot do that at a coding bootcamp, and the stress of pushing your brain to the limit for prolonged hours is just as tiring.  Eat well and sleep well.
 
 # Job Search
 
@@ -86,7 +88,7 @@ Here are the topics you should have basic understanding of:
   * DOM traversal and manipulation
 
 * CS fundamentals
-  * Time and space Complexity i.e. `O(n)`
+  * Time and space complexity i.e. `O(n)`
   * Object-oriented programming
   * Recursion
 
@@ -96,7 +98,7 @@ Here are the topics you should have basic understanding of:
   * Test-driven development
   * How to Google
 
-The above is the bare minimum.  If you do not have a general grasp of the above tiny list, solidy your knowledge.  You will be talking about these subjects at your interviews.
+The above is the bare minimum.  If you do not have a general grasp of the above tiny list, solidify your knowledge.  You will be talking about these subjects at your interviews.
 
 ## Build
 
