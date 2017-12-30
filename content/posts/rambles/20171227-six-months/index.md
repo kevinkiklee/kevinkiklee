@@ -8,18 +8,25 @@ tags:
   - guide
 ---
 
-This guide is focused on providing actionable items that will increase your chance of attaining the entry-level software engineer position for $90k-$110k average salary within 6 months.
+This guide is focused on providing actionable items that will increase your chance of attaining an entry-level software engineer position for $90k-$110k average salary within 6 months at one of the following companies:
+
+> Google, Facebook, Amazon, Spotify, Netflix, Hulu, Slack, AirBnB, Box, DataDog, Meetup, Bonobos, Zola, Foursquare, SeatGeek, JP Morgan, Nasdaq, AMEX, The New York Times, Condé Nast, Buzzfeed, Vox, Flatiron Health, Oscar Health, Quartet Health, AppNexus, Addepar, MediaMath, HelloFresh, Plated, Boxed, or similar.
+>
+> *Please note that the above list is formulated from my knowledge of NYC only.*
 
 Is it possible to become a software engineer from 0 in 6 months?  Yes, I have taken this path, and I come from a very non-traditional background.
 
-I disagree with the myth that everyone can become a developer.  This is a marketing ploy.  Coding is hard.  To become job-ready in 6 months is a daunting task.  Be prepared to work.  I studied 12 to 14 hours every single day for 6 months.  That is the key theme throughout this article: **You must study**.  There is no shortcut to the process.
+I highly suggest attending a coding bootcamp.  It is hard to become a developer in a condensed period of time without participating in an accelerator program.  That's all a coding bootcamp is: a means to accelerate the process, but it is still a challenging task.  It is not some magical institution where you show up, and suddenly you are given a job.
 
-To get started, I highly suggest attending a coding bootcamp.  It is very hard to become a developer in a condensed period of time without participating in an accelerator program.  That's all a coding bootcamp is: a means to accelerate the process, but it is still a challenging task.  It is not some magical institution where you show up, and suddenly you are given a job.
+The above list contains the companies that have hired coding bootcampers, and I personally know many in those companies.
+
+Coding is hard.  To become job-ready in 6 months for a top-tier company is a daunting task.  Be prepared to work.  I studied 12 to 14 hours every single day for 6 months.  That is the key theme throughout this article: **You must study**.  There is no shortcut to the process.
 
 The guide has two sections:
 
 * #### Coding Bootcamp
   The first section is geared towards someone who is interested in entering the field.  This section will describe how to start the process.
+
 * #### Job Search
   The second section is for someone who has just finished a coding bootcamp, and is actively seeking a job.  This section provides you with concrete guidelines on what you have to study and build.
 
@@ -194,7 +201,7 @@ This is purely a numbers game.
 
 During WW2, there was a study conducted in finding the factor that produced the most casualties.  It was not the training.  It was not the equipment either.  It was simply the number of bullets fired.  The same approach works very well in the job search.
 
-Your goal is to apply to 8 companies a day.  Dedicate your morning and early afternoon (and work on your portfolio project or study Algo&DS in the afternoon).  Split your piles into two:  a copy-paste pile for the companies you aren't interested in, and an interested pile where you will spend time crafting your cover letter.
+Your goal is to apply to 8 companies a day.  Dedicate your morning to submitting applications, then work on your portfolio project or study Algo&DS in the afternoon.  Split your piles into two:  a copy-paste pile for the companies you aren't interested in, and an interested pile where you will spend time crafting your cover letter (like one of the companies listed above).
 
 Apply to every single entry/mid-level positions.  Never reject yourself from the company.  You have no idea what the company is looking for.
 
