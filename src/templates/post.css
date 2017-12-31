@@ -11,7 +11,6 @@
 
 .post a:hover {
   transition: 0.25s opacity ease-in;
-  opacity: 0.7;
 }
 
 .post-meta {
