@@ -5,7 +5,8 @@
 }
 
 .main-container {
-  margin-top: 75px;
+  top: 75px;
+  position: relative;
   min-height: calc(100vh - 108px);
   background-color: #fdfaf6;
 }
@@ -40,7 +41,7 @@
   }
 
   .main-container {
-    margin-top: 50px;
+    top: 50px;
   }
 
   .page-container {
@@ -64,7 +65,7 @@
   }
 
   .main-container {
-    margin-top: 40px;
+    top: 40px;
   }
 
   .page-container {

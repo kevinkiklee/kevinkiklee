@@ -1,2 +1,0 @@
-webpackJsonp([44063592670729],{377:function(t,a){t.exports={data:{markdownRemark:{html:"",timeToRead:1,excerpt:"",frontmatter:{title:"Algorithms & Data Structures",cover:"/covers/algorithm.png",date:"2017-12-26",category:"algods",tags:["algorithm","data structures"]},fields:{slug:"/algorithms-data-structures"}}},pathContext:{slug:"/algorithms-data-structures",path:"/algods/algorithms-data-structures"}}}});
-//# sourceMappingURL=path---algods-algorithms-data-structures-504107d6e7ff294a3170.js.map
