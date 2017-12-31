@@ -213,7 +213,7 @@ You are competing against hundreds of other coding bootcamp grads for the same p
 
 True story:  I was at an on-site for an amazing company.  After the phone screen, they told me they were going to ask me an architecture question at the on-site.  I was concerned.  I knew nothing about the subject, and there was to be absolutely no BS-ing allowed since my interviewer was a MIT CS grad.  I frantically Googled trying to learn this substantial subject over a weekend (*lol*).
 
-Then I finally came across this article:  [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) (Chapter 1 of the book).  I read it several that weekend, and attempted my best to digest the material.  I whiteboarded what I learned to a friend twice.  It worked.  I was asked *"How would you design a multiplayer tic tac toe game for 10 million users per month?"*.  I applied the concepts learned from the article to solve the problem.  And I got the offer.
+Then I finally came across this article:  [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html) (Chapter 1 of the book).  I read it several times that weekend, and attempted my best to digest the material.  I whiteboarded what I learned to a friend twice.  It worked.  I was asked *"How would you design a multiplayer tic tac toe game for 10 million users per month?"*.  I applied the concepts learned from the article to solve the problem.  And I got the offer.
 
 Use the above article as the starting point, and start Googling each concept.
 
