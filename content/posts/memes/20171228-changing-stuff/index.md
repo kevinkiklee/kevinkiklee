@@ -11,4 +11,4 @@ tags:
 
 ![Changing stuff](https://kevinkiklee.com/images/changing-stuff.jpg)
 
-90% of my day is spent on Googling stuff and just clicking things until something happens.
+This is pretty much about 90% of my day.  And Googling.
