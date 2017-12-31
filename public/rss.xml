@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[I have no idea what I am doing]]></title><description><![CDATA[Coding blog focused on algorithms & data structures, breaking into the software engineering industry, random ramblings about code, and of course, memes.]]></description><link>https://kevinkiklee.com</link><image><url>https://kevinkiklee.com/logos/logo-512.png</url><title>I have no idea what I am doing</title><link>https://kevinkiklee.com</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Sun, 31 Dec 2017 21:35:46 GMT</lastBuildDate><atom:link href="https://kevinkiklee.com/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Kevin K. Lee]]></author><copyright><![CDATA[Copyright © 2018]]></copyright><item><title><![CDATA[Conflicting emotions]]></title><description><![CDATA[Should I celebrate or be concerned?]]></description><link>https://kevinkiklee.com/conflicting-emotions</link><guid isPermaLink="false">https://kevinkiklee.com/conflicting-emotions</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Sun, 31 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bug-fix-0f8810e572e18a942505eefda2c4c726-0d877.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[I have no idea what I am doing]]></title><description><![CDATA[Coding blog focused on algorithms & data structures, breaking into the software engineering industry, random ramblings about code, and of course, memes.]]></description><link>https://kevinkiklee.com</link><image><url>https://kevinkiklee.com/logos/logo-512.png</url><title>I have no idea what I am doing</title><link>https://kevinkiklee.com</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Sun, 31 Dec 2017 22:55:35 GMT</lastBuildDate><atom:link href="https://kevinkiklee.com/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Kevin K. Lee]]></author><copyright><![CDATA[Copyright © 2018]]></copyright><item><title><![CDATA[Conflicting emotions]]></title><description><![CDATA[Should I celebrate or be concerned?]]></description><link>https://kevinkiklee.com/conflicting-emotions</link><guid isPermaLink="false">https://kevinkiklee.com/conflicting-emotions</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Sun, 31 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
     style=&quot;position: relative; display: block; ; max-width: 368px; margin-left: auto; margin-right: auto;&quot;
@@ -20,25 +12,15 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Bug fixing&quot;
         title=&quot;&quot;
-        src=&quot;/static/bug-fix-0f8810e572e18a942505eefda2c4c726-0d877.jpg&quot;
-        srcset=&quot;/static/bug-fix-0f8810e572e18a942505eefda2c4c726-b135d.jpg 200w,
-/static/bug-fix-0f8810e572e18a942505eefda2c4c726-0d877.jpg 368w&quot;
+        src=&quot;/static/bug-fix-0f8810e572e18a942505eefda2c4c726-8f8bd.jpg&quot;
+        srcset=&quot;/static/bug-fix-0f8810e572e18a942505eefda2c4c726-87f76.jpg 200w,
+/static/bug-fix-0f8810e572e18a942505eefda2c4c726-8f8bd.jpg 368w&quot;
         sizes=&quot;(max-width: 368px) 100vw, 368px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+  &lt;/p&gt;
 &lt;p&gt;Should I celebrate or be concerned?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The 5 stages of debugging]]></title><description><![CDATA[The solution is always  rm -rf node_modules]]></description><link>https://kevinkiklee.com/the-5-stages-of-debugging</link><guid isPermaLink="false">https://kevinkiklee.com/the-5-stages-of-debugging</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Sun, 31 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/debugging-ac8a2ef5938cb74ab88940197fef40a0-8fb5b.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
     style=&quot;position: relative; display: block; ; max-width: 726px; margin-left: auto; margin-right: auto;&quot;
@@ -52,17 +34,15 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;The 5 stages of debugging&quot;
         title=&quot;&quot;
-        src=&quot;/static/debugging-ac8a2ef5938cb74ab88940197fef40a0-8fb5b.jpg&quot;
-        srcset=&quot;/static/debugging-ac8a2ef5938cb74ab88940197fef40a0-82b5f.jpg 200w,
-/static/debugging-ac8a2ef5938cb74ab88940197fef40a0-2c76e.jpg 400w,
-/static/debugging-ac8a2ef5938cb74ab88940197fef40a0-8fb5b.jpg 726w&quot;
+        src=&quot;/static/debugging-ac8a2ef5938cb74ab88940197fef40a0-bb14e.jpg&quot;
+        srcset=&quot;/static/debugging-ac8a2ef5938cb74ab88940197fef40a0-239b6.jpg 200w,
+/static/debugging-ac8a2ef5938cb74ab88940197fef40a0-83e35.jpg 400w,
+/static/debugging-ac8a2ef5938cb74ab88940197fef40a0-bb14e.jpg 726w&quot;
         sizes=&quot;(max-width: 726px) 100vw, 726px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;
+  &lt;/p&gt;
 &lt;p&gt;The solution is always &lt;code&gt;rm -rf node_modules&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Algorithms & Data Structures]]></title><description><![CDATA[The goal of studying these fundamentals is to write code that utilizes the right data structure with an acceptable time and space complexity…]]></description><link>https://kevinkiklee.com/algorithms-data-structures</link><guid isPermaLink="false">https://kevinkiklee.com/algorithms-data-structures</guid><category><![CDATA[algorithm]]></category><category><![CDATA[data structures]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Sat, 30 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The goal of studying these fundamentals is to write code that utilizes the right data structure with an acceptable time and space complexity.&lt;/p&gt;
 &lt;p&gt;You will most likely never implement a heap nor a heapsort.  However, when you are studying &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop&quot;&gt;JavaScript Concurrency Model and Event Loop&lt;/a&gt; on MDN, and there is a big square that just says &quot;Heap&quot;, you need to understand what that represents.&lt;/p&gt;
 &lt;p&gt;Understanding algorithms is fundamental to what we do.  It is not some abstract concept that you learn from a heavy textbook.  An algorithm is simply a set of instructions to perform a task.&lt;/p&gt;
@@ -142,7 +122,8 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Please follow me on &lt;a href=&quot;https://twitter.com/kevinkiklee&quot;&gt;Twitter&lt;/a&gt; to find out when they are published!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to become a software engineer in 6 months]]></title><description><![CDATA[This guide is geared towards the readers that want to switch their careers in a short period of time through a coding bootcamp, and it…]]></description><link>https://kevinkiklee.com/how-to-become-a-software-engineer-in-6-months</link><guid isPermaLink="false">https://kevinkiklee.com/how-to-become-a-software-engineer-in-6-months</guid><category><![CDATA[guide]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Thu, 28 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This guide is geared towards the readers that want to switch their careers in a short period of time through a coding bootcamp, and it contains actionable items that will increase your chance of attaining an entry-level software engineer position for $90k-$110k average salary within 6 months at one of the following companies or similar in NYC or SF:&lt;/p&gt;
+&lt;p&gt;Please follow me on &lt;a href=&quot;https://twitter.com/kevinkiklee&quot;&gt;Twitter&lt;/a&gt; to find out when they are published!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What I really do at work]]></title><description><![CDATA[This is pretty much about 90% of my day.  And Googling.]]></description><link>https://kevinkiklee.com/what-i-really-do-at-work</link><guid isPermaLink="false">https://kevinkiklee.com/what-i-really-do-at-work</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Thu, 28 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/changing-stuff.jpg&quot; alt=&quot;Changing stuff&quot;&gt;&lt;/p&gt;
+&lt;p&gt;This is pretty much about 90% of my day.  And Googling.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to become a software engineer in 6 months]]></title><description><![CDATA[This guide is geared towards the readers that want to switch their careers in a short period of time through a coding bootcamp, and it…]]></description><link>https://kevinkiklee.com/how-to-become-a-software-engineer-in-6-months</link><guid isPermaLink="false">https://kevinkiklee.com/how-to-become-a-software-engineer-in-6-months</guid><category><![CDATA[guide]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Thu, 28 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This guide is geared towards the readers that want to switch their careers in a short period of time through a coding bootcamp, and it contains actionable items that will increase your chance of attaining an entry-level software engineer position for $90k-$110k average salary within 6 months at one of the following companies or similar in NYC or SF:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Google, Facebook, Amazon, Spotify, Netflix, Hulu, Slack, AirBnB, Box, DataDog, Meetup, Bonobos, Zola, Foursquare, SeatGeek, JP Morgan, Nasdaq, AMEX, The New York Times, Condé Nast, Buzzfeed, Vox, Flatiron Health, Oscar Health, Quartet Health, AppNexus, Addepar, MediaMath, HelloFresh, Plated, Boxed, and more similar companies.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Please note that the above list is formulated from my limited knowledge of the companies that have hired coding bootcamp graduates in NYC.&lt;/em&gt;&lt;/p&gt;
@@ -353,8 +334,7 @@
 &lt;p&gt;&lt;strong&gt;Apply to at least 40 companies a week&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&quot;have-fun&quot;&gt;&lt;a href=&quot;#have-fun&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Have Fun!&lt;/h1&gt;
-&lt;p&gt;I hope this guide can provide some structure to your journey.  This guide is currently under construction, and will be constantly receiving updates.  If you would like to be notified when the final version is published please follow me on &lt;a href=&quot;https://twitter.com/kevinkiklee&quot;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What I really do at work]]></title><description><![CDATA[This is pretty much about 90% of my day.  And Googling.]]></description><link>https://kevinkiklee.com/what-i-really-do-at-work</link><guid isPermaLink="false">https://kevinkiklee.com/what-i-really-do-at-work</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Thu, 28 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/changing-stuff.jpg&quot; alt=&quot;Changing stuff&quot;&gt;&lt;/p&gt;
-&lt;p&gt;This is pretty much about 90% of my day.  And Googling.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I have no idea what I am doing]]></title><description><![CDATA[I have just started in the field, and I have realized very quickly that I have no idea what I am doing, and I imagine that I will feel this…]]></description><link>https://kevinkiklee.com/i-have-no-idea-what-i-am-doing</link><guid isPermaLink="false">https://kevinkiklee.com/i-have-no-idea-what-i-am-doing</guid><category><![CDATA[ramble]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Wed, 27 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/no-idea.jpg&quot; alt=&quot;Dog no idea&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I hope this guide can provide some structure to your journey.  This guide is currently under construction, and will be constantly receiving updates.  If you would like to be notified when the final version is published please follow me on &lt;a href=&quot;https://twitter.com/kevinkiklee&quot;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I have no idea what I am doing]]></title><description><![CDATA[I have just started in the field, and I have realized very quickly that I have no idea what I am doing, and I imagine that I will feel this…]]></description><link>https://kevinkiklee.com/i-have-no-idea-what-i-am-doing</link><guid isPermaLink="false">https://kevinkiklee.com/i-have-no-idea-what-i-am-doing</guid><category><![CDATA[ramble]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Wed, 27 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/no-idea.jpg&quot; alt=&quot;Dog no idea&quot;&gt;&lt;/p&gt;
 &lt;p&gt;I have just started in the field, and I have realized very quickly that I have no idea what I am doing, and I imagine that I will feel this way for the rest of my life.  I am specifically interested in what a programming language is and what it can do.  I realize that there will be no end, and at no point, I will have a clue of what is going on.  Therefore, I have accepted a simple truth that I will never actually understand what I am doing at any given point of time.&lt;/p&gt;
 &lt;p&gt;I have been fortunate to enter the software engineering industry from a very non-traditional background.  I would like to share this knowledge on how to get your first software engineer job.  Quick answer?  I studied 12-14 hours every single day for 6 months.  Well, it is a little more involved than that, and I want to write a helpful and actionable guide.  A part of the process is understanding the fundamentals of key algorithms and data structures.  The process is not easy.&lt;/p&gt;
 &lt;p&gt;Also, this blog is a documentation of my growth for my own purposes.  A year from now, I imagine I will be laughing hard at my own ignorance.  And again the year after that, and it goes on.&lt;/p&gt;
@@ -364,14 +344,6 @@
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Quicksort]]></title><description><![CDATA[Coming Soon! Meanwhile, here is a picture of a cat:]]></description><link>https://kevinkiklee.com/quicksort</link><guid isPermaLink="false">https://kevinkiklee.com/quicksort</guid><category><![CDATA[algorithm]]></category><category><![CDATA[sort]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Coming Soon!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Meanwhile, here is a picture of a cat:&lt;/p&gt;
 &lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/beep-boop-042de2769837295140b5a8cbb5ca588a-af5dd.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-  
   &lt;span
     class=&quot;gatsby-resp-image-wrapper&quot;
     style=&quot;position: relative; display: block; ; max-width: 450px; margin-left: auto; margin-right: auto;&quot;
@@ -385,21 +357,19 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;I are programmer beep boop&quot;
         title=&quot;&quot;
-        src=&quot;/static/beep-boop-042de2769837295140b5a8cbb5ca588a-af5dd.jpg&quot;
-        srcset=&quot;/static/beep-boop-042de2769837295140b5a8cbb5ca588a-57548.jpg 200w,
-/static/beep-boop-042de2769837295140b5a8cbb5ca588a-d0067.jpg 400w,
-/static/beep-boop-042de2769837295140b5a8cbb5ca588a-af5dd.jpg 450w&quot;
+        src=&quot;/static/beep-boop-042de2769837295140b5a8cbb5ca588a-7dd57.jpg&quot;
+        srcset=&quot;/static/beep-boop-042de2769837295140b5a8cbb5ca588a-5e149.jpg 200w,
+/static/beep-boop-042de2769837295140b5a8cbb5ca588a-46b82.jpg 400w,
+/static/beep-boop-042de2769837295140b5a8cbb5ca588a-7dd57.jpg 450w&quot;
         sizes=&quot;(max-width: 450px) 100vw, 450px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
-  
-  &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two states of every programmer]]></title><description><![CDATA[Just kidding, god is dead.]]></description><link>https://kevinkiklee.com/two-states-of-every-programmer</link><guid isPermaLink="false">https://kevinkiklee.com/two-states-of-every-programmer</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/two-states.jpg&quot; alt=&quot;Two states of every programmer&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Just kidding, god is dead.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Friday is the best day to deploy]]></title><description><![CDATA[Guaranteed to go smoothly without a heartache]]></description><link>https://kevinkiklee.com/friday-is-the-best-day-to-deploy</link><guid isPermaLink="false">https://kevinkiklee.com/friday-is-the-best-day-to-deploy</guid><category><![CDATA[meme]]></category><category><![CDATA[horror]]></category><category><![CDATA[dog]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/friday-deployments.jpg&quot; alt=&quot;Friday is the best day to deploy&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Guaranteed to go smoothly without a heartache&lt;/p&gt;</content:encoded></item><item><title><![CDATA[It works...why?]]></title><description><![CDATA[You learn just as much going down this rabbit hole.]]></description><link>https://kevinkiklee.com/it-works-why</link><guid isPermaLink="false">https://kevinkiklee.com/it-works-why</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/it-works-why.jpg&quot; alt=&quot;It works why&quot;&gt;&lt;/p&gt;
-&lt;p&gt;You learn just as much going down this rabbit hole.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Yes, I am a software engineer]]></title><description><![CDATA[It's been about a year since I started coding.  I still have no idea what the hell I am doing.]]></description><link>https://kevinkiklee.com/yes-i-am-a-software-engineer</link><guid isPermaLink="false">https://kevinkiklee.com/yes-i-am-a-software-engineer</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/yes-i-am-a-software-engineer.jpg&quot; alt=&quot;Yes, I am a software engineer&quot;&gt;&lt;/p&gt;
-&lt;p&gt;It&apos;s been about a year since I started coding.  I still have no idea what the hell I am doing.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About Kevin]]></title><description><![CDATA[Hello! My name is Kevin, and I am a software engineer in NYC. You can find more about me here: Twitter GitHub LinkedIn Feel free to reach…]]></description><link>https://kevinkiklee.com/about-kevin</link><guid isPermaLink="false">https://kevinkiklee.com/about-kevin</guid><category><![CDATA[kevin]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 05:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/logos/logo.png&quot; alt=&quot;Site logo&quot;&gt;&lt;/p&gt;
+  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Yes, I am a software engineer]]></title><description><![CDATA[It's been about a year since I started coding.  I still have no idea what the hell I am doing.]]></description><link>https://kevinkiklee.com/yes-i-am-a-software-engineer</link><guid isPermaLink="false">https://kevinkiklee.com/yes-i-am-a-software-engineer</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/yes-i-am-a-software-engineer.jpg&quot; alt=&quot;Yes, I am a software engineer&quot;&gt;&lt;/p&gt;
+&lt;p&gt;It&apos;s been about a year since I started coding.  I still have no idea what the hell I am doing.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Two states of every programmer]]></title><description><![CDATA[Just kidding, god is dead.]]></description><link>https://kevinkiklee.com/two-states-of-every-programmer</link><guid isPermaLink="false">https://kevinkiklee.com/two-states-of-every-programmer</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/two-states.jpg&quot; alt=&quot;Two states of every programmer&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Just kidding, god is dead.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[It works...why?]]></title><description><![CDATA[You learn just as much going down this rabbit hole.]]></description><link>https://kevinkiklee.com/it-works-why</link><guid isPermaLink="false">https://kevinkiklee.com/it-works-why</guid><category><![CDATA[meme]]></category><category><![CDATA[god]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/it-works-why.jpg&quot; alt=&quot;It works why&quot;&gt;&lt;/p&gt;
+&lt;p&gt;You learn just as much going down this rabbit hole.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Friday is the best day to deploy]]></title><description><![CDATA[Guaranteed to go smoothly without a heartache]]></description><link>https://kevinkiklee.com/friday-is-the-best-day-to-deploy</link><guid isPermaLink="false">https://kevinkiklee.com/friday-is-the-best-day-to-deploy</guid><category><![CDATA[meme]]></category><category><![CDATA[horror]]></category><category><![CDATA[dog]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/images/friday-deployments.jpg&quot; alt=&quot;Friday is the best day to deploy&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Guaranteed to go smoothly without a heartache&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About Kevin]]></title><description><![CDATA[Hello! My name is Kevin, and I am a software engineer in NYC. You can find more about me here: Twitter GitHub LinkedIn Feel free to reach…]]></description><link>https://kevinkiklee.com/about-kevin</link><guid isPermaLink="false">https://kevinkiklee.com/about-kevin</guid><category><![CDATA[kevin]]></category><dc:creator><![CDATA[Kevin K. Lee]]></dc:creator><pubDate>Tue, 26 Dec 2017 05:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://kevinkiklee.com/logos/logo.png&quot; alt=&quot;Site logo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Hello!&lt;/p&gt;
 &lt;p&gt;My name is Kevin, and I am a software engineer in NYC.&lt;/p&gt;
 &lt;p&gt;You can find more about me here:&lt;/p&gt;
