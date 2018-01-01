@@ -1,0 +1,2 @@
+webpackJsonp([0x942234b860cf],{401:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/algorithms-data-structures"},excerpt:"The goal of studying these fundamentals is to write code that utilizes the right data structure with an acceptable time and space complexity…",timeToRead:2,frontmatter:{title:"Algorithms & Data Structures",tags:["algorithm","data structures"],cover:"/covers/algorithm.png",date:"2017-12-30"}}}]}},pathContext:{tag:"data structures"}}}});
+//# sourceMappingURL=path---tags-data-structures-782aad30d883bacf7d86.js.map

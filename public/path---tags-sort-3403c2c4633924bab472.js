@@ -1,0 +1,2 @@
+webpackJsonp([0x8e5c198ee570],{409:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/quicksort"},excerpt:"Coming Soon! Meanwhile, here is a picture of a cat:",timeToRead:1,frontmatter:{title:"Quicksort",tags:["algorithm","sort"],cover:"/covers/sort-ascend.png",date:"2017-12-26"}}}]}},pathContext:{tag:"sort"}}}});
+//# sourceMappingURL=path---tags-sort-3403c2c4633924bab472.js.map

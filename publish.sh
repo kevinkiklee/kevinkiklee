@@ -1,3 +1,6 @@
+read -p '*** Enter the commit message: ' commitMsg
+echo Your commit message is: $commitMsg
+
 echo '=== Removing /.cache'
 rm -rf /.cache
 
@@ -6,14 +9,13 @@ rm -rf /public
 
 echo '=== Switching .gitignore'
 rm .gitignore
-mv .gitignore.prod .gitignore
+cp .gitignore.prod .gitignore
 
 echo '=== Building /public'
 npm run deploy
 
-read -p '*** Enter the commit message: ', commitMsg
-echo Your commit message is: $commitMsg
-
 git add .
-git commit -m $commitMsg
-git push gh-pages origin --force
+echo $commitMsg | git commit -F -
+git push origin gh-pages --force
+
+echo Successfully published: $commitMsg
