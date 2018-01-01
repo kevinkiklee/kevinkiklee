@@ -7,9 +7,9 @@ rm -rf /.cache
 echo '=== Removing /public'
 rm -rf /public
 
-echo '=== Switching .gitignore'
-rm .gitignore
-cp .gitignore.prod .gitignore
+# echo '=== Switching .gitignore'
+# rm .gitignore
+# cp .gitignore.prod .gitignore
 
 echo '=== Building /public'
 npm run deploy
