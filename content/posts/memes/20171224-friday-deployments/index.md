@@ -10,6 +10,6 @@ tags:
     - dog
 ---
 
-![Friday is the best day to deploy](https://kevinkiklee.com/images/friday-deployments.jpg)
+![Friday is the best day to deploy](friday-deployments.jpg)
 
 Guaranteed to go smoothly without a heartache
