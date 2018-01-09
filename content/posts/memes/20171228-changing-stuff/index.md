@@ -9,6 +9,6 @@ tags:
     - god
 ---
 
-![Changing stuff](https://kevinkiklee.com/images/changing-stuff.jpg)
+![Changing stuff](changing-stuff.jpg)
 
 This is pretty much about 90% of my day.  And Googling.

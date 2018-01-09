@@ -17,6 +17,7 @@ class PostList extends React.Component {
         tags: postEdge.node.frontmatter.tags,
         cover: postEdge.node.frontmatter.cover,
         title: postEdge.node.frontmatter.title,
+        summary: postEdge.node.frontmatter.summary,
         date: postEdge.node.frontmatter.date,
         time: postEdge.node.frontmatter.time,
         excerpt: postEdge.node.excerpt,
@@ -53,7 +54,7 @@ class PostList extends React.Component {
             <h3>{post.title}</h3>
             <h6>{`${daysAgo} | ${datePublished}`}</h6>
             <p className='post-list__post__excerpt'>
-              {post.excerpt}
+              {post.summary || post.excerpt}
             </p>
           </div>
           {post.isSticky && (

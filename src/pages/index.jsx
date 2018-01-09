@@ -7,7 +7,7 @@ import './index.css'
 
 class Index extends React.Component {
   render() {
-    const groupEdges = (edges) => (
+    const groupEdges = edges => (
       edges.reduce((groupedEdges, edge) => {
         if (edge.node.frontmatter.sticky) {
           groupedEdges.sticky.push(edge)
@@ -99,6 +99,7 @@ export const pageQuery = graphql`
           time
           category
           sticky
+          summary
         }
       }
     }
