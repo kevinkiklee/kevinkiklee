@@ -73,14 +73,6 @@ Here are the topics you should have basic understanding of:
   * Test-driven development
   * How to Google
 
-The above is the bare minimum.  If you do not have a general grasp of the above tiny list, solidify your knowledge.  You will be talking about these subjects at your interviews.
-
-You will be asked difficult questions at the interviews.  You do not want to be standing there embarrassed in front of the whiteboard.
-
-Nobody hands out $90k+ out of the goodness of the heart.  They will ask you the same questions they ask fresh CS graduates.  The goal is to impress them: "If someone who only started coding less than half a year ago can answer difficult questions better than someone who studied CS for 4 years, this person must have incredible potential."
-
-The learning does not stop after a coding bootcamp (nor when you get a job).
-
 ### Algorithms & Data Structures
 
 * **Algorithms**
