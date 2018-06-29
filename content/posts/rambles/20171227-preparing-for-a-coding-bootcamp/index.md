@@ -20,7 +20,7 @@ This is Part I.  Part II can be found here: [Finding a job after a coding bootca
 
 ---
 
-This guide is geared towards the readers that want to switch their careers in a short period of time through a coding bootcamp, and it contains actionable items that will increase your chance of attaining an entry-level software engineer position for $90k-$110k average salary within 6 months at one of the following companies or similar in NYC or SF:
+This guide is geared towards the readers that want to switch their careers in a short period of time through a coding bootcamp, and it contains actionable items that will increase your chance of attaining an entry-level software engineer position within 6 months at one of the following companies or similar in NYC or SF:
 
 > Google, Facebook, Amazon, Spotify, Netflix, Hulu, Slack, AirBnB, Box, DataDog, Meetup, Bonobos, Zola, Foursquare, SeatGeek, JP Morgan, Nasdaq, AMEX, The New York Times, Condé Nast, Buzzfeed, Vox, Flatiron Health, Oscar Health, Quartet Health, AppNexus, Addepar, MediaMath, HelloFresh, Plated, Boxed, and more similar companies.
 >
